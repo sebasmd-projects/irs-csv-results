@@ -1,0 +1,5 @@
+BsnssNmLn1Txt|"If the answer to any of lines 1a - 1r is ""Yes,"" provide information on the transaction of the related organization; Name of other organization; Business name line 1"
+BsnssNmLn2Txt|"If the answer to any of lines 1a - 1r is ""Yes,"" provide information on the transaction of the related organization; Name of other organization; Business name line 2"
+TrnsctnTxt|"If the answer to any of lines 1a - 1r is ""Yes,"" provide information on the transaction of the related organization; Transaction type, enter up to five characters"
+InvlvdAmt|"If the answer to any of lines 1a - 1r is ""Yes,"" provide information on the transaction of the related organization; Amount involved ($)"
+MthdOfAmntDtrmntnTxt|"If the answer to any of lines 1a - 1r is ""Yes,"" provide information on the transaction of the related organization; Method of determining amount involved"

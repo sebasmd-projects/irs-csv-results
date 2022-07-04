@@ -1,0 +1,73 @@
+OrgDsNtFllwSFAS117Ind|Organizations that do not follow SFAS 117, check here
+OrgnztnFllwsSFAS117Ind|Organizations that follow SFAS 117, check here
+InfInSkdOPrtXInd|Schedule O contains a response to a question in Part X
+LndBldgEqpCstOrOthrBssAmt|Land, buildings, and equipment basis
+LndBldgEqpAccmDprcAmt|Less: accumulated depreciation
+LndBldgEqpBssNt_BOYAmt|Land, buildings, and equipment basis net; Beginnning of year
+LndBldgEqpBssNt_EOYAmt|Land, buildings, and equipment basis net; Ending of year
+InvstmntsPbTrddSc_BOYAmt|Investments publicly traded securities; Beginnning of year
+InvstmntsPbTrddSc_EOYAmt|Investments publicly traded securities; Ending of year
+InvstmntsOthrScrts_BOYAmt|Investments other securities; Beginnning of year
+InvstmntsOthrScrts_EOYAmt|Investments other securities; Ending of year
+InvstmntsPrgrmRltd_BOYAmt|Investments-program related; Beginnning of year
+InvstmntsPrgrmRltd_EOYAmt|Investments-program related; Ending of year
+IntngblAssts_BOYAmt|Intangible assets; Beginnning of year
+IntngblAssts_EOYAmt|Intangible assets; Ending of year
+OthrAsstsTtl_BOYAmt|Other assets; Beginnning of year
+OthrAsstsTtl_EOYAmt|Other assets; Ending of year
+TtlAssts_BOYAmt|Total assets; Beginnning of year
+TtlAssts_EOYAmt|Total assets; Ending of year
+AccntsPyblAccrExpnss_BOYAmt|Accounts payable and accrued expenses; Beginnning of year
+AccntsPyblAccrExpnss_EOYAmt|Accounts payable and accrued expenses; Ending of year
+GrntsPybl_BOYAmt|Grants payable; Beginnning of year
+GrntsPybl_EOYAmt|Grants payable; Ending of year
+DfrrdRvn_BOYAmt|Deferred revenue; Beginnning of year
+DfrrdRvn_EOYAmt|Deferred revenue; Ending of year
+CshNnIntrstBrng_BOYAmt|Cash - Non interest bearing; Beginnning of year
+CshNnIntrstBrng_EOYAmt|Cash - Non interest bearing; Ending of year
+TxExmptBndLblts_BOYAmt|Tax-exempt bond liabilities; Beginnning of year
+TxExmptBndLblts_EOYAmt|Tax-exempt bond liabilities; Ending of year
+EscrwAccntLblty_BOYAmt|Escrow account liability; Beginnning of year
+EscrwAccntLblty_EOYAmt|Escrow account liability; Ending of year
+LnsFrmOffcrsDrctrs_BOYAmt|Payable to current and former officers, directors, trustees, or key employees; Beginnning of year
+LnsFrmOffcrsDrctrs_EOYAmt|Payable to current and former officers, directors, trustees, or key employees; Ending of year
+MrtgNtsPyblScrdInvstPrp_BOYAmt|Mortgages and notes payable secured by investment property; Beginnning of year
+MrtgNtsPyblScrdInvstPrp_EOYAmt|Mortgages and notes payable secured by investment property; Ending of year
+UnscrdNtsLnsPybl_BOYAmt|Unsecured notes and loans payable; Beginnning of year
+UnscrdNtsLnsPybl_EOYAmt|Unsecured notes and loans payable; Ending of year
+OthrLblts_BOYAmt|Other liabilities; Beginnning of year
+OthrLblts_EOYAmt|Other liabilities; Ending of year
+TtlLblts_BOYAmt|Total liabilities; Beginnning of year
+TtlLblts_EOYAmt|Total liabilities; Ending of year
+UnrstrctdNtAssts_BOYAmt|Unrestricted net assets; Beginnning of year
+UnrstrctdNtAssts_EOYAmt|Unrestricted net assets; Ending of year
+TmprrlyRstrNtAssts_BOYAmt|Temporarily restricted net assets; Beginnning of year
+TmprrlyRstrNtAssts_EOYAmt|Temporarily restricted net assets; Ending of year
+PrmnntlyRstrNtAssts_BOYAmt|Permanently restricted net assets; Beginnning of year
+PrmnntlyRstrNtAssts_EOYAmt|Permanently restricted net assets; Ending of year
+SvngsAndTmpCshInvst_BOYAmt|Savings and temporary cash investments; Beginnning of year
+SvngsAndTmpCshInvst_EOYAmt|Savings and temporary cash investments; Ending of year
+CpStkTrPrnCrrntFnds_BOYAmt|Capital stock or trust principal, or current funds; Beginnning of year
+CpStkTrPrnCrrntFnds_EOYAmt|Capital stock or trust principal, or current funds; Ending of year
+PdInCpSrplsLndBldgEqpFnd_BOYAmt|Paid-in or capital surplus, or land, building or equipment fund; Beginnning of year
+PdInCpSrplsLndBldgEqpFnd_EOYAmt|Paid-in or capital surplus, or land, building or equipment fund; Ending of year
+RtnErnEndwmntIncmOthFnds_BOYAmt|Retained earnings, endowment, accumulated income, or other funds; Beginnning of year
+RtnErnEndwmntIncmOthFnds_EOYAmt|Retained earnings, endowment, accumulated income, or other funds; Ending of year
+TtlNtAsstsFndBlnc_BOYAmt|Total net assets or fund balances; Beginnning of year
+TtlNtAsstsFndBlnc_EOYAmt|Total net assets or fund balances; Ending of year
+TtLbNtAsstsFndBlnc_BOYAmt|Total liabilities and net assets or fund balances; Beginnning of year
+TtLbNtAsstsFndBlnc_EOYAmt|Total liabilities and net assets or fund balances; Ending of year
+PldgsAndGrntsRcvbl_BOYAmt|Pledges and grants receivable, net; Beginnning of year
+PldgsAndGrntsRcvbl_EOYAmt|Pledges and grants receivable, net; Ending of year
+AccntsRcvbl_BOYAmt|Accounts receivable, net; Beginnning of year
+AccntsRcvbl_EOYAmt|Accounts receivable, net; Ending of year
+RcvblsFrmOffcrsEtc_BOYAmt|Receivables from Officers, etc.; Beginnning of year
+RcvblsFrmOffcrsEtc_EOYAmt|Receivables from Officers, etc.; Ending of year
+RcvblFrmDsqlfdPrsn_BOYAmt|Receivables from other disqualified persons; Beginnning of year
+RcvblFrmDsqlfdPrsn_EOYAmt|Receivables from other disqualified persons; Ending of year
+OthNtsLnsRcvblNt_BOYAmt|Other notes and loans receivable net; Beginnning of year
+OthNtsLnsRcvblNt_EOYAmt|Other notes and loans receivable net; Ending of year
+InvntrsFrSlOrUs_BOYAmt|Inventories for sale or use; Beginnning of year
+InvntrsFrSlOrUs_EOYAmt|Inventories for sale or use; Ending of year
+PrpdExpnssDfrdChrgs_BOYAmt|Prepaid expenses and deferred charges; Beginnning of year
+PrpdExpnssDfrdChrgs_EOYAmt|Prepaid expenses and deferred charges; Ending of year

@@ -1,0 +1,11 @@
+BndRfrncCd|Bond Issues; Bond issue reference number (A-D)
+BsnssNmLn2Txt|Bond Issues; Issuer name; Business name line 2
+BsnssNmLn1Txt|Bond Issues; Issuer name; Business name line 1
+BndIssrEIN|Bond Issues; Issuer EIN
+CUSIPNm|Bond Issues; CUSIP number
+BndIssdDt|Bond Issues; Date issued
+IssPrcAmt|Bond Issues; Issue price
+PrpsDsc|Bond Issues; Description of purpose
+DfsdInd|Bond Issues; Defeased?
+OnBhlfOfIssrInd|Bond Issues; On behalf of issuer?
+PlFnncngInd|Bond Issues; Pool financing?
