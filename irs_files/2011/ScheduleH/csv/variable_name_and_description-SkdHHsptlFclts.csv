@@ -1,0 +1,23 @@
+HsptlFclts_WbstAddrssTxt|Part V Section A repeating group; Primary website address of the hospital facility
+HsptlFclts_FcltyRprtngGrpCd|Part V Section A repeating group; Facility reporting group
+BsnssNm_BsnssNmLn1Txt|Part V Section A repeating group; Name, business; Business name line 1
+USAddrss_CtyNm|Part V Section A repeating group; Address - US; City
+USAddrss_AddrssLn1Txt|Part V Section A repeating group; Address - US; Address line 1
+HsptlFclts_RsrchFcltyInd|Part V Section A repeating group; Research facility
+HsptlFclts_FcltyNm|Part V Section A repeating group; Hospital facility number
+HsptlFclts_LcnsdHsptlInd|Part V Section A repeating group; Licensed hospital
+BsnssNm_BsnssNmLn2Txt|Part V Section A repeating group; Name, business; Business name line 2
+HsptlFclts_CrtclAccssHsptlInd|Part V Section A repeating group; Critical Access hospital
+HsptlFclts_EmrgncyRm24HrsInd|Part V Section A repeating group; ER - 24 hours
+HsptlFclts_TchngHsptlInd|Part V Section A repeating group; Teaching hospital
+USAddrss_ZIPCd|Part V Section A repeating group; Address - US; ZIP code
+HsptlFclts_GnrlMdclAndSrgclInd|Part V Section A repeating group; General medical and surgical
+HsptlFclts_EmrgncyRmOthrInd|Part V Section A repeating group; ER - other
+HsptlFclts_SttLcnsNm|Part V Section A repeating group; Hospital facilities state license number
+HsptlFclts_ChldrnsHsptlInd|Part V Section A repeating group; Children's hospital
+HsptlFclts_SbrdntHsptlEIN|Part V Section A repeating group; EIN, subordinate hospital
+SbrdntHsptlNm_BsnssNmLn2Txt|Part V Section A repeating group; Name, subordinate hospital; Business name line 2
+USAddrss_AddrssLn2Txt|Part V Section A repeating group; Address - US; Address line 2
+SbrdntHsptlNm_BsnssNmLn1Txt|Part V Section A repeating group; Name, subordinate hospital; Business name line 1
+USAddrss_SttAbbrvtnCd|Part V Section A repeating group; Address - US; State
+HsptlFclts_OthrDsc|Part V Section A repeating group; Other

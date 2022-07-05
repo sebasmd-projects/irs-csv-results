@@ -1,0 +1,10 @@
+object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxExmptBndsArbtrg_RbtNtDYtInd,TxExmptBndsArbtrg_ExcptnTRbtInd,TxExmptBndsArbtrg_NRbtDInd,TxExmptBndsArbtrg_VrblRtIssInd,TxExmptBndsArbtrg_HdgIdntfdInBksAndRcInd,TxExmptBndsArbtrg_GrssPrcdsInvstdInGICInd,TxExmptBndsArbtrg_GrssPrcdsInvstdInd,TxExmptBndsArbtrg_WrttnPrcTMntrRqsInd
+201602189349300440,386142925,A,0,0,0,1,1,1,PNC BANK NA,10.000000000000,0,0,0,0,0
+201602189349300440,386142925,B,0,0,0,1,1,0,0,0,0
+201622229349301197,540445205,A,false,true,false,false,false,false,true
+201622229349301197,540445205,B,false,true,false,false,false,false,true
+201622229349301197,540445205,C,false,true,false,false,false,false,true
+201622229349301197,540445205,D,false,true,false,false,false,0.0,false,true
+201622239349301852,043372500,A,0,0,0,1,1,0,0,0,1
+201622239349301852,043372500,B,0,1,0,1,1,0,0,0,1
+201632529349301013,596196141,A,0,0,0,0,0,0,0,0,1

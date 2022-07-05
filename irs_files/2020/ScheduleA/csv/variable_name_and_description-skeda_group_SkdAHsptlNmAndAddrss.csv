@@ -1,0 +1,5 @@
+SttAbbrvtnCd|Hospital's name, city, state, or country; US address State
+CntryCd|Hospital's name, city, state, or country; Foreign address Country
+BsnssNmLn2Txt|Hospital's name, city, state, or country; Name; Business name line 2
+BsnssNmLn1Txt|Hospital's name, city, state, or country; Name; Business name line 1
+CtyNm|Hospital's name, city, state, or country; US city or foreign city

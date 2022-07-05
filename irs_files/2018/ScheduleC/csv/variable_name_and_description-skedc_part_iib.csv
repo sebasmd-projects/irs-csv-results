@@ -1,0 +1,21 @@
+VlntrsInd|Volunteers?
+PdStffOrMngmntInd|Paid staff or management?
+MdAdvrtsmntsAmt|Media advertisements amount (only for section 501(c)(3))
+MdAdvrtsmntsInd|Media advertisements?
+MlngsMmbrsInd|Mailings to members, legislators, or to the public?
+MlngsMmbrsAmt|Media advertisements amount (only for section 501(c)(3))
+PblctnsOrBrdcstAmt|Publications, or published or broadcast statements (only for section 501(c)(3))
+PblctnsOrBrdcstInd|Publications, or published or broadcast statements?
+GrntsOthrOrgnztnsInd|Grants to other organizations for lobbying purposes?
+GrntsOthrOrgnztnsAmt|Grants to other organizations for lobbying purposes (only for section 501(c)(3))
+DrctCntctLgsltrsInd|Direct contact with legislators, their staffs, government officials, or a legislative body?
+DrctCntctLgsltrsAmt|Direct contact with legislators, their staffs, government officials, or a legislative body (only for section 501(c)(3))
+RllsDmnstrtnsInd|Rallies, demonstrations, seminars, conventions, speeches, lectures, or any other means?
+RllsDmnstrtnsAmt|Rallies, demonstrations, seminars, conventions, speeches, lectures, or any other means (only for section 501(c)(3))
+OthrActvtsInd|Other activities?
+OthrActvtsAmt|Other activities amount
+TtlLbbyngExpndtrsAmt|Total Line 1c through 1i (only for section 501(c)(3))
+NtDscrbdSctn501c3Ind|Did the activities in line 1 cause the organization to be not described in section 501(c)(3)?
+Tx4912Amt|"If ""Yes,"" enter the amount of any tax incurred under section 4912"
+Mngrs4912TxAmt|"If ""Yes,"" enter the amount of any tax incurred by organization managers under section 4912"
+Frm4720Fld4912TxInd|If the filing organization incurred a section 4912 tax, did it file Form 4720 for this year?

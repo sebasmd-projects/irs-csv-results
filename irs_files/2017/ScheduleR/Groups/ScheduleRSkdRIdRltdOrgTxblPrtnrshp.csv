@@ -1,0 +1,867 @@
+object_id,ein,RltdOrgnztnNm_BsnssNmLn1Txt,USAddrss_AddrssLn1Txt,USAddrss_CtyNm,USAddrss_SttAbbrvtnCd,USAddrss_ZIPCd,IdRltdOrgTxblPrtnrshp_EIN,IdRltdOrgTxblPrtnrshp_PrmryActvtsTxt,IdRltdOrgTxblPrtnrshp_LglDmclSttCd,DrctCntrllngEnttyNm_BsnssNmLn1Txt,IdRltdOrgTxblPrtnrshp_PrdmnntIncmTxt,IdRltdOrgTxblPrtnrshp_ShrOfTtlIncmAmt,IdRltdOrgTxblPrtnrshp_ShrOfEOYAsstsAmt,IdRltdOrgTxblPrtnrshp_DsprprtntAllctnsInd,IdRltdOrgTxblPrtnrshp_GnrlOrMngngPrtnrInd,IdRltdOrgTxblPrtnrshp_OwnrshpPct
+201612439349300026,042964630,SIOCHAIN PROPERTIES LP,143 BORDER STREET,EAST BOSTON,MA,02128,043489643,PROVIDES HOUSING FOR LOW TO MODERATE INCOME INDIVIDUALS/FAMILIES,MA,N/A,N/A,0,1
+201612439349300026,042964630,STEVENS CORNER LP,143 BORDER STREET,EAST BOSTON,MA,02128,271785655,PROVIDE AFFORDABLE HOUSING (42 UNITS) FOR INDIVIDUALS IN NORTH ANDOVER.,MA,N/A,N/A,0,1
+201612439349300026,042964630,BENFIELD FARMS LP,143 BORDER STREET,EAST BOSTON,MA,02128,320398732,"PROVIDE AFFORDABLE HOUSING (26 UNITS) FOR INDIVIDUALS IN CARLISLE, MA.",MA,N/A,N/A,0,1
+201612439349300026,042964630,SITKOWSKI LP,143 BORDER STREET,EAST BOSTON,MA,02128,364765056,CONSTRUCTING AND HOLDING A 66 UNIT BUILDING IN WEBSTER MA.,MA,N/A,N/A,0,1
+201612439349300026,042964630,SHOE SHOP LP,120 INGELL STREET,TAUNTON,MA,02780,471320339,CONSTRUCTING AND HOLDING A 25 UNIT BUILDING IN MIDDLEBORO.,MA,N/A,N/A,0,1
+201612439349300601,251525572,1401 STATE STREET LLC,600 WATERFRONT DRIVE,PITTSBURGH,PA,15222,208175899,SALE AND RENTAL OF CONDO UNITS,PA,N/A,EXCLUDED,-5545,672313,0,0,0.10000
+201632519349300313,611339396,1028 Howard St Associates,1999 Broadway Suite 1000,Denver,CO,80202,943160742,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,104th Street LP,1999 Broadway Suite 1000,Denver,CO,80202,272755027,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,1100 Ocean Avenue LP,1999 Broadway Suite 1000,Denver,CO,80202,454437017,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,1101 Howard St Associates,1999 Broadway Suite 1000,Denver,CO,80202,943160341,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,111 Jones Street Assoc (111 Jones St),1999 Broadway Suite 1000,Denver,CO,80202,943142765,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,1475 167th Avenue Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943249328,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,16th & Church Street Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943135262,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,180 Properties,1999 Broadway Suite 1000,Denver,CO,80202,270561021,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,1760 Bush LP,1999 Broadway Suite 1000,Denver,CO,80202,473449006,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,1880 Pine LP,1999 Broadway Suite 1000,Denver,CO,80202,471291546,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,2000 Illinois Aurora LLC,1999 Broadway Suite 1000,Denver,CO,80202,462558442,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,2101 Telegraph Avenue Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943222935,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,2220 10th Avenue Assoc (Santana Apts),1999 Broadway Suite 1000,Denver,CO,80202,943140163,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,2698 California LP,1999 Broadway Suite 1000,Denver,CO,80202,473462784,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,2814 Fifth Street Associates LP,1999 Broadway Suite 1000,Denver,CO,80202,680340317,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,365 Fulton LP (Parcel G),1999 Broadway Suite 1000,Denver,CO,80202,261539223,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,4707 Malden Ltd Partnership,1999 Broadway Suite 1000,Denver,CO,80202,363762788,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,5042 Winthrop Apartments LP,1999 Broadway Suite 1000,Denver,CO,80202,363855358,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,55 Laguna LP,1999 Broadway Suite 1000,Denver,CO,80202,453582721,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,901 West 63rd LP (Englewood Apartments),1999 Broadway Suite 1000,Denver,CO,80202,261233617,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Acquisition Properties Georgia I,1999 Broadway Suite 1000,Denver,CO,80202,204465851,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Acquisition Properties Georgia II,1999 Broadway Suite 1000,Denver,CO,80202,204465972,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Adamsville Green LP,1999 Broadway Suite 1000,Denver,CO,80202,262252791,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Allegre Mercy Redevelopment LLLP,1999 Broadway Suite 1000,Denver,CO,80202,453540725,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Antioch Villas LP,1999 Broadway Suite 1000,Denver,CO,80202,270194197,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Appian Way Mercy LLC,1999 Broadway Suite 1000,Denver,CO,80202,911546525,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Aromor Mercy LLC (Aromor Apartments),1999 Broadway Suite 1000,Denver,CO,80202,300296042,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Bayshore Court,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Belray Apartments,1999 Broadway Suite 1000,Denver,CO,80202,364027474,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Bennett House LP,1999 Broadway Suite 1000,Denver,CO,80202,651308081,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Bishops Block (Bishops Block),1999 Broadway Suite 1000,Denver,CO,80202,010477157,low-inc hsng,IA,na,RELATED,false,false
+201632519349300313,611339396,Bluff Mercy LLC,1999 Broadway Suite 1000,Denver,CO,80202,270954394,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Boise Senior 202 Owner LP,1999 Broadway Suite 1000,Denver,CO,80202,270992784,low-inc hsng,ID,na,RELATED,false,false
+201632519349300313,611339396,Boundary Village,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Brentwood Green Valley Apts,1999 Broadway Suite 1000,Denver,CO,80202,943135990,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Britton Street Assoc(Britton Court),1999 Broadway Suite 1000,Denver,CO,80202,943300509,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Cambridge Apartments,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Cascade Apartments,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Cascade Village,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Cedarwood I,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Cedarwood IV,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Centro Partners,1999 Broadway Suite 1000,Denver,CO,80202,770295344,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Cheney Gardens,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Coastside Senior Housing LP,1999 Broadway Suite 1000,Denver,CO,80202,452262853,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Colonia San Martin Associates LP,1999 Broadway Suite 1000,Denver,CO,80202,830481233,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Commons on Main LP,1999 Broadway Suite 1000,Denver,CO,80202,208033896,low-inc hsng,OH,na,RELATED,false,false
+201632519349300313,611339396,Countryside Senior Apartments LP,1999 Broadway Suite 1000,Denver,CO,80202,261483851,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Danville Veterans Housing LLC,1999 Broadway Suite 1000,Denver,CO,80202,352441770,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Dorothy Day Community LP,1999 Broadway Suite 1000,Denver,CO,80202,651308078,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Dove Family Housing Associates LP,1999 Broadway Suite 1000,Denver,CO,80202,330975782,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Eden House LP,1999 Broadway Suite 1000,Denver,CO,80202,462704216,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,El Monte LP,1999 Broadway Suite 1000,Denver,CO,80202,461360554,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Evergreen Manor,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Evergreen Vista 1 Owner LP,1999 Broadway Suite 1000,Denver,CO,80202,274160484,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Family Tree & Lincoln Way LLLP,1999 Broadway Suite 1000,Denver,CO,80202,462841485,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Ferndale Villa,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Fircrest,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Florin Wood Assoc,1999 Broadway Suite 1000,Denver,CO,80202,680318012,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Franciscan Homes III LP,1999 Broadway Suite 1000,Denver,CO,80202,311394513,low-inc hsng,OH,na,RELATED,false,false
+201632519349300313,611339396,Franciscan Homes IV LP,1999 Broadway Suite 1000,Denver,CO,80202,311463371,low-inc hsng,OH,na,RELATED,false,false
+201632519349300313,611339396,Galewood SLF Associates LP,1999 Broadway Suite 1000,Denver,CO,80202,201882654,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Grayslake senior housing,1999 Broadway Suite 1000,Denver,CO,80202,263800351,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Greenwich Park Apartments LLC,1999 Broadway Suite 1000,Denver,CO,80202,320453460,low-inc hsng,WI,na,RELATED,false,false
+201632519349300313,611339396,Harold Washington Apartments,1999 Broadway Suite 1000,Denver,CO,80202,363556291,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,HWA-850 EASTWOOD LP,1999 Broadway Suite 1000,Denver,CO,80202,271257130,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Impact Family Village GP LLC,1999 Broadway Suite 1000,Denver,CO,80202,364715432,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Impact Family Village LP,1999 Broadway Suite 1000,Denver,CO,80202,800769567,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Intercommunity Mercy Washington II,1999 Broadway Suite 1000,Denver,CO,80202,911572690,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,JFK Tower LP,1999 Broadway Suite 1000,Denver,CO,80202,473477829,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Johnston Center Outlots LLC,1999 Broadway Suite 1000,Denver,CO,80202,270162550,low-inc hsng,WI,na,RELATED,false,false
+201632519349300313,611339396,Johnston Center Re-Use LP,1999 Broadway Suite 1000,Denver,CO,80202,300529359,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Junipero Serra LP,1999 Broadway Suite 1000,Denver,CO,80202,651308082,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Kankakee Station Street Senior Housing L,1999 Broadway Suite 1000,Denver,CO,80202,461841937,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Kennedy Estates Hsg Assoc,1999 Broadway Suite 1000,Denver,CO,80202,680355465,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,La Playa Residential,1999 Broadway Suite 1000,Denver,CO,80202,770278613,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Lake Stevens,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Lake Village East,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Mabton Gardens,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Magnolia Limited Partnership,1999 Broadway Suite 1000,Denver,CO,80202,363822288,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Malden Limited Partnership II,1999 Broadway Suite 1000,Denver,CO,80202,208746121,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Marlton Affordable Hsg Assoc,1999 Broadway Suite 1000,Denver,CO,80202,043594636,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mason Apartments (Mason School Apts),1999 Broadway Suite 1000,Denver,CO,80202,421301449,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Alston Lake LLC,1999 Broadway Suite 1000,Denver,CO,80202,202948887,low-inc hsng,SC,na,RELATED,false,false
+201632519349300313,611339396,Mercy Crestview Village Housing LP,1999 Broadway Suite 1000,Denver,CO,80202,264578510,low-inc hsng,NE,na,RELATED,false,false
+201632519349300313,611339396,Mercy Eden House LLC,1999 Broadway Suite 1000,Denver,CO,80202,464227209,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,MERCY FAMILY PLAZA LP,1999 Broadway Suite 1000,Denver,CO,80202,943094867,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Arizona I,1999 Broadway Suite 1000,Denver,CO,80202,860791473,low-inc hsng,AZ,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Arizona II (Page Commons),1999 Broadway Suite 1000,Denver,CO,80202,331075152,low-inc hsng,AZ,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Ca XXXIII,1999 Broadway Suite 1000,Denver,CO,80202,432100410,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Ca XXXVII,1999 Broadway Suite 1000,Denver,CO,80202,680631916,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 46 LP,1999 Broadway Suite 1000,Denver,CO,80202,272321382,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 47 LP,1999 Broadway Suite 1000,Denver,CO,80202,272930358,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 48 LP,1999 Broadway Suite 1000,Denver,CO,80202,273117667,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 49 LP,1999 Broadway Suite 1000,Denver,CO,80202,273277379,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 50 LP(St Anth,1999 Broadway Suite 1000,Denver,CO,80202,273381997,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 51 LP (200 6th,1999 Broadway Suite 1000,Denver,CO,80202,942963228,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 52 LP,1999 Broadway Suite 1000,Denver,CO,80202,452751062,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 53 LP (Madonna,1999 Broadway Suite 1000,Denver,CO,80202,452050339,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 54 LP,1999 Broadway Suite 1000,Denver,CO,80202,942963228,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 55 LP,1999 Broadway Suite 1000,Denver,CO,80202,453710672,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 56 LP,1999 Broadway Suite 1000,Denver,CO,80202,454659051,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 57 LP,1999 Broadway Suite 1000,Denver,CO,80202,454711412,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 58 LP,1999 Broadway Suite 1000,Denver,CO,80202,454486957,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 59 LP,1999 Broadway Suite 1000,Denver,CO,80202,462537487,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 60 LP,1999 Broadway Suite 1000,Denver,CO,80202,461239561,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 61 LP,1999 Broadway Suite 1000,Denver,CO,80202,463636570,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 62 LP,1999 Broadway Suite 1000,Denver,CO,80202,463424351,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 63 LP,1999 Broadway Suite 1000,Denver,CO,80202,463921420,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 64 LP,1999 Broadway Suite 1000,Denver,CO,80202,465015672,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 65 LP,1999 Broadway Suite 1000,Denver,CO,80202,471120541,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 66 LP,1999 Broadway Suite 1000,Denver,CO,80202,473441276,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 67 LP,1999 Broadway Suite 1000,Denver,CO,80202,473628711,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 68 LP,1999 Broadway Suite 1000,Denver,CO,80202,474992813,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 71 LP,1999 Broadway Suite 1000,Denver,CO,80202,475468338,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California 72 LP,1999 Broadway Suite 1000,Denver,CO,80202,811758210,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California I,1999 Broadway Suite 1000,Denver,CO,80202,841210914,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California II,1999 Broadway Suite 1000,Denver,CO,80202,943187825,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California III,1999 Broadway Suite 1000,Denver,CO,80202,943187826,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California IX,1999 Broadway Suite 1000,Denver,CO,80202,943230471,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California V,1999 Broadway Suite 1000,Denver,CO,80202,943229051,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California VI,1999 Broadway Suite 1000,Denver,CO,80202,943224528,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California VII,1999 Broadway Suite 1000,Denver,CO,80202,943229540,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California VIII,1999 Broadway Suite 1000,Denver,CO,80202,943229541,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California X (The Rose),1999 Broadway Suite 1000,Denver,CO,80202,943232501,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XI,1999 Broadway Suite 1000,Denver,CO,80202,943244521,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XII,1999 Broadway Suite 1000,Denver,CO,80202,943366333,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XIII,1999 Broadway Suite 1000,Denver,CO,80202,943377935,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XIV,1999 Broadway Suite 1000,Denver,CO,80202,943377941,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XIX,1999 Broadway Suite 1000,Denver,CO,80202,010716135,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XL,1999 Broadway Suite 1000,Denver,CO,80202,261398920,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XLI,1999 Broadway Suite 1000,Denver,CO,80202,262350027,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XLII,1999 Broadway Suite 1000,Denver,CO,80202,262575525,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XLIII,1999 Broadway Suite 1000,Denver,CO,80202,262553554,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XLIV,1999 Broadway Suite 1000,Denver,CO,80202,263583090,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XLV (Washington,1999 Broadway Suite 1000,Denver,CO,80202,651308076,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XLVII,1999 Broadway Suite 1000,Denver,CO,80202,272930358,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XV,1999 Broadway Suite 1000,Denver,CO,80202,943379316,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XVI,1999 Broadway Suite 1000,Denver,CO,80202,943381170,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XVII,1999 Broadway Suite 1000,Denver,CO,80202,943400496,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XVIII,1999 Broadway Suite 1000,Denver,CO,80202,030376881,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XX,1999 Broadway Suite 1000,Denver,CO,80202,364497277,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXI,1999 Broadway Suite 1000,Denver,CO,80202,481259652,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXII,1999 Broadway Suite 1000,Denver,CO,80202,352172040,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXIII,1999 Broadway Suite 1000,Denver,CO,80202,820560494,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXIV,1999 Broadway Suite 1000,Denver,CO,80202,743052786,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXIX,1999 Broadway Suite 1000,Denver,CO,80202,731729092,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXV,1999 Broadway Suite 1000,Denver,CO,80202,810564415,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXVI,1999 Broadway Suite 1000,Denver,CO,80202,582679059,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXVII,1999 Broadway Suite 1000,Denver,CO,80202,651207291,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXVIII,1999 Broadway Suite 1000,Denver,CO,80202,731721242,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXX,1999 Broadway Suite 1000,Denver,CO,80202,611488186,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXXI,1999 Broadway Suite 1000,Denver,CO,80202,870756700,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXXII,1999 Broadway Suite 1000,Denver,CO,80202,870756940,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXXIV LP,1999 Broadway Suite 1000,Denver,CO,80202,510594948,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXXIX,1999 Broadway Suite 1000,Denver,CO,80202,010885277,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXXV,1999 Broadway Suite 1000,Denver,CO,80202,760827799,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXXVI,1999 Broadway Suite 1000,Denver,CO,80202,562568833,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing California XXXVIII,1999 Broadway Suite 1000,Denver,CO,80202,331153406,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,MERCY HOUSING COLORADO I LTD,1999 Broadway Suite 1000,Denver,CO,80202,841176712,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Colorado III,1999 Broadway Suite 1000,Denver,CO,80202,841292696,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Colorado IV,1999 Broadway Suite 1000,Denver,CO,80202,841284749,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Colorado V,1999 Broadway Suite 1000,Denver,CO,80202,841318329,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Colorado VI,1999 Broadway Suite 1000,Denver,CO,80202,841361296,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Colorado VII,1999 Broadway Suite 1000,Denver,CO,80202,841473883,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Colorado VIII,1999 Broadway Suite 1000,Denver,CO,80202,931190349,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Colorado XI LLC,1999 Broadway Suite 1000,Denver,CO,80202,205331841,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Colorado-I LTD (Grace),1999 Broadway Suite 1000,Denver,CO,80202,841176712,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Colorado-II Ltd,1999 Broadway Suite 1000,Denver,CO,80202,841176713,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Colorado-IX,1999 Broadway Suite 1000,Denver,CO,80202,870706258,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia 12 LP (Savannah G,1999 Broadway Suite 1000,Denver,CO,80202,272987561,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia 13 LP,1999 Broadway Suite 1000,Denver,CO,80202,455108221,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia 14 LP,1999 Broadway Suite 1000,Denver,CO,80202,462787254,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia 15 LP,1999 Broadway Suite 1000,Denver,CO,80202,465547801,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia I,1999 Broadway Suite 1000,Denver,CO,80202,582461689,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia II,1999 Broadway Suite 1000,Denver,CO,80202,582621798,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia III,1999 Broadway Suite 1000,Denver,CO,80202,431954812,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia IV,1999 Broadway Suite 1000,Denver,CO,80202,562328730,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia IX LP,1999 Broadway Suite 1000,Denver,CO,80202,208829418,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia V LP,1999 Broadway Suite 1000,Denver,CO,80202,900284434,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia VI LP,1999 Broadway Suite 1000,Denver,CO,80202,204466474,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia VIII LP,1999 Broadway Suite 1000,Denver,CO,80202,582461689,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia X (Savannah Garden,1999 Broadway Suite 1000,Denver,CO,80202,270162550,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Georgia XI LP (Etowah Ter,1999 Broadway Suite 1000,Denver,CO,80202,262523190,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Idaho I,1999 Broadway Suite 1000,Denver,CO,80202,841212028,low-inc hsng,ID,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Idaho II,1999 Broadway Suite 1000,Denver,CO,80202,841212029,low-inc hsng,ID,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Idaho III,1999 Broadway Suite 1000,Denver,CO,80202,841251391,low-inc hsng,ID,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Idaho IV,1999 Broadway Suite 1000,Denver,CO,80202,820487654,low-inc hsng,ID,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Idaho NSP LLC (NSPID),1999 Broadway Suite 1000,Denver,CO,80202,271039061,low-inc hsng,ID,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Idaho V (Sisters Villa),1999 Broadway Suite 1000,Denver,CO,80202,043624359,low-inc hsng,ID,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Iowa II LP,1999 Broadway Suite 1000,Denver,CO,80202,841284752,low-inc hsng,IA,na,RELATED,false,false
+201632519349300313,611339396,mercy housing midwest nebraska llc,1999 Broadway Suite 1000,Denver,CO,80202,201583332,low-inc hsng,NE,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Missouri II,1999 Broadway Suite 1000,Denver,CO,80202,841201811,low-inc hsng,MO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing S Carolina I,1999 Broadway Suite 1000,Denver,CO,80202,593767323,low-inc hsng,SC,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Senior Properties LLC,1999 Broadway Suite 1000,Denver,CO,80202,943081666,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing South Carolina I,1999 Broadway Suite 1000,Denver,CO,80202,593767323,low-inc hsng,SC,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing South Dakota I LLC,1999 Broadway Suite 1000,Denver,CO,80202,202830331,low-inc hsng,SD,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing South Dakota II LLC,1999 Broadway Suite 1000,Denver,CO,80202,202830356,low-inc hsng,SD,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Utah I,1999 Broadway Suite 1000,Denver,CO,80202,020564555,low-inc hsng,UT,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Washington III,1999 Broadway Suite 1000,Denver,CO,80202,911676111,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Washington IX LP,1999 Broadway Suite 1000,Denver,CO,80202,651186086,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Washington V,1999 Broadway Suite 1000,Denver,CO,80202,841457612,low-inc hsng,OR,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Washington VI,1999 Broadway Suite 1000,Denver,CO,80202,841459924,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Washington VII,1999 Broadway Suite 1000,Denver,CO,80202,912038920,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Washington VIII,1999 Broadway Suite 1000,Denver,CO,80202,912124779,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Housing Washington X LLC,1999 Broadway Suite 1000,Denver,CO,80202,550887839,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Loan Fund Sub-CDE LLC,1999 Broadway Suite 1000,Denver,CO,80202,271326149,low-inc hsng,CO,na,RELATED,false,false
+201632519349300313,611339396,Mercy Properties Washington I LLC,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Properties Washington II,1999 Broadway Suite 1000,Denver,CO,80202,300117515,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Mercy Properties Washington III LLC,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,MHC Health 1 LP,1999 Broadway Suite 1000,Denver,CO,80202,473554305,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,MHNW 9 Othello East LP,1999 Broadway Suite 1000,Denver,CO,80202,471620007,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,MHNW 10 Othello West LP,1999 Broadway Suite 1000,Denver,CO,80202,471614235,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,MHNW 11 Woodlakes LP,1999 Broadway Suite 1000,Denver,CO,80202,472334969,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,MHNW 12 Eleanor Apartments LLLP,1999 Broadway Suite 1000,Denver,CO,80202,473599013,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,MHNW 13 Building 9 South LP,1999 Broadway Suite 1000,Denver,CO,80202,474660134,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,MHNW 14 Building 9 North LP,1999 Broadway Suite 1000,Denver,CO,80202,474683004,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,MHSE Adamsville Green Senior Partners LL,1999 Broadway Suite 1000,Denver,CO,80202,262523190,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,MHSE Bailey Station Senior LP,1999 Broadway Suite 1000,Denver,CO,80202,461868814,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,MHSE Mercy Park LP,1999 Broadway Suite 1000,Denver,CO,80202,611757712,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,MHSE Pinelake LP,1999 Broadway Suite 1000,Denver,CO,80202,800616765,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,MHSE Pinelake I LP,1999 Broadway Suite 1000,Denver,CO,80202,900856866,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,MHSE Reynoldstown Senior LP,1999 Broadway Suite 1000,Denver,CO,80202,463054017,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,MSHE Wilson Senior Residence LP,1999 Broadway Suite 1000,Denver,CO,80202,464907701,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Monroe Villa,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Monsignor Lyne LP,1999 Broadway Suite 1000,Denver,CO,80202,651308080,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Mortgage Resolution Fund LLC,120 LaSalle Suite 1850,Chicago,IL,60603,453801619,management,IL,na,RELATED,false,false
+201632519349300313,611339396,Moses Lake Estates,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,MPI Highland Place Apartments LP,1999 Broadway Suite 1000,Denver,CO,80202,582461689,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Near North Partnership,1999 Broadway Suite 1000,Denver,CO,80202,320143113,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Neary Lagoon Partners,1999 Broadway Suite 1000,Denver,CO,80202,770256317,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,New Dana Strand IV-A LP,1999 Broadway Suite 1000,Denver,CO,80202,473082758,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,New Dana Strand Partners I LP,1999 Broadway Suite 1000,Denver,CO,80202,510524022,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,New Dana Strand Townhomes,1999 Broadway Suite 1000,Denver,CO,80202,510524022,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,New Sterling Park LLC,1999 Broadway Suite 1000,Denver,CO,80202,272523530,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,New Sterling Park MM LLC,1999 Broadway Suite 1000,Denver,CO,80202,272523309,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,New Tacoma Phase II Mercy LLC,1999 Broadway Suite 1000,Denver,CO,80202,452478067,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,New Tacoma Senior Housing Phase I,1999 Broadway Suite 1000,Denver,CO,80202,911546525,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Northglen LP,1999 Broadway Suite 1000,Denver,CO,80202,320139512,low-inc hsng,NE,na,RELATED,false,false
+201632519349300313,611339396,Oak Harbor,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Olympic,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Park Terrace Apts (Park Terrace Apts),1999 Broadway Suite 1000,Denver,CO,80202,943332881,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Parkside Terrace LP,1999 Broadway Suite 1000,Denver,CO,80202,363914505,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Pilchuck,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Pine Road Village,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Pinewood Court Apartments,1999 Broadway Suite 1000,Denver,CO,80202,680435836,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Rainer Vista Block 43 Owner LP(Columbia,1999 Broadway Suite 1000,Denver,CO,80202,273221112,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Red Door Limited Partnership,1999 Broadway Suite 1000,Denver,CO,80202,363915050,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Reynoldstown Senior Apts (Renoldstown),1999 Broadway Suite 1000,Denver,CO,80202,270162550,low-inc hsng,GA,na,RELATED,false,false
+201632519349300313,611339396,Rock Creek Terrace,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Roseland Limited Partnerhsip,1999 Broadway Suite 1000,Denver,CO,80202,364304416,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Roseland Place LP,1999 Broadway Suite 1000,Denver,CO,80202,800195044,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,San Felipe Homes (San Felipe Homes),1999 Broadway Suite 1000,Denver,CO,80202,954384732,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Sandstone,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,SC Residence LLC,1999 Broadway Suite 1000,Denver,CO,80202,260675562,low-inc hsng,WI,na,RELATED,false,false
+201632519349300313,611339396,Silvercrest,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Skagit Village,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Somerset Senior Hsg,1999 Broadway Suite 1000,Denver,CO,80202,742765568,low-inc hsng,TX,na,RELATED,false,false
+201632519349300313,611339396,South Loop Apartments,1999 Broadway Suite 1000,Denver,CO,80202,364027476,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,St Andrew Community LP,1999 Broadway Suite 1000,Denver,CO,80202,651308080,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Sunnydale Development Co LLC,1999 Broadway Suite 1000,Denver,CO,80202,263566543,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Tahoe Valley Townhomes Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943298324,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,The Keating Building Little Village LLC,1999 Broadway Suite 1000,Denver,CO,80202,264584321,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,Third and LeCante LP,1999 Broadway Suite 1000,Denver,CO,80202,264176495,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Villa Columba Mercy Riverside LP,1999 Broadway Suite 1000,Denver,CO,80202,651308076,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Villa Columbia Mercy Riverside LP (Merc,1999 Broadway Suite 1000,Denver,CO,80202,364304416,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Villa Kathleen Redevelopment,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Village Park Housing Associates,1999 Broadway Suite 1000,Denver,CO,80202,680254566,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Visitation Valley Fam Hsg Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943275566,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Wapato Gardens,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Washington Square,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Wentworth Commons,1999 Broadway Suite 1000,Denver,CO,80202,300082553,low-inc hsng,IL,na,RELATED,false,false
+201632519349300313,611339396,West 28th Street,1999 Broadway Suite 1000,Denver,CO,80202,954550003,low-inc hsng,CA,na,RELATED,false,false
+201632519349300313,611339396,Western Manor LP,1999 Broadway Suite 1000,Denver,CO,80202,264578652,low-inc hsng,NE,na,RELATED,false,false
+201632519349300313,611339396,Woodlake Manor,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632519349300313,611339396,Woodlake Manor II,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201612459349301101,410128105,CONNEXUS COMMUNITY SOLAR 1 LLC,14601 RAMSEY BLVD,RAMSEY,MN,55303,352505435,SOLAR ENERGY INVESTMENT,MN,N/A
+201612509349300501,431769074,TWENTY FIRST HOMES LP,1023 N GRAND BLVD,ST LOUIS,MO,63106,261484330,RESIDENTIAL RENTAL REAL ESTATE,IL,JUSTINE PETERSEN HOUSING AND REINVESTMENT CORPORATION,RELATED,-161385,4162268,0,1,0.99990
+201602159349300625,416031510,THE COMMUNITY INVESTMENT GROUP,101 FIFTH STREET EAST SUITE 2400,SAINT PAUL,MN,55101,411765364,INVESTMENT PARTNERSHIP,MN,THE SAINT PAUL FOUNDATION,INVESTMENT INCOME,18442085,340632564,0,0,0.59790
+201602149349300040,521231931,ECLF TOAH mbr LLC,11000 broken land parkway 700,Columbia,MD,21044,275305396,FINANCING,DE,ECLF
+201602149349300040,521231931,COMMUNITY WEATHERIZATION LLC,501 7TH AVENUE 7TH FLOOR,NEW YORK,NY,10018,272173025,AFFORD HSGING,DE,ECP INC
+201602159349300225,410832480,THE COMMUNITY INVESTMENT GROUP,101 FIFTH STREET EAST SUITE 2400,SAINT PAUL,MN,55101,411765364,INVESTMENT PARTNERSHIP,MN,THE SAINT PAUL FOUNDATION,INVESTMENT,8967150,166750046,0,0,0.29160
+201602229349301885,943281780,NewSchools Seed Fund LP,1970 Broadway Suite 350,Oakland,CA,94612,To Hold PRI investments made by NSVF prior to 2016,CA,New Schools Fund,Related,0,0,0.80000
+201602229349301885,943281780,NewSchools Capital LLC,532 Emerson Street,Palo Alto,CA,94301,473212503,To manage new PRI investments in ED Tech.,CA,N/A,Related,-58099,0,0,0.50000
+201632289349306638,841559406,1028 Howard St Associates,1999 Broadway Suite 1000,Denver,CO,80202,943160742,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,104th Street LP,1999 Broadway Suite 1000,Denver,CO,80202,272755027,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,1100 Ocean Avenue LP,1999 Broadway Suite 1000,Denver,CO,80202,454437017,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,1101 Howard St Associates,1999 Broadway Suite 1000,Denver,CO,80202,943160341,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,111 Jones Street Assoc (111 Jones St),1999 Broadway Suite 1000,Denver,CO,80202,943142765,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,1475 167th Avenue Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943249328,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,16th & Church Street Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943135262,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,180 Properties,1999 Broadway Suite 1000,Denver,CO,80202,270561021,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,1760 Bush LP,1999 Broadway Suite 1000,Denver,CO,80202,473449006,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,1880 Pine LP,1999 Broadway Suite 1000,Denver,CO,80202,471291546,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,2000 Illinois Aurora LLC,1999 Broadway Suite 1000,Denver,CO,80202,462558442,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,2101 Telegraph Avenue Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943222935,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,2220 10th Avenue Assoc (Santana Apts),1999 Broadway Suite 1000,Denver,CO,80202,943140163,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,2698 California LP,1999 Broadway Suite 1000,Denver,CO,80202,473462784,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,2814 Fifth Street Associates LP,1999 Broadway Suite 1000,Denver,CO,80202,680340317,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,365 Fulton LP (Parcel G),1999 Broadway Suite 1000,Denver,CO,80202,261539223,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,4707 Malden Ltd Partnership,1999 Broadway Suite 1000,Denver,CO,80202,363762788,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,5042 Winthrop Apartments LP,1999 Broadway Suite 1000,Denver,CO,80202,363855358,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,55 Laguna LP,1999 Broadway Suite 1000,Denver,CO,80202,453582721,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,901 West 63rd LP (Englewood Apartments),1999 Broadway Suite 1000,Denver,CO,80202,261233617,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Acquisition Properties Georgia I,1999 Broadway Suite 1000,Denver,CO,80202,204465851,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Acquisition Properties Georgia II,1999 Broadway Suite 1000,Denver,CO,80202,204465972,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Adamsville Green LP,1999 Broadway Suite 1000,Denver,CO,80202,262252791,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Allegre Mercy Redevelopment LLLP,1999 Broadway Suite 1000,Denver,CO,80202,453540725,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Antioch Villas LP,1999 Broadway Suite 1000,Denver,CO,80202,270194197,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Appian Way Mercy LLC,1999 Broadway Suite 1000,Denver,CO,80202,911546525,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Aromor Mercy LLC (Aromor Apartments),1999 Broadway Suite 1000,Denver,CO,80202,300296042,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Bayshore Court,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Belray Apartments,1999 Broadway Suite 1000,Denver,CO,80202,364027474,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Bennett House LP,1999 Broadway Suite 1000,Denver,CO,80202,651308081,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Bishops Block (Bishops Block),1999 Broadway Suite 1000,Denver,CO,80202,010477157,low-inc hsng,IA,na,RELATED,false,false
+201632289349306638,841559406,Bluff Mercy LLC,1999 Broadway Suite 1000,Denver,CO,80202,270954394,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Boise Senior 202 Owner LP,1999 Broadway Suite 1000,Denver,CO,80202,270992784,low-inc hsng,ID,na,RELATED,false,false
+201632289349306638,841559406,Boundary Village,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Brentwood Green Valley Apts,1999 Broadway Suite 1000,Denver,CO,80202,943135990,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Britton Street Assoc(Britton Court),1999 Broadway Suite 1000,Denver,CO,80202,943300509,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Cambridge Apartments,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Cascade Apartments,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Cascade Village,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Cedarwood I,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Cedarwood IV,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Centro Partners,1999 Broadway Suite 1000,Denver,CO,80202,770295344,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Cheney Gardens,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Coastside Senior Housing LP,1999 Broadway Suite 1000,Denver,CO,80202,452262853,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Colonia San Martin Associates LP,1999 Broadway Suite 1000,Denver,CO,80202,830481233,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Commons on Main LP,1999 Broadway Suite 1000,Denver,CO,80202,208033896,low-inc hsng,OH,na,RELATED,false,false
+201632289349306638,841559406,Countryside Senior Apartments LP,1999 Broadway Suite 1000,Denver,CO,80202,261483851,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Danville Veterans Housing LLC,1999 Broadway Suite 1000,Denver,CO,80202,352441770,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Dorothy Day Community LP,1999 Broadway Suite 1000,Denver,CO,80202,651308078,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Dove Family Housing Associates LP,1999 Broadway Suite 1000,Denver,CO,80202,330975782,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Eden House LP,1999 Broadway Suite 1000,Denver,CO,80202,462704216,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,El Monte LP,1999 Broadway Suite 1000,Denver,CO,80202,461360554,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Evergreen Manor,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Evergreen Vista 1 Owner LP,1999 Broadway Suite 1000,Denver,CO,80202,274160484,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Family Tree & Lincoln Way LLLP,1999 Broadway Suite 1000,Denver,CO,80202,462841485,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Ferndale Villa,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Fircrest,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Florin Wood Assoc,1999 Broadway Suite 1000,Denver,CO,80202,680318012,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Franciscan Homes III LP,1999 Broadway Suite 1000,Denver,CO,80202,311394513,low-inc hsng,OH,na,RELATED,false,false
+201632289349306638,841559406,Franciscan Homes IV LP,1999 Broadway Suite 1000,Denver,CO,80202,311463371,low-inc hsng,OH,na,RELATED,false,false
+201632289349306638,841559406,Galewood SLF Associates LP,1999 Broadway Suite 1000,Denver,CO,80202,201882654,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Grayslake senior housing,1999 Broadway Suite 1000,Denver,CO,80202,263800351,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Greenwich Park Apartments LLC,1999 Broadway Suite 1000,Denver,CO,80202,320453460,low-inc hsng,WI,na,RELATED,false,false
+201632289349306638,841559406,Harold Washington Apartments,1999 Broadway Suite 1000,Denver,CO,80202,363556291,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,HWA-850 EASTWOOD LP,1999 Broadway Suite 1000,Denver,CO,80202,271257130,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Impact Family Village GP LLC,1999 Broadway Suite 1000,Denver,CO,80202,364715432,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Impact Family Village LP,1999 Broadway Suite 1000,Denver,CO,80202,800769567,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Intercommunity Mercy Washington II,1999 Broadway Suite 1000,Denver,CO,80202,911572690,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,JFK Tower LP,1999 Broadway Suite 1000,Denver,CO,80202,473477829,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Johnston Center Outlots LLC,1999 Broadway Suite 1000,Denver,CO,80202,270162550,low-inc hsng,WI,na,RELATED,false,false
+201632289349306638,841559406,Johnston Center Re-Use LP,1999 Broadway Suite 1000,Denver,CO,80202,300529359,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Junipero Serra LP,1999 Broadway Suite 1000,Denver,CO,80202,651308082,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Kankakee Station Street Senior Housing L,1999 Broadway Suite 1000,Denver,CO,80202,461841937,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Kennedy Estates Hsg Assoc,1999 Broadway Suite 1000,Denver,CO,80202,680355465,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,La Playa Residential,1999 Broadway Suite 1000,Denver,CO,80202,770278613,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Lake Stevens,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Lake Village East,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Mabton Gardens,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Magnolia Limited Partnership,1999 Broadway Suite 1000,Denver,CO,80202,363822288,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Malden Limited Partnership II,1999 Broadway Suite 1000,Denver,CO,80202,208746121,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Marlton Affordable Hsg Assoc,1999 Broadway Suite 1000,Denver,CO,80202,043594636,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mason Apartments (Mason School Apts),1999 Broadway Suite 1000,Denver,CO,80202,421301449,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Alston Lake LLC,1999 Broadway Suite 1000,Denver,CO,80202,202948887,low-inc hsng,SC,na,RELATED,false,false
+201632289349306638,841559406,Mercy Crestview Village Housing LP,1999 Broadway Suite 1000,Denver,CO,80202,264578510,low-inc hsng,NE,na,RELATED,false,false
+201632289349306638,841559406,Mercy Eden House LLC,1999 Broadway Suite 1000,Denver,CO,80202,464227209,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,MERCY FAMILY PLAZA LP,1999 Broadway Suite 1000,Denver,CO,80202,943094867,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Arizona I,1999 Broadway Suite 1000,Denver,CO,80202,860791473,low-inc hsng,AZ,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Arizona II (Page Commons),1999 Broadway Suite 1000,Denver,CO,80202,331075152,low-inc hsng,AZ,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Ca XXXIII,1999 Broadway Suite 1000,Denver,CO,80202,432100410,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Ca XXXVII,1999 Broadway Suite 1000,Denver,CO,80202,680631916,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 46 LP,1999 Broadway Suite 1000,Denver,CO,80202,272321382,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 47 LP,1999 Broadway Suite 1000,Denver,CO,80202,272930358,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 48 LP,1999 Broadway Suite 1000,Denver,CO,80202,273117667,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 49 LP,1999 Broadway Suite 1000,Denver,CO,80202,273277379,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 50 LP(St Anth,1999 Broadway Suite 1000,Denver,CO,80202,273381997,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 51 LP (200 6th,1999 Broadway Suite 1000,Denver,CO,80202,942963228,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 52 LP,1999 Broadway Suite 1000,Denver,CO,80202,452751062,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 53 LP (Madonna,1999 Broadway Suite 1000,Denver,CO,80202,452050339,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 54 LP,1999 Broadway Suite 1000,Denver,CO,80202,942963228,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 55 LP,1999 Broadway Suite 1000,Denver,CO,80202,453710672,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 56 LP,1999 Broadway Suite 1000,Denver,CO,80202,454659051,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 57 LP,1999 Broadway Suite 1000,Denver,CO,80202,454711412,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 58 LP,1999 Broadway Suite 1000,Denver,CO,80202,454486957,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 59 LP,1999 Broadway Suite 1000,Denver,CO,80202,462537487,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 60 LP,1999 Broadway Suite 1000,Denver,CO,80202,461239561,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 61 LP,1999 Broadway Suite 1000,Denver,CO,80202,463636570,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 62 LP,1999 Broadway Suite 1000,Denver,CO,80202,463424351,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 63 LP,1999 Broadway Suite 1000,Denver,CO,80202,463921420,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 64 LP,1999 Broadway Suite 1000,Denver,CO,80202,465015672,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 65 LP,1999 Broadway Suite 1000,Denver,CO,80202,471120541,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 66 LP,1999 Broadway Suite 1000,Denver,CO,80202,473441276,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 67 LP,1999 Broadway Suite 1000,Denver,CO,80202,473628711,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 68 LP,1999 Broadway Suite 1000,Denver,CO,80202,474992813,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 71 LP,1999 Broadway Suite 1000,Denver,CO,80202,475468338,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California 72 LP,1999 Broadway Suite 1000,Denver,CO,80202,811758210,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California I,1999 Broadway Suite 1000,Denver,CO,80202,841210914,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California II,1999 Broadway Suite 1000,Denver,CO,80202,943187825,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California III,1999 Broadway Suite 1000,Denver,CO,80202,943187826,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California IX,1999 Broadway Suite 1000,Denver,CO,80202,943230471,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California V,1999 Broadway Suite 1000,Denver,CO,80202,943229051,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California VI,1999 Broadway Suite 1000,Denver,CO,80202,943224528,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California VII,1999 Broadway Suite 1000,Denver,CO,80202,943229540,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California VIII,1999 Broadway Suite 1000,Denver,CO,80202,943229541,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California X (The Rose),1999 Broadway Suite 1000,Denver,CO,80202,943232501,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XI,1999 Broadway Suite 1000,Denver,CO,80202,943244521,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XII,1999 Broadway Suite 1000,Denver,CO,80202,943366333,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XIII,1999 Broadway Suite 1000,Denver,CO,80202,943377935,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XIV,1999 Broadway Suite 1000,Denver,CO,80202,943377941,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XIX,1999 Broadway Suite 1000,Denver,CO,80202,010716135,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XL,1999 Broadway Suite 1000,Denver,CO,80202,261398920,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XLI,1999 Broadway Suite 1000,Denver,CO,80202,262350027,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XLII,1999 Broadway Suite 1000,Denver,CO,80202,262575525,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XLIII,1999 Broadway Suite 1000,Denver,CO,80202,262553554,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XLIV,1999 Broadway Suite 1000,Denver,CO,80202,263583090,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XLV (Washington,1999 Broadway Suite 1000,Denver,CO,80202,651308076,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XLVII,1999 Broadway Suite 1000,Denver,CO,80202,272930358,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XV,1999 Broadway Suite 1000,Denver,CO,80202,943379316,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XVI,1999 Broadway Suite 1000,Denver,CO,80202,943381170,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XVII,1999 Broadway Suite 1000,Denver,CO,80202,943400496,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XVIII,1999 Broadway Suite 1000,Denver,CO,80202,030376881,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XX,1999 Broadway Suite 1000,Denver,CO,80202,364497277,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXI,1999 Broadway Suite 1000,Denver,CO,80202,481259652,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXII,1999 Broadway Suite 1000,Denver,CO,80202,352172040,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXIII,1999 Broadway Suite 1000,Denver,CO,80202,820560494,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXIV,1999 Broadway Suite 1000,Denver,CO,80202,743052786,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXIX,1999 Broadway Suite 1000,Denver,CO,80202,731729092,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXV,1999 Broadway Suite 1000,Denver,CO,80202,810564415,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXVI,1999 Broadway Suite 1000,Denver,CO,80202,582679059,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXVII,1999 Broadway Suite 1000,Denver,CO,80202,651207291,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXVIII,1999 Broadway Suite 1000,Denver,CO,80202,731721242,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXX,1999 Broadway Suite 1000,Denver,CO,80202,611488186,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXXI,1999 Broadway Suite 1000,Denver,CO,80202,870756700,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXXII,1999 Broadway Suite 1000,Denver,CO,80202,870756940,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXXIV LP,1999 Broadway Suite 1000,Denver,CO,80202,510594948,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXXIX,1999 Broadway Suite 1000,Denver,CO,80202,010885277,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXXV,1999 Broadway Suite 1000,Denver,CO,80202,760827799,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXXVI,1999 Broadway Suite 1000,Denver,CO,80202,562568833,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing California XXXVIII,1999 Broadway Suite 1000,Denver,CO,80202,331153406,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,MERCY HOUSING COLORADO I LTD,1999 Broadway Suite 1000,Denver,CO,80202,841176712,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Colorado III,1999 Broadway Suite 1000,Denver,CO,80202,841292696,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Colorado IV,1999 Broadway Suite 1000,Denver,CO,80202,841284749,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Colorado V,1999 Broadway Suite 1000,Denver,CO,80202,841318329,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Colorado VI,1999 Broadway Suite 1000,Denver,CO,80202,841361296,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Colorado VII,1999 Broadway Suite 1000,Denver,CO,80202,841473883,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Colorado VIII,1999 Broadway Suite 1000,Denver,CO,80202,931190349,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Colorado XI LLC,1999 Broadway Suite 1000,Denver,CO,80202,205331841,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Colorado-I LTD (Grace),1999 Broadway Suite 1000,Denver,CO,80202,841176712,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Colorado-II Ltd,1999 Broadway Suite 1000,Denver,CO,80202,841176713,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Colorado-IX,1999 Broadway Suite 1000,Denver,CO,80202,870706258,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia 12 LP (Savannah G,1999 Broadway Suite 1000,Denver,CO,80202,272987561,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia 13 LP,1999 Broadway Suite 1000,Denver,CO,80202,455108221,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia 14 LP,1999 Broadway Suite 1000,Denver,CO,80202,462787254,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia 15 LP,1999 Broadway Suite 1000,Denver,CO,80202,465547801,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia I,1999 Broadway Suite 1000,Denver,CO,80202,582461689,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia II,1999 Broadway Suite 1000,Denver,CO,80202,582621798,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia III,1999 Broadway Suite 1000,Denver,CO,80202,431954812,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia IV,1999 Broadway Suite 1000,Denver,CO,80202,562328730,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia IX LP,1999 Broadway Suite 1000,Denver,CO,80202,208829418,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia V LP,1999 Broadway Suite 1000,Denver,CO,80202,900284434,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia VI LP,1999 Broadway Suite 1000,Denver,CO,80202,204466474,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia VIII LP,1999 Broadway Suite 1000,Denver,CO,80202,582461689,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia X (Savannah Garden,1999 Broadway Suite 1000,Denver,CO,80202,270162550,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Georgia XI LP (Etowah Ter,1999 Broadway Suite 1000,Denver,CO,80202,262523190,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Idaho I,1999 Broadway Suite 1000,Denver,CO,80202,841212028,low-inc hsng,ID,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Idaho II,1999 Broadway Suite 1000,Denver,CO,80202,841212029,low-inc hsng,ID,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Idaho III,1999 Broadway Suite 1000,Denver,CO,80202,841251391,low-inc hsng,ID,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Idaho IV,1999 Broadway Suite 1000,Denver,CO,80202,820487654,low-inc hsng,ID,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Idaho NSP LLC (NSPID),1999 Broadway Suite 1000,Denver,CO,80202,271039061,low-inc hsng,ID,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Idaho V (Sisters Villa),1999 Broadway Suite 1000,Denver,CO,80202,043624359,low-inc hsng,ID,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Iowa II LP,1999 Broadway Suite 1000,Denver,CO,80202,841284752,low-inc hsng,IA,na,RELATED,false,false
+201632289349306638,841559406,mercy housing midwest nebraska llc,1999 Broadway Suite 1000,Denver,CO,80202,201583332,low-inc hsng,NE,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Missouri II,1999 Broadway Suite 1000,Denver,CO,80202,841201811,low-inc hsng,MO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing S Carolina I,1999 Broadway Suite 1000,Denver,CO,80202,593767323,low-inc hsng,SC,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Senior Properties LLC,1999 Broadway Suite 1000,Denver,CO,80202,943081666,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing South Carolina I,1999 Broadway Suite 1000,Denver,CO,80202,593767323,low-inc hsng,SC,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing South Dakota I LLC,1999 Broadway Suite 1000,Denver,CO,80202,202830331,low-inc hsng,SD,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing South Dakota II LLC,1999 Broadway Suite 1000,Denver,CO,80202,202830356,low-inc hsng,SD,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Utah I,1999 Broadway Suite 1000,Denver,CO,80202,020564555,low-inc hsng,UT,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Washington III,1999 Broadway Suite 1000,Denver,CO,80202,911676111,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Washington IX LP,1999 Broadway Suite 1000,Denver,CO,80202,651186086,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Washington V,1999 Broadway Suite 1000,Denver,CO,80202,841457612,low-inc hsng,OR,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Washington VI,1999 Broadway Suite 1000,Denver,CO,80202,841459924,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Washington VII,1999 Broadway Suite 1000,Denver,CO,80202,912038920,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Washington VIII,1999 Broadway Suite 1000,Denver,CO,80202,912124779,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Housing Washington X LLC,1999 Broadway Suite 1000,Denver,CO,80202,550887839,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Loan Fund Sub-CDE LLC,1999 Broadway Suite 1000,Denver,CO,80202,271326149,low-inc hsng,CO,na,RELATED,false,false
+201632289349306638,841559406,Mercy Properties Washington I LLC,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Properties Washington II,1999 Broadway Suite 1000,Denver,CO,80202,300117515,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Mercy Properties Washington III LLC,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,MHC Health 1 LP,1999 Broadway Suite 1000,Denver,CO,80202,473554305,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,MHNW 9 Othello East LP,1999 Broadway Suite 1000,Denver,CO,80202,471620007,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,MHNW 10 Othello West LP,1999 Broadway Suite 1000,Denver,CO,80202,471614235,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,MHNW 11 Woodlakes LP,1999 Broadway Suite 1000,Denver,CO,80202,472334969,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,MHNW 12 Eleanor Apartments LLLP,1999 Broadway Suite 1000,Denver,CO,80202,473599013,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,MHNW 13 Building 9 South LP,1999 Broadway Suite 1000,Denver,CO,80202,474660134,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,MHNW 14 Building 9 North LP,1999 Broadway Suite 1000,Denver,CO,80202,474683004,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,MHSE Adamsville Green Senior Partners LL,1999 Broadway Suite 1000,Denver,CO,80202,262523190,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,MHSE Bailey Station Senior LP,1999 Broadway Suite 1000,Denver,CO,80202,461868814,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,MHSE Mercy Park LP,1999 Broadway Suite 1000,Denver,CO,80202,611757712,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,MHSE Pinelake LP,1999 Broadway Suite 1000,Denver,CO,80202,800616765,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,MHSE Pinelake I LP,1999 Broadway Suite 1000,Denver,CO,80202,900856866,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,MHSE Reynoldstown Senior LP,1999 Broadway Suite 1000,Denver,CO,80202,463054017,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,MSHE Wilson Senior Residence LP,1999 Broadway Suite 1000,Denver,CO,80202,464907701,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Monroe Villa,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Monsignor Lyne LP,1999 Broadway Suite 1000,Denver,CO,80202,651308080,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Mortgage Resolution Fund LLC,120 LaSalle Suite 1850,Chicago,IL,60603,453801619,management,IL,na,RELATED,false,false
+201632289349306638,841559406,Moses Lake Estates,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,MPI Highland Place Apartments LP,1999 Broadway Suite 1000,Denver,CO,80202,582461689,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Near North Partnership,1999 Broadway Suite 1000,Denver,CO,80202,320143113,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Neary Lagoon Partners,1999 Broadway Suite 1000,Denver,CO,80202,770256317,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,New Dana Strand IV-A LP,1999 Broadway Suite 1000,Denver,CO,80202,473082758,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,New Dana Strand Partners I LP,1999 Broadway Suite 1000,Denver,CO,80202,510524022,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,New Dana Strand Townhomes,1999 Broadway Suite 1000,Denver,CO,80202,510524022,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,New Sterling Park LLC,1999 Broadway Suite 1000,Denver,CO,80202,272523530,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,New Sterling Park MM LLC,1999 Broadway Suite 1000,Denver,CO,80202,272523309,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,New Tacoma Phase II Mercy LLC,1999 Broadway Suite 1000,Denver,CO,80202,452478067,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,New Tacoma Senior Housing Phase I,1999 Broadway Suite 1000,Denver,CO,80202,911546525,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Northglen LP,1999 Broadway Suite 1000,Denver,CO,80202,320139512,low-inc hsng,NE,na,RELATED,false,false
+201632289349306638,841559406,Oak Harbor,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Olympic,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Park Terrace Apts (Park Terrace Apts),1999 Broadway Suite 1000,Denver,CO,80202,943332881,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Parkside Terrace LP,1999 Broadway Suite 1000,Denver,CO,80202,363914505,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Pilchuck,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Pine Road Village,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Pinewood Court Apartments,1999 Broadway Suite 1000,Denver,CO,80202,680435836,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Rainer Vista Block 43 Owner LP(Columbia,1999 Broadway Suite 1000,Denver,CO,80202,273221112,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Red Door Limited Partnership,1999 Broadway Suite 1000,Denver,CO,80202,363915050,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Reynoldstown Senior Apts (Renoldstown),1999 Broadway Suite 1000,Denver,CO,80202,270162550,low-inc hsng,GA,na,RELATED,false,false
+201632289349306638,841559406,Rock Creek Terrace,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Roseland Limited Partnerhsip,1999 Broadway Suite 1000,Denver,CO,80202,364304416,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Roseland Place LP,1999 Broadway Suite 1000,Denver,CO,80202,800195044,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,San Felipe Homes (San Felipe Homes),1999 Broadway Suite 1000,Denver,CO,80202,954384732,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Sandstone,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,SC Residence LLC,1999 Broadway Suite 1000,Denver,CO,80202,260675562,low-inc hsng,WI,na,RELATED,false,false
+201632289349306638,841559406,Silvercrest,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Skagit Village,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Somerset Senior Hsg,1999 Broadway Suite 1000,Denver,CO,80202,742765568,low-inc hsng,TX,na,RELATED,false,false
+201632289349306638,841559406,South Loop Apartments,1999 Broadway Suite 1000,Denver,CO,80202,364027476,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,St Andrew Community LP,1999 Broadway Suite 1000,Denver,CO,80202,651308080,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Sunnydale Development Co LLC,1999 Broadway Suite 1000,Denver,CO,80202,263566543,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Tahoe Valley Townhomes Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943298324,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,The Keating Building Little Village LLC,1999 Broadway Suite 1000,Denver,CO,80202,264584321,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,Third and LeCante LP,1999 Broadway Suite 1000,Denver,CO,80202,264176495,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Villa Columba Mercy Riverside LP,1999 Broadway Suite 1000,Denver,CO,80202,651308076,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Villa Columbia Mercy Riverside LP (Merc,1999 Broadway Suite 1000,Denver,CO,80202,364304416,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Villa Kathleen Redevelopment,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Village Park Housing Associates,1999 Broadway Suite 1000,Denver,CO,80202,680254566,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Visitation Valley Fam Hsg Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943275566,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Wapato Gardens,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Washington Square,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Wentworth Commons,1999 Broadway Suite 1000,Denver,CO,80202,300082553,low-inc hsng,IL,na,RELATED,false,false
+201632289349306638,841559406,West 28th Street,1999 Broadway Suite 1000,Denver,CO,80202,954550003,low-inc hsng,CA,na,RELATED,false,false
+201632289349306638,841559406,Western Manor LP,1999 Broadway Suite 1000,Denver,CO,80202,264578652,low-inc hsng,NE,na,RELATED,false,false
+201632289349306638,841559406,Woodlake Manor,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632289349306638,841559406,Woodlake Manor II,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201602579349300825,043326727,ADMIRALS HILL ASSISTED LIVING LP,165 CAPTAINS ROW,CHELSEA,MA,02150,043255842,ASSISTED LIVING,MA,N/A
+201602579349300825,043326727,ADMIRALS HILL ASSISTED LIVING II LP,165 CAPTAINS ROW,CHELSEA,MA,02150,043538835,ASSISTED LIVING,MA,N/A
+201602569349300110,520986261,Jubilee Housing LP,1640 Columbia Road NW,Washington,DC,20009,542117756,Real estate,DC,Jubilee Housing Inc,Related,0,1,0.00010
+201602569349300110,520986261,Jubilee Housing Limited Partnership II,1640 Columbia Road NW,Washington,DC,20009,550879363,Real estate,DC,Jubilee Housing Inc,Related,0,1,0.00010
+201602569349300110,520986261,Jubilee Maycroft LLC,1640 Columbia Road NW,Washington,DC,20009,Real estate,DC,Jubilee Housing Inc,Related,0,1,1.00000
+201612379349300036,363891982,DIVERSEY SQUARE ASSOCIATES II,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,363608291,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,NORTH KILDARE ASSOCIATES LP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,363358411,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,HUMBOLDT PARK LIMITED PARTNERSHIP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,363801596,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,CONTINENTAL PLAZA PRESERVATION II LP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,203859796,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,DIVERSEY PARKWAY ASSOCIATES LLC,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,363990230,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,PASEO BORICUA LIMITED PARTNERSHIP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,300153730,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,PALMER SQUARE PRESERVATION LP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,202925285,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,GATEWAY APARTMENTS LIMITED PARTNERSHIP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,364418771,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,CENTRAL PARK LIMITED PARTNERSHIP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,363929031,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,NORTH AND TALMAN FAMILY LIMITED PARTNERSHIP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,205728917,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,NORTH AND TALMAN ELDERLY LIMITED PARTNERSHIP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,205728996,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,BOULEVARD COURT APARTMENTS LIMITED PARTNERSHIP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,264147698,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,NORTH AND TALMAN III LIMITED PARTNERSHIP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,264473871,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,NORTH AND PULASKI ELDERLY LIMITED PARTNERSHIP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,273722347,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,CICERO & GEORGE LIMITED PARTNERSHIP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,800589149,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,HHDC MALLARD POINT LLC,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,471511071,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,HHDC DAMEN COURT LLC,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,471511396,RENTAL REAL ESTATE,IL,N/A
+201612379349300036,363891982,AFFORDABLE COMMUNITY ENERGY I LLC,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,800772267,ENERGY COMPANY,IL,N/A
+201612379349300036,363891982,SACRAMENTO AND THOMAS LIMITED PARTNERSHIP,325 N WELLS STREET 8TH FLOOR,CHICAGO,IL,60654,472359658,RENTAL REAL ESTATE,IL,N/A
+201642449349300534,061070285,Senior Living by Masonicare,PO Box 70,Wallingford,CT,06492,364784728,Manage Senior Living Facility,CT,Masonicare at Mystic,false,false,0.78130
+201632509349300023,134224803,1028 Howard St Associates,1999 Broadway Suite 1000,Denver,CO,80202,943160742,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,104th Street LP,1999 Broadway Suite 1000,Denver,CO,80202,272755027,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,1100 Ocean Avenue LP,1999 Broadway Suite 1000,Denver,CO,80202,454437017,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,1101 Howard St Associates,1999 Broadway Suite 1000,Denver,CO,80202,943160341,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,111 Jones Street Assoc (111 Jones St),1999 Broadway Suite 1000,Denver,CO,80202,943142765,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,1475 167th Avenue Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943249328,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,16th & Church Street Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943135262,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,180 Properties,1999 Broadway Suite 1000,Denver,CO,80202,270561021,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,1760 Bush LP,1999 Broadway Suite 1000,Denver,CO,80202,473449006,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,1880 Pine LP,1999 Broadway Suite 1000,Denver,CO,80202,471291546,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,2000 Illinois Aurora LLC,1999 Broadway Suite 1000,Denver,CO,80202,462558442,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,2101 Telegraph Avenue Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943222935,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,2220 10th Avenue Assoc (Santana Apts),1999 Broadway Suite 1000,Denver,CO,80202,943140163,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,2698 California LP,1999 Broadway Suite 1000,Denver,CO,80202,473462784,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,2814 Fifth Street Associates LP,1999 Broadway Suite 1000,Denver,CO,80202,680340317,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,365 Fulton LP (Parcel G),1999 Broadway Suite 1000,Denver,CO,80202,261539223,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,4707 Malden Ltd Partnership,1999 Broadway Suite 1000,Denver,CO,80202,363762788,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,5042 Winthrop Apartments LP,1999 Broadway Suite 1000,Denver,CO,80202,363855358,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,55 Laguna LP,1999 Broadway Suite 1000,Denver,CO,80202,453582721,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,901 West 63rd LP (Englewood Apartments),1999 Broadway Suite 1000,Denver,CO,80202,261233617,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Acquisition Properties Georgia I,1999 Broadway Suite 1000,Denver,CO,80202,204465851,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Acquisition Properties Georgia II,1999 Broadway Suite 1000,Denver,CO,80202,204465972,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Adamsville Green LP,1999 Broadway Suite 1000,Denver,CO,80202,262252791,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Allegre Mercy Redevelopment LLLP,1999 Broadway Suite 1000,Denver,CO,80202,453540725,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Antioch Villas LP,1999 Broadway Suite 1000,Denver,CO,80202,270194197,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Appian Way Mercy LLC,1999 Broadway Suite 1000,Denver,CO,80202,911546525,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Aromor Mercy LLC (Aromor Apartments),1999 Broadway Suite 1000,Denver,CO,80202,300296042,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Bayshore Court,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Belray Apartments,1999 Broadway Suite 1000,Denver,CO,80202,364027474,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Bennett House LP,1999 Broadway Suite 1000,Denver,CO,80202,651308081,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Bishops Block (Bishops Block),1999 Broadway Suite 1000,Denver,CO,80202,010477157,low-inc hsng,IA,na,RELATED,false,false
+201632509349300023,134224803,Bluff Mercy LLC,1999 Broadway Suite 1000,Denver,CO,80202,270954394,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Boise Senior 202 Owner LP,1999 Broadway Suite 1000,Denver,CO,80202,270992784,low-inc hsng,ID,na,RELATED,false,false
+201632509349300023,134224803,Boundary Village,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Brentwood Green Valley Apts,1999 Broadway Suite 1000,Denver,CO,80202,943135990,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Britton Street Assoc(Britton Court),1999 Broadway Suite 1000,Denver,CO,80202,943300509,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Cambridge Apartments,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Cascade Apartments,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Cascade Village,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Cedarwood I,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Cedarwood IV,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Centro Partners,1999 Broadway Suite 1000,Denver,CO,80202,770295344,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Cheney Gardens,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Coastside Senior Housing LP,1999 Broadway Suite 1000,Denver,CO,80202,452262853,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Colonia San Martin Associates LP,1999 Broadway Suite 1000,Denver,CO,80202,830481233,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Commons on Main LP,1999 Broadway Suite 1000,Denver,CO,80202,208033896,low-inc hsng,OH,na,RELATED,false,false
+201632509349300023,134224803,Countryside Senior Apartments LP,1999 Broadway Suite 1000,Denver,CO,80202,261483851,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Danville Veterans Housing LLC,1999 Broadway Suite 1000,Denver,CO,80202,352441770,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Dorothy Day Community LP,1999 Broadway Suite 1000,Denver,CO,80202,651308078,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Dove Family Housing Associates LP,1999 Broadway Suite 1000,Denver,CO,80202,330975782,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Eden House LP,1999 Broadway Suite 1000,Denver,CO,80202,462704216,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,El Monte LP,1999 Broadway Suite 1000,Denver,CO,80202,461360554,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Evergreen Manor,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Evergreen Vista 1 Owner LP,1999 Broadway Suite 1000,Denver,CO,80202,274160484,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Family Tree & Lincoln Way LLLP,1999 Broadway Suite 1000,Denver,CO,80202,462841485,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Ferndale Villa,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Fircrest,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Florin Wood Assoc,1999 Broadway Suite 1000,Denver,CO,80202,680318012,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Franciscan Homes III LP,1999 Broadway Suite 1000,Denver,CO,80202,311394513,low-inc hsng,OH,na,RELATED,false,false
+201632509349300023,134224803,Franciscan Homes IV LP,1999 Broadway Suite 1000,Denver,CO,80202,311463371,low-inc hsng,OH,na,RELATED,false,false
+201632509349300023,134224803,Galewood SLF Associates LP,1999 Broadway Suite 1000,Denver,CO,80202,201882654,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Grayslake senior housing,1999 Broadway Suite 1000,Denver,CO,80202,263800351,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Greenwich Park Apartments LLC,1999 Broadway Suite 1000,Denver,CO,80202,320453460,low-inc hsng,WI,na,RELATED,false,false
+201632509349300023,134224803,Harold Washington Apartments,1999 Broadway Suite 1000,Denver,CO,80202,363556291,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,HWA-850 EASTWOOD LP,1999 Broadway Suite 1000,Denver,CO,80202,271257130,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Impact Family Village GP LLC,1999 Broadway Suite 1000,Denver,CO,80202,364715432,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Impact Family Village LP,1999 Broadway Suite 1000,Denver,CO,80202,800769567,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Intercommunity Mercy Washington II,1999 Broadway Suite 1000,Denver,CO,80202,911572690,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,JFK Tower LP,1999 Broadway Suite 1000,Denver,CO,80202,473477829,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Johnston Center Outlots LLC,1999 Broadway Suite 1000,Denver,CO,80202,270162550,low-inc hsng,WI,na,RELATED,false,false
+201632509349300023,134224803,Johnston Center Re-Use LP,1999 Broadway Suite 1000,Denver,CO,80202,300529359,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Junipero Serra LP,1999 Broadway Suite 1000,Denver,CO,80202,651308082,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Kankakee Station Street Senior Housing L,1999 Broadway Suite 1000,Denver,CO,80202,461841937,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Kennedy Estates Hsg Assoc,1999 Broadway Suite 1000,Denver,CO,80202,680355465,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,La Playa Residential,1999 Broadway Suite 1000,Denver,CO,80202,770278613,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Lake Stevens,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Lake Village East,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Mabton Gardens,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Magnolia Limited Partnership,1999 Broadway Suite 1000,Denver,CO,80202,363822288,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Malden Limited Partnership II,1999 Broadway Suite 1000,Denver,CO,80202,208746121,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Marlton Affordable Hsg Assoc,1999 Broadway Suite 1000,Denver,CO,80202,043594636,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mason Apartments (Mason School Apts),1999 Broadway Suite 1000,Denver,CO,80202,421301449,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Alston Lake LLC,1999 Broadway Suite 1000,Denver,CO,80202,202948887,low-inc hsng,SC,na,RELATED,false,false
+201632509349300023,134224803,Mercy Crestview Village Housing LP,1999 Broadway Suite 1000,Denver,CO,80202,264578510,low-inc hsng,NE,na,RELATED,false,false
+201632509349300023,134224803,Mercy Eden House LLC,1999 Broadway Suite 1000,Denver,CO,80202,464227209,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,MERCY FAMILY PLAZA LP,1999 Broadway Suite 1000,Denver,CO,80202,943094867,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Arizona I,1999 Broadway Suite 1000,Denver,CO,80202,860791473,low-inc hsng,AZ,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Arizona II (Page Commons),1999 Broadway Suite 1000,Denver,CO,80202,331075152,low-inc hsng,AZ,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Ca XXXIII,1999 Broadway Suite 1000,Denver,CO,80202,432100410,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Ca XXXVII,1999 Broadway Suite 1000,Denver,CO,80202,680631916,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 46 LP,1999 Broadway Suite 1000,Denver,CO,80202,272321382,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 47 LP,1999 Broadway Suite 1000,Denver,CO,80202,272930358,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 48 LP,1999 Broadway Suite 1000,Denver,CO,80202,273117667,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 49 LP,1999 Broadway Suite 1000,Denver,CO,80202,273277379,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 50 LP(St Anth,1999 Broadway Suite 1000,Denver,CO,80202,273381997,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 51 LP (200 6th,1999 Broadway Suite 1000,Denver,CO,80202,942963228,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 52 LP,1999 Broadway Suite 1000,Denver,CO,80202,452751062,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 53 LP (Madonna,1999 Broadway Suite 1000,Denver,CO,80202,452050339,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 54 LP,1999 Broadway Suite 1000,Denver,CO,80202,942963228,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 55 LP,1999 Broadway Suite 1000,Denver,CO,80202,453710672,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 56 LP,1999 Broadway Suite 1000,Denver,CO,80202,454659051,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 57 LP,1999 Broadway Suite 1000,Denver,CO,80202,454711412,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 58 LP,1999 Broadway Suite 1000,Denver,CO,80202,454486957,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 59 LP,1999 Broadway Suite 1000,Denver,CO,80202,462537487,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 60 LP,1999 Broadway Suite 1000,Denver,CO,80202,461239561,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 61 LP,1999 Broadway Suite 1000,Denver,CO,80202,463636570,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 62 LP,1999 Broadway Suite 1000,Denver,CO,80202,463424351,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 63 LP,1999 Broadway Suite 1000,Denver,CO,80202,463921420,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 64 LP,1999 Broadway Suite 1000,Denver,CO,80202,465015672,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 65 LP,1999 Broadway Suite 1000,Denver,CO,80202,471120541,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 66 LP,1999 Broadway Suite 1000,Denver,CO,80202,473441276,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 67 LP,1999 Broadway Suite 1000,Denver,CO,80202,473628711,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 68 LP,1999 Broadway Suite 1000,Denver,CO,80202,474992813,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 71 LP,1999 Broadway Suite 1000,Denver,CO,80202,475468338,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California 72 LP,1999 Broadway Suite 1000,Denver,CO,80202,811758210,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California I,1999 Broadway Suite 1000,Denver,CO,80202,841210914,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California II,1999 Broadway Suite 1000,Denver,CO,80202,943187825,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California III,1999 Broadway Suite 1000,Denver,CO,80202,943187826,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California IX,1999 Broadway Suite 1000,Denver,CO,80202,943230471,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California V,1999 Broadway Suite 1000,Denver,CO,80202,943229051,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California VI,1999 Broadway Suite 1000,Denver,CO,80202,943224528,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California VII,1999 Broadway Suite 1000,Denver,CO,80202,943229540,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California VIII,1999 Broadway Suite 1000,Denver,CO,80202,943229541,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California X (The Rose),1999 Broadway Suite 1000,Denver,CO,80202,943232501,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XI,1999 Broadway Suite 1000,Denver,CO,80202,943244521,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XII,1999 Broadway Suite 1000,Denver,CO,80202,943366333,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XIII,1999 Broadway Suite 1000,Denver,CO,80202,943377935,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XIV,1999 Broadway Suite 1000,Denver,CO,80202,943377941,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XIX,1999 Broadway Suite 1000,Denver,CO,80202,010716135,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XL,1999 Broadway Suite 1000,Denver,CO,80202,261398920,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XLI,1999 Broadway Suite 1000,Denver,CO,80202,262350027,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XLII,1999 Broadway Suite 1000,Denver,CO,80202,262575525,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XLIII,1999 Broadway Suite 1000,Denver,CO,80202,262553554,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XLIV,1999 Broadway Suite 1000,Denver,CO,80202,263583090,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XLV (Washington,1999 Broadway Suite 1000,Denver,CO,80202,651308076,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XLVII,1999 Broadway Suite 1000,Denver,CO,80202,272930358,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XV,1999 Broadway Suite 1000,Denver,CO,80202,943379316,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XVI,1999 Broadway Suite 1000,Denver,CO,80202,943381170,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XVII,1999 Broadway Suite 1000,Denver,CO,80202,943400496,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XVIII,1999 Broadway Suite 1000,Denver,CO,80202,030376881,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XX,1999 Broadway Suite 1000,Denver,CO,80202,364497277,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXI,1999 Broadway Suite 1000,Denver,CO,80202,481259652,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXII,1999 Broadway Suite 1000,Denver,CO,80202,352172040,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXIII,1999 Broadway Suite 1000,Denver,CO,80202,820560494,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXIV,1999 Broadway Suite 1000,Denver,CO,80202,743052786,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXIX,1999 Broadway Suite 1000,Denver,CO,80202,731729092,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXV,1999 Broadway Suite 1000,Denver,CO,80202,810564415,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXVI,1999 Broadway Suite 1000,Denver,CO,80202,582679059,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXVII,1999 Broadway Suite 1000,Denver,CO,80202,651207291,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXVIII,1999 Broadway Suite 1000,Denver,CO,80202,731721242,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXX,1999 Broadway Suite 1000,Denver,CO,80202,611488186,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXXI,1999 Broadway Suite 1000,Denver,CO,80202,870756700,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXXII,1999 Broadway Suite 1000,Denver,CO,80202,870756940,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXXIV LP,1999 Broadway Suite 1000,Denver,CO,80202,510594948,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXXIX,1999 Broadway Suite 1000,Denver,CO,80202,010885277,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXXV,1999 Broadway Suite 1000,Denver,CO,80202,760827799,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXXVI,1999 Broadway Suite 1000,Denver,CO,80202,562568833,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing California XXXVIII,1999 Broadway Suite 1000,Denver,CO,80202,331153406,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,MERCY HOUSING COLORADO I LTD,1999 Broadway Suite 1000,Denver,CO,80202,841176712,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Colorado III,1999 Broadway Suite 1000,Denver,CO,80202,841292696,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Colorado IV,1999 Broadway Suite 1000,Denver,CO,80202,841284749,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Colorado V,1999 Broadway Suite 1000,Denver,CO,80202,841318329,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Colorado VI,1999 Broadway Suite 1000,Denver,CO,80202,841361296,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Colorado VII,1999 Broadway Suite 1000,Denver,CO,80202,841473883,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Colorado VIII,1999 Broadway Suite 1000,Denver,CO,80202,931190349,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Colorado XI LLC,1999 Broadway Suite 1000,Denver,CO,80202,205331841,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Colorado-I LTD (Grace),1999 Broadway Suite 1000,Denver,CO,80202,841176712,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Colorado-II Ltd,1999 Broadway Suite 1000,Denver,CO,80202,841176713,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Colorado-IX,1999 Broadway Suite 1000,Denver,CO,80202,870706258,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia 12 LP (Savannah G,1999 Broadway Suite 1000,Denver,CO,80202,272987561,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia 13 LP,1999 Broadway Suite 1000,Denver,CO,80202,455108221,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia 14 LP,1999 Broadway Suite 1000,Denver,CO,80202,462787254,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia 15 LP,1999 Broadway Suite 1000,Denver,CO,80202,465547801,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia I,1999 Broadway Suite 1000,Denver,CO,80202,582461689,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia II,1999 Broadway Suite 1000,Denver,CO,80202,582621798,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia III,1999 Broadway Suite 1000,Denver,CO,80202,431954812,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia IV,1999 Broadway Suite 1000,Denver,CO,80202,562328730,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia IX LP,1999 Broadway Suite 1000,Denver,CO,80202,208829418,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia V LP,1999 Broadway Suite 1000,Denver,CO,80202,900284434,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia VI LP,1999 Broadway Suite 1000,Denver,CO,80202,204466474,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia VIII LP,1999 Broadway Suite 1000,Denver,CO,80202,582461689,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia X (Savannah Garden,1999 Broadway Suite 1000,Denver,CO,80202,270162550,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Georgia XI LP (Etowah Ter,1999 Broadway Suite 1000,Denver,CO,80202,262523190,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Idaho I,1999 Broadway Suite 1000,Denver,CO,80202,841212028,low-inc hsng,ID,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Idaho II,1999 Broadway Suite 1000,Denver,CO,80202,841212029,low-inc hsng,ID,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Idaho III,1999 Broadway Suite 1000,Denver,CO,80202,841251391,low-inc hsng,ID,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Idaho IV,1999 Broadway Suite 1000,Denver,CO,80202,820487654,low-inc hsng,ID,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Idaho NSP LLC (NSPID),1999 Broadway Suite 1000,Denver,CO,80202,271039061,low-inc hsng,ID,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Idaho V (Sisters Villa),1999 Broadway Suite 1000,Denver,CO,80202,043624359,low-inc hsng,ID,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Iowa II LP,1999 Broadway Suite 1000,Denver,CO,80202,841284752,low-inc hsng,IA,na,RELATED,false,false
+201632509349300023,134224803,mercy housing midwest nebraska llc,1999 Broadway Suite 1000,Denver,CO,80202,201583332,low-inc hsng,NE,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Missouri II,1999 Broadway Suite 1000,Denver,CO,80202,841201811,low-inc hsng,MO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing S Carolina I,1999 Broadway Suite 1000,Denver,CO,80202,593767323,low-inc hsng,SC,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Senior Properties LLC,1999 Broadway Suite 1000,Denver,CO,80202,943081666,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing South Carolina I,1999 Broadway Suite 1000,Denver,CO,80202,593767323,low-inc hsng,SC,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing South Dakota I LLC,1999 Broadway Suite 1000,Denver,CO,80202,202830331,low-inc hsng,SD,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing South Dakota II LLC,1999 Broadway Suite 1000,Denver,CO,80202,202830356,low-inc hsng,SD,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Utah I,1999 Broadway Suite 1000,Denver,CO,80202,020564555,low-inc hsng,UT,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Washington III,1999 Broadway Suite 1000,Denver,CO,80202,911676111,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Washington IX LP,1999 Broadway Suite 1000,Denver,CO,80202,651186086,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Washington V,1999 Broadway Suite 1000,Denver,CO,80202,841457612,low-inc hsng,OR,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Washington VI,1999 Broadway Suite 1000,Denver,CO,80202,841459924,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Washington VII,1999 Broadway Suite 1000,Denver,CO,80202,912038920,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Washington VIII,1999 Broadway Suite 1000,Denver,CO,80202,912124779,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Housing Washington X LLC,1999 Broadway Suite 1000,Denver,CO,80202,550887839,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Loan Fund Sub-CDE LLC,1999 Broadway Suite 1000,Denver,CO,80202,271326149,low-inc hsng,CO,na,RELATED,false,false
+201632509349300023,134224803,Mercy Properties Washington I LLC,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Properties Washington II,1999 Broadway Suite 1000,Denver,CO,80202,300117515,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Mercy Properties Washington III LLC,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,MHC Health 1 LP,1999 Broadway Suite 1000,Denver,CO,80202,473554305,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,MHNW 9 Othello East LP,1999 Broadway Suite 1000,Denver,CO,80202,471620007,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,MHNW 10 Othello West LP,1999 Broadway Suite 1000,Denver,CO,80202,471614235,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,MHNW 11 Woodlakes LP,1999 Broadway Suite 1000,Denver,CO,80202,472334969,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,MHNW 12 Eleanor Apartments LLLP,1999 Broadway Suite 1000,Denver,CO,80202,473599013,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,MHNW 13 Building 9 South LP,1999 Broadway Suite 1000,Denver,CO,80202,474660134,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,MHNW 14 Building 9 North LP,1999 Broadway Suite 1000,Denver,CO,80202,474683004,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,MHSE Adamsville Green Senior Partners LL,1999 Broadway Suite 1000,Denver,CO,80202,262523190,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,MHSE Bailey Station Senior LP,1999 Broadway Suite 1000,Denver,CO,80202,461868814,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,MHSE Mercy Park LP,1999 Broadway Suite 1000,Denver,CO,80202,611757712,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,MHSE Pinelake LP,1999 Broadway Suite 1000,Denver,CO,80202,800616765,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,MHSE Pinelake I LP,1999 Broadway Suite 1000,Denver,CO,80202,900856866,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,MHSE Reynoldstown Senior LP,1999 Broadway Suite 1000,Denver,CO,80202,463054017,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,MSHE Wilson Senior Residence LP,1999 Broadway Suite 1000,Denver,CO,80202,464907701,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Monroe Villa,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Monsignor Lyne LP,1999 Broadway Suite 1000,Denver,CO,80202,651308080,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Mortgage Resolution Fund LLC,120 LaSalle Suite 1850,Chicago,IL,60603,453801619,management,IL,na,RELATED,false,false
+201632509349300023,134224803,Moses Lake Estates,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,MPI Highland Place Apartments LP,1999 Broadway Suite 1000,Denver,CO,80202,582461689,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Near North Partnership,1999 Broadway Suite 1000,Denver,CO,80202,320143113,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Neary Lagoon Partners,1999 Broadway Suite 1000,Denver,CO,80202,770256317,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,New Dana Strand IV-A LP,1999 Broadway Suite 1000,Denver,CO,80202,473082758,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,New Dana Strand Partners I LP,1999 Broadway Suite 1000,Denver,CO,80202,510524022,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,New Dana Strand Townhomes,1999 Broadway Suite 1000,Denver,CO,80202,510524022,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,New Sterling Park LLC,1999 Broadway Suite 1000,Denver,CO,80202,272523530,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,New Sterling Park MM LLC,1999 Broadway Suite 1000,Denver,CO,80202,272523309,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,New Tacoma Phase II Mercy LLC,1999 Broadway Suite 1000,Denver,CO,80202,452478067,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,New Tacoma Senior Housing Phase I,1999 Broadway Suite 1000,Denver,CO,80202,911546525,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Northglen LP,1999 Broadway Suite 1000,Denver,CO,80202,320139512,low-inc hsng,NE,na,RELATED,false,false
+201632509349300023,134224803,Oak Harbor,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Olympic,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Park Terrace Apts (Park Terrace Apts),1999 Broadway Suite 1000,Denver,CO,80202,943332881,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Parkside Terrace LP,1999 Broadway Suite 1000,Denver,CO,80202,363914505,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Pilchuck,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Pine Road Village,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Pinewood Court Apartments,1999 Broadway Suite 1000,Denver,CO,80202,680435836,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Rainer Vista Block 43 Owner LP(Columbia,1999 Broadway Suite 1000,Denver,CO,80202,273221112,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Red Door Limited Partnership,1999 Broadway Suite 1000,Denver,CO,80202,363915050,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Reynoldstown Senior Apts (Renoldstown),1999 Broadway Suite 1000,Denver,CO,80202,270162550,low-inc hsng,GA,na,RELATED,false,false
+201632509349300023,134224803,Rock Creek Terrace,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Roseland Limited Partnerhsip,1999 Broadway Suite 1000,Denver,CO,80202,364304416,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Roseland Place LP,1999 Broadway Suite 1000,Denver,CO,80202,800195044,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,San Felipe Homes (San Felipe Homes),1999 Broadway Suite 1000,Denver,CO,80202,954384732,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Sandstone,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,SC Residence LLC,1999 Broadway Suite 1000,Denver,CO,80202,260675562,low-inc hsng,WI,na,RELATED,false,false
+201632509349300023,134224803,Silvercrest,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Skagit Village,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Somerset Senior Hsg,1999 Broadway Suite 1000,Denver,CO,80202,742765568,low-inc hsng,TX,na,RELATED,false,false
+201632509349300023,134224803,South Loop Apartments,1999 Broadway Suite 1000,Denver,CO,80202,364027476,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,St Andrew Community LP,1999 Broadway Suite 1000,Denver,CO,80202,651308080,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Sunnydale Development Co LLC,1999 Broadway Suite 1000,Denver,CO,80202,263566543,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Tahoe Valley Townhomes Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943298324,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,The Keating Building Little Village LLC,1999 Broadway Suite 1000,Denver,CO,80202,264584321,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,Third and LeCante LP,1999 Broadway Suite 1000,Denver,CO,80202,264176495,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Villa Columba Mercy Riverside LP,1999 Broadway Suite 1000,Denver,CO,80202,651308076,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Villa Columbia Mercy Riverside LP (Merc,1999 Broadway Suite 1000,Denver,CO,80202,364304416,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Villa Kathleen Redevelopment,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Village Park Housing Associates,1999 Broadway Suite 1000,Denver,CO,80202,680254566,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Visitation Valley Fam Hsg Assoc,1999 Broadway Suite 1000,Denver,CO,80202,943275566,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Wapato Gardens,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Washington Square,1999 Broadway Suite 1000,Denver,CO,80202,201031378,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Wentworth Commons,1999 Broadway Suite 1000,Denver,CO,80202,300082553,low-inc hsng,IL,na,RELATED,false,false
+201632509349300023,134224803,West 28th Street,1999 Broadway Suite 1000,Denver,CO,80202,954550003,low-inc hsng,CA,na,RELATED,false,false
+201632509349300023,134224803,Western Manor LP,1999 Broadway Suite 1000,Denver,CO,80202,264578652,low-inc hsng,NE,na,RELATED,false,false
+201632509349300023,134224803,Woodlake Manor,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632509349300023,134224803,Woodlake Manor II,1999 Broadway Suite 1000,Denver,CO,80202,770601463,low-inc hsng,WA,na,RELATED,false,false
+201632529349301013,596196141,GOODWILL INDUSTRIES OF SWFL NMTC RESOURCES I LLC,5100 TICE STREET,FORT MYERS,FL,33905,461056972,RENTAL REAL ESTATE,FL,GOODWILL INDUSTRIES OF SOUTHWEST FLORIDA INC,N/A,-563865,13716831,0,0,0.99000
+201632529349301013,596196141,GOODWILL INDUSTRIES OF SWFL NMTC RESOURCES II LLC,5100 TICE STREET,FORT MYERS,FL,33905,461062434,RENTAL REAL ESTATE,FL,GOODWILL INDUSTRIES OF SOUTHWEST FLORIDA INC,N/A,753046,8319070,0,0,0.99000

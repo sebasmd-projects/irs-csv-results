@@ -1,0 +1,99 @@
+GrssInvstmntIncm509_CrrntTxYrMns4YrsAmt|Gross income from interest, dividends, payments received on security loans, rents, royalities and income from similar sources; Current tax year minus four years
+GrssInvstmntIncm509_CrrntTxYrMns3YrsAmt|Gross income from interest, dividends, payments received on security loans, rents, royalities and income from similar sources; Current tax year minus three years
+GrssInvstmntIncm509_CrrntTxYrMns2YrsAmt|Gross income from interest, dividends, payments received on security loans, rents, royalities and income from similar sources; Current tax year minus two years
+GrssInvstmntIncm509_CrrntTxYrMns1YrAmt|Gross income from interest, dividends, payments received on security loans, rents, royalities and income from similar sources; Current tax year minus one year
+GrssInvstmntIncm509_CrrntTxYrAmt|Gross income from interest, dividends, payments received on security loans, rents, royalities and income from similar sources; Current tax year
+GrssInvstmntIncm509_TtlAmt|Gross income from interest, dividends, payments received on security loans, rents, royalities and income from similar sources; Total
+Pst1975UBTI_CrrntTxYrMns4YrsAmt|Unrelated business taxable income (less section 511 taxes) from businesses acquired after 6-30-75; Current tax year minus four years
+Pst1975UBTI_CrrntTxYrMns3YrsAmt|Unrelated business taxable income (less section 511 taxes) from businesses acquired after 6-30-75; Current tax year minus three years
+Pst1975UBTI_CrrntTxYrMns2YrsAmt|Unrelated business taxable income (less section 511 taxes) from businesses acquired after 6-30-75; Current tax year minus two years
+Pst1975UBTI_CrrntTxYrMns1YrAmt|Unrelated business taxable income (less section 511 taxes) from businesses acquired after 6-30-75; Current tax year minus one year
+Pst1975UBTI_CrrntTxYrAmt|Unrelated business taxable income (less section 511 taxes) from businesses acquired after 6-30-75; Current tax year
+Pst1975UBTI_TtlAmt|Unrelated business taxable income (less section 511 taxes) from businesses acquired after 6-30-75; Total
+InvstmntIncmAndUBTI_CrrntTxYrMns4YrsAmt|Total of lines 10a and 10b; Current tax year minus four years
+InvstmntIncmAndUBTI_CrrntTxYrMns3YrsAmt|Total of lines 10a and 10b; Current tax year minus three years
+InvstmntIncmAndUBTI_CrrntTxYrMns2YrsAmt|Total of lines 10a and 10b; Current tax year minus two years
+InvstmntIncmAndUBTI_CrrntTxYrMns1YrAmt|Total of lines 10a and 10b; Current tax year minus one year
+InvstmntIncmAndUBTI_CrrntTxYrAmt|Total of lines 10a and 10b; Current tax year
+InvstmntIncmAndUBTI_TtlAmt|Total of lines 10a and 10b; Total
+NtIncmFrmOthrUBI_CrrntTxYrMns4YrsAmt|Net income from unrelated business activities not included in line 10b; Current tax year minus four years
+NtIncmFrmOthrUBI_CrrntTxYrMns3YrsAmt|Net income from unrelated business activities not included in line 10b; Current tax year minus three years
+NtIncmFrmOthrUBI_CrrntTxYrMns2YrsAmt|Net income from unrelated business activities not included in line 10b; Current tax year minus two years
+NtIncmFrmOthrUBI_CrrntTxYrMns1YrAmt|Net income from unrelated business activities not included in line 10b; Current tax year minus one year
+NtIncmFrmOthrUBI_CrrntTxYrAmt|Net income from unrelated business activities not included in line 10b; Current tax year
+NtIncmFrmOthrUBI_TtlAmt|Net income from unrelated business activities not included in line 10b; Total
+OthrIncm509_CrrntTxYrMns4YrsAmt|Other income. (Attach a schedule per instructions); Current tax year minus four years
+OthrIncm509_CrrntTxYrMns3YrsAmt|Other income. (Attach a schedule per instructions); Current tax year minus three years
+OthrIncm509_CrrntTxYrMns2YrsAmt|Other income. (Attach a schedule per instructions); Current tax year minus two years
+OthrIncm509_CrrntTxYrMns1YrAmt|Other income. (Attach a schedule per instructions); Current tax year minus one year
+OthrIncm509_CrrntTxYrAmt|Other income. (Attach a schedule per instructions); Current tax year
+OthrIncm509_TtlAmt|Other income. (Attach a schedule per instructions); Total
+TtlSpprtClndrYr_CrrntTxYrMns4YrsAmt|Total support total; Current tax year minus four years
+TtlSpprtClndrYr_CrrntTxYrMns3YrsAmt|Total support total; Current tax year minus three years
+TtlSpprtClndrYr_CrrntTxYrMns2YrsAmt|Total support total; Current tax year minus two years
+TtlSpprtClndrYr_CrrntTxYrMns1YrAmt|Total support total; Current tax year minus one year
+TtlSpprtClndrYr_CrrntTxYrAmt|Total support total; Current tax year
+TtlSpprtClndrYr_TtlAmt|Total support total; Total
+SkdA_Frst5Yrs509Ind|First five years?
+SkdA_PblcSpprtCY509Pct|Public support percentage (line 8 column(f) divided by line 13 column(f))
+SkdA_PblcSpprtPY509Pct|Public support percentage from prior year's Schedule A, Part III, line 14a
+SkdA_InvstmntIncmCYPct|Investment income percentage (line 10c column (f) divided by line 13 column(f))
+SkdA_InvstmntIncmPYPct|Investment income percentage from prior year's Schedule A, Part III, line 15a
+SkdA_ThrtyThrPctSprtTstsCY509Ind|33.33 % Tests - Current Year. If the organization did not check the box on line17, and line 14a is more than 33.33% and line 15a is less than 33.33%, check this box and stop here
+SkdA_ThrtyThrPctSprtTstsPY509Ind|33.33 % Tests - Prior Year. If the organization did not check the boxes on line 17 and line 18, and line 14b is more than 33.33% and line 15a is less than 33.33%, check this box and stop here
+GftsGrntsCntrsRcvd509_CrrntTxYrMns4YrsAmt|Gifts, grants,contributions and membership fees received; Current tax year minus four years
+GftsGrntsCntrsRcvd509_CrrntTxYrMns3YrsAmt|Gifts, grants,contributions and membership fees received; Current tax year minus three years
+GftsGrntsCntrsRcvd509_CrrntTxYrMns2YrsAmt|Gifts, grants,contributions and membership fees received; Current tax year minus two years
+GftsGrntsCntrsRcvd509_CrrntTxYrMns1YrAmt|Gifts, grants,contributions and membership fees received; Current tax year minus one year
+GftsGrntsCntrsRcvd509_CrrntTxYrAmt|Gifts, grants,contributions and membership fees received; Current tax year
+GftsGrntsCntrsRcvd509_TtlAmt|Gifts, grants,contributions and membership fees received; Total
+SkdA_PrvtFndtn509Ind|Private Foundation. If the organization did not check the box on either line 14, 19a or 19b, check this box and see instructions
+GrssRcptsAdmssns_CrrntTxYrMns4YrsAmt|Gross receipts from admissions, merchandise sold or services performed for tax-exempt purpose; Current tax year minus four years
+GrssRcptsAdmssns_CrrntTxYrMns3YrsAmt|Gross receipts from admissions, merchandise sold or services performed for tax-exempt purpose; Current tax year minus three years
+GrssRcptsAdmssns_CrrntTxYrMns2YrsAmt|Gross receipts from admissions, merchandise sold or services performed for tax-exempt purpose; Current tax year minus two years
+GrssRcptsAdmssns_CrrntTxYrMns1YrAmt|Gross receipts from admissions, merchandise sold or services performed for tax-exempt purpose; Current tax year minus one year
+GrssRcptsAdmssns_CrrntTxYrAmt|Gross receipts from admissions, merchandise sold or services performed for tax-exempt purpose; Current tax year
+GrssRcptsAdmssns_TtlAmt|Gross receipts from admissions, merchandise sold or services performed for tax-exempt purpose; Total
+GrssRcptsNnUnrltBs_CrrntTxYrMns4YrsAmt|Gross receipts from activities that are not an unrelated trade or business order under section 513; Current tax year minus four years
+GrssRcptsNnUnrltBs_CrrntTxYrMns3YrsAmt|Gross receipts from activities that are not an unrelated trade or business order under section 513; Current tax year minus three years
+GrssRcptsNnUnrltBs_CrrntTxYrMns2YrsAmt|Gross receipts from activities that are not an unrelated trade or business order under section 513; Current tax year minus two years
+GrssRcptsNnUnrltBs_CrrntTxYrMns1YrAmt|Gross receipts from activities that are not an unrelated trade or business order under section 513; Current tax year minus one year
+GrssRcptsNnUnrltBs_CrrntTxYrAmt|Gross receipts from activities that are not an unrelated trade or business order under section 513; Current tax year
+GrssRcptsNnUnrltBs_TtlAmt|Gross receipts from activities that are not an unrelated trade or business order under section 513; Total
+TxRvLvdOrgnztnlBnft509_CrrntTxYrMns4YrsAmt|Tax revenues levied for the organization's benefit; Current tax year minus four years
+TxRvLvdOrgnztnlBnft509_CrrntTxYrMns3YrsAmt|Tax revenues levied for the organization's benefit; Current tax year minus three years
+TxRvLvdOrgnztnlBnft509_CrrntTxYrMns2YrsAmt|Tax revenues levied for the organization's benefit; Current tax year minus two years
+TxRvLvdOrgnztnlBnft509_CrrntTxYrMns1YrAmt|Tax revenues levied for the organization's benefit; Current tax year minus one year
+TxRvLvdOrgnztnlBnft509_CrrntTxYrAmt|Tax revenues levied for the organization's benefit; Current tax year
+TxRvLvdOrgnztnlBnft509_TtlAmt|Tax revenues levied for the organization's benefit; Total
+GvtFrnSrvcFcltsVl509_CrrntTxYrMns4YrsAmt|The value of services or facilities furnished by a governmental unit to the org without charge; Current tax year minus four years
+GvtFrnSrvcFcltsVl509_CrrntTxYrMns3YrsAmt|The value of services or facilities furnished by a governmental unit to the org without charge; Current tax year minus three years
+GvtFrnSrvcFcltsVl509_CrrntTxYrMns2YrsAmt|The value of services or facilities furnished by a governmental unit to the org without charge; Current tax year minus two years
+GvtFrnSrvcFcltsVl509_CrrntTxYrMns1YrAmt|The value of services or facilities furnished by a governmental unit to the org without charge; Current tax year minus one year
+GvtFrnSrvcFcltsVl509_CrrntTxYrAmt|The value of services or facilities furnished by a governmental unit to the org without charge; Current tax year
+GvtFrnSrvcFcltsVl509_TtlAmt|The value of services or facilities furnished by a governmental unit to the org without charge; Total
+Ttl509_CrrntTxYrMns4YrsAmt|Total; Current tax year minus four years
+Ttl509_CrrntTxYrMns3YrsAmt|Total; Current tax year minus three years
+Ttl509_CrrntTxYrMns2YrsAmt|Total; Current tax year minus two years
+Ttl509_CrrntTxYrMns1YrAmt|Total; Current tax year minus one year
+Ttl509_CrrntTxYrAmt|Total; Current tax year
+Ttl509_TtlAmt|Total; Total
+AmntsRcvdDsqlfyPrsn_CrrntTxYrMns4YrsAmt|Amounts included on lines 1, 2, and 3 received from disqualified persons; Current tax year minus four years
+AmntsRcvdDsqlfyPrsn_CrrntTxYrMns3YrsAmt|Amounts included on lines 1, 2, and 3 received from disqualified persons; Current tax year minus three years
+AmntsRcvdDsqlfyPrsn_CrrntTxYrMns2YrsAmt|Amounts included on lines 1, 2, and 3 received from disqualified persons; Current tax year minus two years
+AmntsRcvdDsqlfyPrsn_CrrntTxYrMns1YrAmt|Amounts included on lines 1, 2, and 3 received from disqualified persons; Current tax year minus one year
+AmntsRcvdDsqlfyPrsn_CrrntTxYrAmt|Amounts included on lines 1, 2, and 3 received from disqualified persons; Current tax year
+AmntsRcvdDsqlfyPrsn_TtlAmt|Amounts included on lines 1, 2, and 3 received from disqualified persons; Total
+SbstntlCntrbtrsAmt_CrrntTxYrMns4YrsAmt|Amounts included on lines 2 and 3 received from other than a disqualified person that exceed the greater of 1% of line 13 for the year or $5,000; Current tax year minus four years
+SbstntlCntrbtrsAmt_CrrntTxYrMns3YrsAmt|Amounts included on lines 2 and 3 received from other than a disqualified person that exceed the greater of 1% of line 13 for the year or $5,000; Current tax year minus three years
+SbstntlCntrbtrsAmt_CrrntTxYrMns2YrsAmt|Amounts included on lines 2 and 3 received from other than a disqualified person that exceed the greater of 1% of line 13 for the year or $5,000; Current tax year minus two years
+SbstntlCntrbtrsAmt_CrrntTxYrMns1YrAmt|Amounts included on lines 2 and 3 received from other than a disqualified person that exceed the greater of 1% of line 13 for the year or $5,000; Current tax year minus one year
+SbstntlCntrbtrsAmt_CrrntTxYrAmt|Amounts included on lines 2 and 3 received from other than a disqualified person that exceed the greater of 1% of line 13 for the year or $5,000; Current tax year
+SbstntlCntrbtrsAmt_TtlAmt|Amounts included on lines 2 and 3 received from other than a disqualified person that exceed the greater of 1% of line 13 for the year or $5,000; Total
+SbstAndDsqlfyPrsnsTt_CrrntTxYrMns4YrsAmt|Total of lines 7a and 7b; Current tax year minus four years
+SbstAndDsqlfyPrsnsTt_CrrntTxYrMns3YrsAmt|Total of lines 7a and 7b; Current tax year minus three years
+SbstAndDsqlfyPrsnsTt_CrrntTxYrMns2YrsAmt|Total of lines 7a and 7b; Current tax year minus two years
+SbstAndDsqlfyPrsnsTt_CrrntTxYrMns1YrAmt|Total of lines 7a and 7b; Current tax year minus one year
+SbstAndDsqlfyPrsnsTt_CrrntTxYrAmt|Total of lines 7a and 7b; Current tax year
+SbstAndDsqlfyPrsnsTt_TtlAmt|Total of lines 7a and 7b; Total
+SkdA_PblcSpprtTtl509Amt|Public support total

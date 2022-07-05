@@ -1,0 +1,23 @@
+InfInSkdOPrtIIIInd|Schedule O contains a response to a question in Part III
+MssnDsc|Mission description
+SgnfcntNwPrgrmSrvcInd|Significant new program services?
+SgnfcntChngInd|Significant change?
+ActvtyCd|Activity code
+Dsc|Description
+RvnAmt|Revenue
+GrntAmt|Grants
+ExpnsAmt|Expense
+PrgSrvcAccmActy2_Dsc|Second activity group; Description
+PrgSrvcAccmActy2_ActvtyCd|Second activity group; Activity code
+PrgSrvcAccmActy2_RvnAmt|Second activity group; Revenue
+PrgSrvcAccmActy2_GrntAmt|Second activity group; Grants
+PrgSrvcAccmActy2_ExpnsAmt|Second activity group; Expense
+PrgSrvcAccmActy3_ActvtyCd|Third activity group; Activity code
+PrgSrvcAccmActy3_ExpnsAmt|Third activity group; Expense
+PrgSrvcAccmActy3_RvnAmt|Third activity group; Revenue
+PrgSrvcAccmActy3_Dsc|Third activity group; Description
+PrgSrvcAccmActy3_GrntAmt|Third activity group; Grants
+TtlOthrPrgSrvcRvnAmt|Total of other program service revenue
+TtlOthrPrgSrvcExpnsAmt|Total of other program service expense
+TtlOthrPrgSrvcGrntAmt|Total of other program service grants
+TtlPrgrmSrvcExpnssAmt|Total program service expense

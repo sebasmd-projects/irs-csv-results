@@ -1,0 +1,73 @@
+InfInSkdOPrtVIIIInd|Schedule O contains a response to a question in Part VIII
+GrssSlsOfInvntryAmt|Gross sales of inventory, less returns and allowances
+CstOfGdsSldAmt|Less cost of goods sold
+NtIncmOrLss_TtlRvnClmnAmt|Net income or loss from sales of inventory; Total revenue
+NtIncmOrLss_RltdOrExmptFncIncmAmt|Net income or loss from sales of inventory; Related or exempt function revenue
+NtIncmOrLss_UnrltdBsnssRvnAmt|Net income or loss from sales of inventory; Unrelated business revenue
+NtIncmOrLss_ExclsnAmt|Net income or loss from sales of inventory; Excluded by section 512, 513, or 514: amount
+MscRvn_TtlRvnClmnAmt|Other miscellaneous revenue; Total revenue
+MscRvn_RltdOrExmptFncIncmAmt|Other miscellaneous revenue; Related or exempt function revenue
+MscRvn_UnrltdBsnssRvnAmt|Other miscellaneous revenue; Unrelated business revenue
+MscRvn_ExclsnAmt|Other miscellaneous revenue; Excluded by section 512, 513, or 514: amount
+OthrRvnTtlAmt|Other miscellaneous revenue total
+TtlRvn_TtlRvnClmnAmt|Total Revenue; Total revenue
+TtlRvn_RltdOrExmptFncIncmAmt|Total Revenue; Related or exempt function revenue
+TtlRvn_UnrltdBsnssRvnAmt|Total Revenue; Unrelated business revenue
+TtlRvn_ExclsnAmt|Total Revenue; Excluded by section 512, 513, or 514: amount
+FdrtdCmpgnsAmt|Federated campaigns
+MmbrshpDsAmt|Outside fundraising or commercial co-ventures
+FndrsngAmt|Fundraising events
+RltdOrgnztnsAmt|Related organizations
+GvrnmntGrntsAmt|Government grants (contributions)
+AllOthrCntrbtnsAmt|All other contributions, gifts, grants, and similar amounts not included in above
+NncshCntrbtnsAmt|Noncash contributions
+TtlCntrbtnsAmt|Total contributions
+TtlOthPrgrmSrvcRv_TtlRvnClmnAmt|Program service revenue: Enter miscellaneous description and entries; Total revenue
+TtlOthPrgrmSrvcRv_RltdOrExmptFncIncmAmt|Program service revenue: Enter miscellaneous description and entries; Related or exempt function revenue
+TtlOthPrgrmSrvcRv_UnrltdBsnssRvnAmt|Program service revenue: Enter miscellaneous description and entries; Unrelated business revenue
+TtlOthPrgrmSrvcRv_ExclsnAmt|Program service revenue: Enter miscellaneous description and entries; Excluded by section 512, 513, or 514: amount
+TtlPrgrmSrvcRvnAmt|Program service revenue total
+InvstmntIncm_TtlRvnClmnAmt|Investment income; Total revenue
+InvstmntIncm_RltdOrExmptFncIncmAmt|Investment income; Related or exempt function revenue
+InvstmntIncm_UnrltdBsnssRvnAmt|Investment income; Unrelated business revenue
+InvstmntIncm_ExclsnAmt|Investment income; Excluded by section 512, 513, or 514: amount
+IncmFrmInvstBndPrcds_TtlRvnClmnAmt|Income from investment of bond proceeds; Total revenue
+IncmFrmInvstBndPrcds_RltdOrExmptFncIncmAmt|Income from investment of bond proceeds; Related or exempt function revenue
+IncmFrmInvstBndPrcds_UnrltdBsnssRvnAmt|Income from investment of bond proceeds; Unrelated business revenue
+IncmFrmInvstBndPrcds_ExclsnAmt|Income from investment of bond proceeds; Excluded by section 512, 513, or 514: amount
+RyltsRvn_TtlRvnClmnAmt|Other revenue, royalties; Total revenue
+RyltsRvn_RltdOrExmptFncIncmAmt|Other revenue, royalties; Related or exempt function revenue
+RyltsRvn_UnrltdBsnssRvnAmt|Other revenue, royalties; Unrelated business revenue
+RyltsRvn_ExclsnAmt|Other revenue, royalties; Excluded by section 512, 513, or 514: amount
+GrssRnts_RlAmt|Other revenue, gross rents; Real amount
+GrssRnts_PrsnlAmt|Other revenue, gross rents; Amount
+LssRntlExpnss_RlAmt|Other revenue, less rental expenses; Real amount
+LssRntlExpnss_PrsnlAmt|Other revenue, less rental expenses; Amount
+RntlIncmOrLss_RlAmt|Other revenue, rental income or loss; Real amount
+RntlIncmOrLss_PrsnlAmt|Other revenue, rental income or loss; Amount
+NtRntlIncmOrLss_TtlRvnClmnAmt|Other revenue, net rental income or loss; Total revenue
+NtRntlIncmOrLss_RltdOrExmptFncIncmAmt|Other revenue, net rental income or loss; Related or exempt function revenue
+NtRntlIncmOrLss_UnrltdBsnssRvnAmt|Other revenue, net rental income or loss; Unrelated business revenue
+NtRntlIncmOrLss_ExclsnAmt|Other revenue, net rental income or loss; Excluded by section 512, 513, or 514: amount
+GrssAmntSlsAssts_ScrtsAmt|Other revenue, gross amount of sales of assets other than inventory; Securities amount
+GrssAmntSlsAssts_OthrAmt|Other revenue, gross amount of sales of assets other than inventory; Other amount
+LssCstOthBssSlsExpnss_ScrtsAmt|Other revenue, less cost or other basis and sales expenses; Securities amount
+LssCstOthBssSlsExpnss_OthrAmt|Other revenue, less cost or other basis and sales expenses; Other amount
+GnOrLss_ScrtsAmt|Other revenue, gain or loss; Securities amount
+GnOrLss_OthrAmt|Other revenue, gain or loss; Other amount
+NtGnOrLssInvstmnts_TtlRvnClmnAmt|Other revenue, Net gain or loss from investments. Combine Line 7c, columns (i) and (ii); Total revenue
+NtGnOrLssInvstmnts_RltdOrExmptFncIncmAmt|Other revenue, Net gain or loss from investments. Combine Line 7c, columns (i) and (ii); Related or exempt function revenue
+NtGnOrLssInvstmnts_UnrltdBsnssRvnAmt|Other revenue, Net gain or loss from investments. Combine Line 7c, columns (i) and (ii); Unrelated business revenue
+NtGnOrLssInvstmnts_ExclsnAmt|Other revenue, Net gain or loss from investments. Combine Line 7c, columns (i) and (ii); Excluded by section 512, 513, or 514: amount
+FndrsngGrssIncmAmt|Gross income from fundraising events, Line 8a box
+CntrRptFndrsngEvntAmt|Contributions reported from fundraising events on line 1c, Line 8a underline
+FndrsngDrctExpnssAmt|Direct expenses
+NtIncmFrmFndrsngEvt_TtlRvnClmnAmt|Net income from fundraising events; Total revenue
+NtIncmFrmFndrsngEvt_UnrltdBsnssRvnAmt|Net income from fundraising events; Unrelated business revenue
+NtIncmFrmFndrsngEvt_ExclsnAmt|Net income from fundraising events; Excluded by section 512, 513, or 514: amount
+GmngGrssIncmAmt|Gross income from gaming
+GmngDrctExpnssAmt|Direct expenses
+NtIncmFrmGmng_TtlRvnClmnAmt|Net income from gaming; Total revenue
+NtIncmFrmGmng_RltdOrExmptFncIncmAmt|Net income from gaming; Related or exempt function revenue
+NtIncmFrmGmng_UnrltdBsnssRvnAmt|Net income from gaming; Unrelated business revenue
+NtIncmFrmGmng_ExclsnAmt|Net income from gaming; Excluded by section 512, 513, or 514: amount

@@ -1,0 +1,22 @@
+DsrgrddEnttyNm_BsnssNmLn1Txt|Part I content - Identification of disregarded entities; Name of disregarded entity; Business name line 1
+USAddrss_SttAbbrvtnCd|Part I content - Identification of disregarded entities; Address - US address of disregarded entity; State
+IdDsrgrddEntts_EIN|Part I content - Identification of disregarded entities; EIN
+FrgnAddrss_FrgnPstlCd|Part I content - Identification of disregarded entities; Address - Foreign address of disregarded entity; Postal code
+FrgnAddrss_CntryCd|Part I content - Identification of disregarded entities; Address - Foreign address of disregarded entity; Country
+DsrgrddEnttyNm_BsnssNmLn2Txt|Part I content - Identification of disregarded entities; Name of disregarded entity; Business name line 2
+FrgnAddrss_AddrssLn2Txt|Part I content - Identification of disregarded entities; Address - Foreign address of disregarded entity; Address line 2
+FrgnAddrss_AddrssLn1Txt|Part I content - Identification of disregarded entities; Address - Foreign address of disregarded entity; Address line 1
+USAddrss_AddrssLn2Txt|Part I content - Identification of disregarded entities; Address - US address of disregarded entity; Address line 2
+USAddrss_CtyNm|Part I content - Identification of disregarded entities; Address - US address of disregarded entity; City
+USAddrss_AddrssLn1Txt|Part I content - Identification of disregarded entities; Address - US address of disregarded entity; Address line 1
+USAddrss_ZIPCd|Part I content - Identification of disregarded entities; Address - US address of disregarded entity; ZIP code
+FrgnAddrss_PrvncOrSttNm|Part I content - Identification of disregarded entities; Address - Foreign address of disregarded entity; Province or state
+FrgnAddrss_CtyNm|Part I content - Identification of disregarded entities; Address - Foreign address of disregarded entity; City
+IdDsrgrddEntts_PrmryActvtsTxt|Part I content - Identification of disregarded entities; Nature of activities
+IdDsrgrddEntts_LglDmclFrgnCntryCd|Part I content - Identification of disregarded entities; Legal domicile - Foreign Country
+IdDsrgrddEntts_LglDmclSttCd|Part I content - Identification of disregarded entities; Legal domicile - State
+IdDsrgrddEntts_TtlIncmAmt|Part I content - Identification of disregarded entities; Total income ($)
+IdDsrgrddEntts_EndOfYrAsstsAmt|Part I content - Identification of disregarded entities; End-of-year assets ($)
+DrctCntrllngEnttyNm_BsnssNmLn2Txt|Part I content - Identification of disregarded entities; Direct controlling entity business name; Business name line 2
+DrctCntrllngEnttyNm_BsnssNmLn1Txt|Part I content - Identification of disregarded entities; Direct controlling entity business name; Business name line 1
+IdDsrgrddEntts_DrctCntrllngNACd|Part I content - Identification of disregarded entities; Direct controlling entity - Literal for not applicable

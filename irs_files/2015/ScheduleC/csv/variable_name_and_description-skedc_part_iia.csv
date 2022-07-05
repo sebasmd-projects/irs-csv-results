@@ -1,0 +1,43 @@
+TtlGrssrtsLbbyng_FlngOrgnztnsTtlAmt|Total lobbying expenditures to influence public opinion (grassroots lobbying); Filing organization's totals
+TtlGrssrtsLbbyng_AffltdGrpTtlAmt|Total lobbying expenditures to influence public opinion (grassroots lobbying); Affiliated group totals
+TtlDrctLbbyng_FlngOrgnztnsTtlAmt|Total lobbying expenditures to influence a legislative body (direct lobbying); Filing organization's totals
+TtlDrctLbbyng_AffltdGrpTtlAmt|Total lobbying expenditures to influence a legislative body (direct lobbying); Affiliated group totals
+TtlLbbyngExpnd_FlngOrgnztnsTtlAmt|Total lobbying expenditures (add lines 1a and 1b); Filing organization's totals
+TtlLbbyngExpnd_AffltdGrpTtlAmt|Total lobbying expenditures (add lines 1a and 1b); Affiliated group totals
+OthrExmptPrpsExpnd_FlngOrgnztnsTtlAmt|Other exempt purpose expenditures; Filing organization's totals
+OthrExmptPrpsExpnd_AffltdGrpTtlAmt|Other exempt purpose expenditures; Affiliated group totals
+TtlExmptPrpsExpnd_FlngOrgnztnsTtlAmt|Total exempt purpose expenditures (add lines 1c and 1d); Filing organization's totals
+TtlExmptPrpsExpnd_AffltdGrpTtlAmt|Total exempt purpose expenditures (add lines 1c and 1d); Affiliated group totals
+LbbyngNntxblAmnt_FlngOrgnztnsTtlAmt|Lobbying nontaxable amount; Filing organization's totals
+LbbyngNntxblAmnt_AffltdGrpTtlAmt|Lobbying nontaxable amount; Affiliated group totals
+GrssrtsNntxbl_FlngOrgnztnsTtlAmt|Grassroots nontaxable amount (enter 25% of line 1f); Filing organization's totals
+GrssrtsNntxbl_AffltdGrpTtlAmt|Grassroots nontaxable amount (enter 25% of line 1f); Affiliated group totals
+TtLbbyngGrssrtMnsNnTx_FlngOrgnztnsTtlAmt|Subtract line 1g from line 1a. Enter -0- if line 1g is more than line 1a; Filing organization's totals
+TtLbbyngGrssrtMnsNnTx_AffltdGrpTtlAmt|Subtract line 1g from line 1a. Enter -0- if line 1g is more than line 1a; Affiliated group totals
+TtLbbyExpndMnsLbbyngNnTx_FlngOrgnztnsTtlAmt|Subtract line 1f from line 1c. Enter -0- if line 1f is more than line 1c; Filing organization's totals
+TtLbbyExpndMnsLbbyngNnTx_AffltdGrpTtlAmt|Subtract line 1f from line 1c. Enter -0- if line 1f is more than line 1c; Affiliated group totals
+SkdC_Frm4720FldInd|If there is an amount other than zero on either line h or line i, did the organization file Form 4720 reporting section 4911 tax for this year?
+AvgLbbyngNntxblAmnt_CrrntYrMns3Amt|Lobbying nontaxable amount; Current year minus 3
+AvgLbbyngNntxblAmnt_CrrntYrMns2Amt|Lobbying nontaxable amount; Current year minus 2
+AvgLbbyngNntxblAmnt_CrrntYrMns1Amt|Lobbying nontaxable amount; Current year minus 1
+AvgLbbyngNntxblAmnt_CrrntYrAmt|Lobbying nontaxable amount; Current year
+AvgLbbyngNntxblAmnt_TtlAmt|Lobbying nontaxable amount; Total
+SkdC_LbbyngClngAmt|Lobbying ceiling amount (150% of line 2a(e))
+AvgTtlLbbyngExpnd_CrrntYrMns3Amt|Total lobbying expenditures; Current year minus 3
+AvgTtlLbbyngExpnd_CrrntYrMns2Amt|Total lobbying expenditures; Current year minus 2
+AvgTtlLbbyngExpnd_CrrntYrMns1Amt|Total lobbying expenditures; Current year minus 1
+AvgTtlLbbyngExpnd_CrrntYrAmt|Total lobbying expenditures; Current year
+AvgTtlLbbyngExpnd_TtlAmt|Total lobbying expenditures; Total
+AvgGrssrtsNntxbl_CrrntYrMns3Amt|Grassroots nontaxable amount; Current year minus 3
+AvgGrssrtsNntxbl_CrrntYrMns2Amt|Grassroots nontaxable amount; Current year minus 2
+AvgGrssrtsNntxbl_CrrntYrMns1Amt|Grassroots nontaxable amount; Current year minus 1
+AvgGrssrtsNntxbl_CrrntYrAmt|Grassroots nontaxable amount; Current year
+AvgGrssrtsNntxbl_TtlAmt|Grassroots nontaxable amount; Total
+SkdC_GrssrtsClngAmt|Grassroots ceiling amount (150% of line 2d(e))
+AvgGrssrtsLbbyngExpnd_CrrntYrMns3Amt|Grassroots lobbying expenditures; Current year minus 3
+AvgGrssrtsLbbyngExpnd_CrrntYrMns2Amt|Grassroots lobbying expenditures; Current year minus 2
+AvgGrssrtsLbbyngExpnd_CrrntYrMns1Amt|Grassroots lobbying expenditures; Current year minus 1
+AvgGrssrtsLbbyngExpnd_CrrntYrAmt|Grassroots lobbying expenditures; Current year
+AvgGrssrtsLbbyngExpnd_TtlAmt|Grassroots lobbying expenditures; Total
+SkdC_OrgnztnBlngsAffltInd|Check if the organization belongs to an affiliated group
+SkdC_LmtdCntrlPrvsnsAppInd|"Check if ""A"" is checked and ""limited control"" provisions apply"

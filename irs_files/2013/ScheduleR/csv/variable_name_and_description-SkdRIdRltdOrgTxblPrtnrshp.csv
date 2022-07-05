@@ -1,0 +1,27 @@
+USAddrss_ZIPCd|Part III content - Identification of related organizations taxable as a partnership; Address - US address of disregarded entity; ZIP code
+IdRltdOrgTxblPrtnrshp_EIN|Part III content - Identification of related organizations taxable as a partnership; EIN
+USAddrss_AddrssLn1Txt|Part III content - Identification of related organizations taxable as a partnership; Address - US address of disregarded entity; Address line 1
+RltdOrgnztnNm_BsnssNmLn2Txt|Part III content - Identification of related organizations taxable as a partnership; Name of disregarded entity; Business name line 2
+FrgnAddrss_FrgnPstlCd|Part III content - Identification of related organizations taxable as a partnership; Address - Foreign address of disregarded entity; Postal code
+FrgnAddrss_AddrssLn1Txt|Part III content - Identification of related organizations taxable as a partnership; Address - Foreign address of disregarded entity; Address line 1
+RltdOrgnztnNm_BsnssNmLn1Txt|Part III content - Identification of related organizations taxable as a partnership; Name of disregarded entity; Business name line 1
+FrgnAddrss_CntryCd|Part III content - Identification of related organizations taxable as a partnership; Address - Foreign address of disregarded entity; Country
+USAddrss_SttAbbrvtnCd|Part III content - Identification of related organizations taxable as a partnership; Address - US address of disregarded entity; State
+FrgnAddrss_PrvncOrSttNm|Part III content - Identification of related organizations taxable as a partnership; Address - Foreign address of disregarded entity; Province or state
+USAddrss_CtyNm|Part III content - Identification of related organizations taxable as a partnership; Address - US address of disregarded entity; City
+FrgnAddrss_AddrssLn2Txt|Part III content - Identification of related organizations taxable as a partnership; Address - Foreign address of disregarded entity; Address line 2
+FrgnAddrss_CtyNm|Part III content - Identification of related organizations taxable as a partnership; Address - Foreign address of disregarded entity; City
+USAddrss_AddrssLn2Txt|Part III content - Identification of related organizations taxable as a partnership; Address - US address of disregarded entity; Address line 2
+IdRltdOrgTxblPrtnrshp_PrmryActvtsTxt|Part III content - Identification of related organizations taxable as a partnership; Primary business activity, product or service
+IdRltdOrgTxblPrtnrshp_LglDmclSttCd|Part III content - Identification of related organizations taxable as a partnership; Legal domicile - State
+IdRltdOrgTxblPrtnrshp_LglDmclFrgnCntryCd|Part III content - Identification of related organizations taxable as a partnership; Legal domicile - Foreign Country
+DrctCntrllngEnttyNm_BsnssNmLn1Txt|Part III content - Identification of related organizations taxable as a partnership; Direct controlling entity business name; Business name line 1
+IdRltdOrgTxblPrtnrshp_DrctCntrllngNACd|Part III content - Identification of related organizations taxable as a partnership; Direct controlling entity - Literal for not applicable
+DrctCntrllngEnttyNm_BsnssNmLn2Txt|Part III content - Identification of related organizations taxable as a partnership; Direct controlling entity business name; Business name line 2
+IdRltdOrgTxblPrtnrshp_PrdmnntIncmTxt|Part III content - Identification of related organizations taxable as a partnership; Predominant income (related, investment, unrelated)
+IdRltdOrgTxblPrtnrshp_ShrOfTtlIncmAmt|Part III content - Identification of related organizations taxable as a partnership; Share of total income ($)
+IdRltdOrgTxblPrtnrshp_ShrOfEOYAsstsAmt|Part III content - Identification of related organizations taxable as a partnership; Share of end-of-year assets ($)
+IdRltdOrgTxblPrtnrshp_DsprprtntAllctnsInd|Part III content - Identification of related organizations taxable as a partnership; Disproportionate allocations? (Y-N)
+IdRltdOrgTxblPrtnrshp_UBICdVAmt|Part III content - Identification of related organizations taxable as a partnership; Code V-UBI amount on Box 20 of K-1 ($)
+IdRltdOrgTxblPrtnrshp_GnrlOrMngngPrtnrInd|Part III content - Identification of related organizations taxable as a partnership; General or managing partner? (Y-N)
+IdRltdOrgTxblPrtnrshp_OwnrshpPct|Part III content - Identification of related organizations taxable as a partnership; Percentage ownership

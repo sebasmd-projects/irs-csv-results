@@ -1,0 +1,25 @@
+FrgnAddrss_CtyNm|Part IV content - Identification of related organizations taxable as a corporation or trust; Address - Foreign address of disregarded entity; City
+FrgnAddrss_AddrssLn2Txt|Part IV content - Identification of related organizations taxable as a corporation or trust; Address - Foreign address of disregarded entity; Address line 2
+IdRltdOrgTxblCrpTr_EIN|Part IV content - Identification of related organizations taxable as a corporation or trust; EIN
+USAddrss_AddrssLn1Txt|Part IV content - Identification of related organizations taxable as a corporation or trust; Address - US address of disregarded entity; Address line 1
+FrgnAddrss_CntryCd|Part IV content - Identification of related organizations taxable as a corporation or trust; Address - Foreign address of disregarded entity; Country
+USAddrss_CtyNm|Part IV content - Identification of related organizations taxable as a corporation or trust; Address - US address of disregarded entity; City
+FrgnAddrss_AddrssLn1Txt|Part IV content - Identification of related organizations taxable as a corporation or trust; Address - Foreign address of disregarded entity; Address line 1
+FrgnAddrss_FrgnPstlCd|Part IV content - Identification of related organizations taxable as a corporation or trust; Address - Foreign address of disregarded entity; Postal code
+RltdOrgnztnNm_BsnssNmLn1Txt|Part IV content - Identification of related organizations taxable as a corporation or trust; Name of disregarded entity; Business name line 1
+FrgnAddrss_PrvncOrSttNm|Part IV content - Identification of related organizations taxable as a corporation or trust; Address - Foreign address of disregarded entity; Province or state
+USAddrss_ZIPCd|Part IV content - Identification of related organizations taxable as a corporation or trust; Address - US address of disregarded entity; ZIP code
+USAddrss_AddrssLn2Txt|Part IV content - Identification of related organizations taxable as a corporation or trust; Address - US address of disregarded entity; Address line 2
+RltdOrgnztnNm_BsnssNmLn2Txt|Part IV content - Identification of related organizations taxable as a corporation or trust; Name of disregarded entity; Business name line 2
+USAddrss_SttAbbrvtnCd|Part IV content - Identification of related organizations taxable as a corporation or trust; Address - US address of disregarded entity; State
+IdRltdOrgTxblCrpTr_PrmryActvtsTxt|Part IV content - Identification of related organizations taxable as a corporation or trust; Primary activity, product or service
+IdRltdOrgTxblCrpTr_LglDmclFrgnCntryCd|Part IV content - Identification of related organizations taxable as a corporation or trust; Legal domicile - Foreign Country
+IdRltdOrgTxblCrpTr_LglDmclSttCd|Part IV content - Identification of related organizations taxable as a corporation or trust; Legal domicile - State
+DrctCntrllngEnttyNm_BsnssNmLn2Txt|Part IV content - Identification of related organizations taxable as a corporation or trust; Direct controlling entity business name; Business name line 2
+DrctCntrllngEnttyNm_BsnssNmLn1Txt|Part IV content - Identification of related organizations taxable as a corporation or trust; Direct controlling entity business name; Business name line 1
+IdRltdOrgTxblCrpTr_DrctCntrllngNACd|Part IV content - Identification of related organizations taxable as a corporation or trust; Direct controlling entity - Literal for not applicable
+IdRltdOrgTxblCrpTr_EnttyTxt|Part IV content - Identification of related organizations taxable as a corporation or trust; Type of entity (C corp, S corp, or trust)
+IdRltdOrgTxblCrpTr_ShrOfTtlIncmAmt|Part IV content - Identification of related organizations taxable as a corporation or trust; Share of total income ($)
+IdRltdOrgTxblCrpTr_ShrOfEOYAsstsAmt|Part IV content - Identification of related organizations taxable as a corporation or trust; Share of end-of-year assets ($)
+IdRltdOrgTxblCrpTr_OwnrshpPct|Part IV content - Identification of related organizations taxable as a corporation or trust; Percentage ownership
+IdRltdOrgTxblCrpTr_CntrlldOrgnztnInd|Part IV content - Identification of related organizations taxable as a corporation or trust; 512(b)(13) controlled organization? (Y-N)

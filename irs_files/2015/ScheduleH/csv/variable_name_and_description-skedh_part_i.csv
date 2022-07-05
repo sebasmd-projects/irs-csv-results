@@ -1,0 +1,91 @@
+SkdH_FnnclAssstncPlcyInd|Financial assistance policy?
+SkdH_WrttnPlcyInd|Written policy?
+SkdH_MstHsptlsPlcyInd|Policy applied to most hospitals
+SkdH_IndvHsptlTlrdPlcyInd|Policy tailored to individual hospitals
+SkdH_AllHsptlsPlcyInd|Policy applied to all hospitals
+SkdH_FPGRfrncFrCrInd|FPG reference free care?
+FrCrOthPrcntg_OthrInd|Other
+SkdH_Prcnt200Ind|200%
+FrCrOthPrcntg_FrCrOthrPct|Free other percentage
+SkdH_Prcnt100Ind|100%
+SkdH_Prcnt150Ind|150%
+SkdH_Prcnt200DInd|200%
+DscntdCrOthPrcntg_DscntdCrOthrPct|Discounted other percentage
+DscntdCrOthPrcntg_OthrInd|Other
+SkdH_Prcnt250Ind|250%
+SkdH_Prcnt300Ind|300%
+SkdH_Prcnt350Ind|350%
+SkdH_Prcnt400Ind|400%
+SkdH_FPGRfrncDscntdCrInd|FPG reference discounted care
+SkdH_FrCrMdcllyIndgntInd|Free or discounted care to medically indigent?
+SkdH_FnnclAssstncBdgtInd|Amounts budgeted for financial assistance?
+SkdH_ExpnssExcdBdgtInd|Expenses exceeded budget?
+SkdH_UnblTPrvdCrInd|Unable to provide care?
+SkdH_AnnlCmmntyBnftRprtInd|Annual community benefit report?
+SkdH_RprtPblcllyAvlblInd|Report publically available?
+FnnclAssstncAtCstTyp_ActvtsOrPrgrmsCnt|Financial Assistance at cost; Number of activities or programs
+FnnclAssstncAtCstTyp_PrsnsSrvdCnt|Financial Assistance at cost; Persons served
+FnnclAssstncAtCstTyp_TtlCmmntyBnftExpnsAmt|Financial Assistance at cost; Total community benefit expense
+FnnclAssstncAtCstTyp_DrctOffsttngRvnAmt|Financial Assistance at cost; Direct offsetting revenue
+FnnclAssstncAtCstTyp_NtCmmntyBnftExpnsAmt|Financial Assistance at cost; Net community benefit expense
+FnnclAssstncAtCstTyp_TtlExpnsPct|Financial Assistance at cost; Percent of total expense
+UnrmbrsdMdcd_ActvtsOrPrgrmsCnt|Unreimbursed Medicaid; Number of activities or programs
+UnrmbrsdMdcd_PrsnsSrvdCnt|Unreimbursed Medicaid; Persons served
+UnrmbrsdMdcd_TtlCmmntyBnftExpnsAmt|Unreimbursed Medicaid; Total community benefit expense
+UnrmbrsdMdcd_DrctOffsttngRvnAmt|Unreimbursed Medicaid; Direct offsetting revenue
+UnrmbrsdMdcd_NtCmmntyBnftExpnsAmt|Unreimbursed Medicaid; Net community benefit expense
+UnrmbrsdMdcd_TtlExpnsPct|Unreimbursed Medicaid; Percent of total expense
+UnrmbrsdCsts_ActvtsOrPrgrmsCnt|Unreimbursed costs; Number of activities or programs
+UnrmbrsdCsts_PrsnsSrvdCnt|Unreimbursed costs; Persons served
+UnrmbrsdCsts_TtlCmmntyBnftExpnsAmt|Unreimbursed costs; Total community benefit expense
+UnrmbrsdCsts_DrctOffsttngRvnAmt|Unreimbursed costs; Direct offsetting revenue
+UnrmbrsdCsts_NtCmmntyBnftExpnsAmt|Unreimbursed costs; Net community benefit expense
+UnrmbrsdCsts_TtlExpnsPct|Unreimbursed costs; Percent of total expense
+TtlFnnclAssstncTyp_ActvtsOrPrgrmsCnt|Total financial assistance; Number of activities or programs
+TtlFnnclAssstncTyp_PrsnsSrvdCnt|Total financial assistance; Persons served
+TtlFnnclAssstncTyp_TtlCmmntyBnftExpnsAmt|Total financial assistance; Total community benefit expense
+TtlFnnclAssstncTyp_DrctOffsttngRvnAmt|Total financial assistance; Direct offsetting revenue
+TtlFnnclAssstncTyp_NtCmmntyBnftExpnsAmt|Total financial assistance; Net community benefit expense
+TtlFnnclAssstncTyp_TtlExpnsPct|Total financial assistance; Percent of total expense
+CmmntyHlthSrvcs_ActvtsOrPrgrmsCnt|Community health services; Number of activities or programs
+CmmntyHlthSrvcs_PrsnsSrvdCnt|Community health services; Persons served
+CmmntyHlthSrvcs_TtlCmmntyBnftExpnsAmt|Community health services; Total community benefit expense
+CmmntyHlthSrvcs_DrctOffsttngRvnAmt|Community health services; Direct offsetting revenue
+CmmntyHlthSrvcs_NtCmmntyBnftExpnsAmt|Community health services; Net community benefit expense
+CmmntyHlthSrvcs_TtlExpnsPct|Community health services; Percent of total expense
+HlthPrfssnsEdctn_ActvtsOrPrgrmsCnt|Health professions education; Number of activities or programs
+HlthPrfssnsEdctn_PrsnsSrvdCnt|Health professions education; Persons served
+HlthPrfssnsEdctn_TtlCmmntyBnftExpnsAmt|Health professions education; Total community benefit expense
+HlthPrfssnsEdctn_DrctOffsttngRvnAmt|Health professions education; Direct offsetting revenue
+HlthPrfssnsEdctn_NtCmmntyBnftExpnsAmt|Health professions education; Net community benefit expense
+HlthPrfssnsEdctn_TtlExpnsPct|Health professions education; Percent of total expense
+SbsdzdHlthSrvcs_ActvtsOrPrgrmsCnt|Subsidized health services; Number of activities or programs
+SbsdzdHlthSrvcs_PrsnsSrvdCnt|Subsidized health services; Persons served
+SbsdzdHlthSrvcs_TtlCmmntyBnftExpnsAmt|Subsidized health services; Total community benefit expense
+SbsdzdHlthSrvcs_DrctOffsttngRvnAmt|Subsidized health services; Direct offsetting revenue
+SbsdzdHlthSrvcs_NtCmmntyBnftExpnsAmt|Subsidized health services; Net community benefit expense
+SbsdzdHlthSrvcs_TtlExpnsPct|Subsidized health services; Percent of total expense
+Rsrch_ActvtsOrPrgrmsCnt|Research; Number of activities or programs
+Rsrch_PrsnsSrvdCnt|Research; Persons served
+Rsrch_TtlCmmntyBnftExpnsAmt|Research; Total community benefit expense
+Rsrch_DrctOffsttngRvnAmt|Research; Direct offsetting revenue
+Rsrch_NtCmmntyBnftExpnsAmt|Research; Net community benefit expense
+Rsrch_TtlExpnsPct|Research; Percent of total expense
+CshAndInKndCntrbtns_ActvtsOrPrgrmsCnt|Cash and in-kind contributions; Number of activities or programs
+CshAndInKndCntrbtns_PrsnsSrvdCnt|Cash and in-kind contributions; Persons served
+CshAndInKndCntrbtns_TtlCmmntyBnftExpnsAmt|Cash and in-kind contributions; Total community benefit expense
+CshAndInKndCntrbtns_DrctOffsttngRvnAmt|Cash and in-kind contributions; Direct offsetting revenue
+CshAndInKndCntrbtns_NtCmmntyBnftExpnsAmt|Cash and in-kind contributions; Net community benefit expense
+CshAndInKndCntrbtns_TtlExpnsPct|Cash and in-kind contributions; Percent of total expense
+TtlOthrBnfts_ActvtsOrPrgrmsCnt|Total Other Benefits; Number of activities or programs
+TtlOthrBnfts_PrsnsSrvdCnt|Total Other Benefits; Persons served
+TtlOthrBnfts_TtlCmmntyBnftExpnsAmt|Total Other Benefits; Total community benefit expense
+TtlOthrBnfts_DrctOffsttngRvnAmt|Total Other Benefits; Direct offsetting revenue
+TtlOthrBnfts_NtCmmntyBnftExpnsAmt|Total Other Benefits; Net community benefit expense
+TtlOthrBnfts_TtlExpnsPct|Total Other Benefits; Percent of total expense
+TtlCmmntyBnfts_ActvtsOrPrgrmsCnt|Total community benefits; Number of activities or programs
+TtlCmmntyBnfts_PrsnsSrvdCnt|Total community benefits; Persons served
+TtlCmmntyBnfts_TtlCmmntyBnftExpnsAmt|Total community benefits; Total community benefit expense
+TtlCmmntyBnfts_DrctOffsttngRvnAmt|Total community benefits; Direct offsetting revenue
+TtlCmmntyBnfts_NtCmmntyBnftExpnsAmt|Total community benefits; Net community benefit expense
+TtlCmmntyBnfts_TtlExpnsPct|Total community benefits; Percent of total expense

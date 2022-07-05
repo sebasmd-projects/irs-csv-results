@@ -1,0 +1,100 @@
+ScrtsClslyHldStck_NnCshChckbxInd|Securities - closely held stock; Checkbox for lines on Part I
+ScrtsClslyHldStck_CntrbtnCnt|Securities - closely held stock; Number of contributions
+ScrtsClslyHldStck_NncshCntrbtnsRptF990Amt|Securities - closely held stock; Revenues reported on F990, Pt VIII, line 1g
+ScrtsClslyHldStck_MthdOfDtrmnngRvnsTxt|Securities - closely held stock; Method of determining revenues
+ScrPrtnrshpTrstIntrsts_NnCshChckbxInd|Securities - partnership or trust interests; Checkbox for lines on Part I
+ScrPrtnrshpTrstIntrsts_CntrbtnCnt|Securities - partnership or trust interests; Number of contributions
+ScrPrtnrshpTrstIntrsts_NncshCntrbtnsRptF990Amt|Securities - partnership or trust interests; Revenues reported on F990, Pt VIII, line 1g
+ScrPrtnrshpTrstIntrsts_MthdOfDtrmnngRvnsTxt|Securities - partnership or trust interests; Method of determining revenues
+ScrtsMsc_NnCshChckbxInd|Securities - miscellaneous; Checkbox for lines on Part I
+ScrtsMsc_CntrbtnCnt|Securities - miscellaneous; Number of contributions
+ScrtsMsc_NncshCntrbtnsRptF990Amt|Securities - miscellaneous; Revenues reported on F990, Pt VIII, line 1g
+ScrtsMsc_MthdOfDtrmnngRvnsTxt|Securities - miscellaneous; Method of determining revenues
+QlfdCntrbHstStrct_NnCshChckbxInd|Qualified conservation contributions - historic structures; Checkbox for lines on Part I
+QlfdCntrbHstStrct_CntrbtnCnt|Qualified conservation contributions - historic structures; Number of contributions
+QlfdCntrbHstStrct_NncshCntrbtnsRptF990Amt|Qualified conservation contributions - historic structures; Revenues reported on F990, Pt VIII, line 1g
+QlfdCntrbHstStrct_MthdOfDtrmnngRvnsTxt|Qualified conservation contributions - historic structures; Method of determining revenues
+QlfdCntrbOthr_NnCshChckbxInd|Qualified conservation contributions - other; Checkbox for lines on Part I
+QlfdCntrbOthr_CntrbtnCnt|Qualified conservation contributions - other; Number of contributions
+QlfdCntrbOthr_NncshCntrbtnsRptF990Amt|Qualified conservation contributions - other; Revenues reported on F990, Pt VIII, line 1g
+QlfdCntrbOthr_MthdOfDtrmnngRvnsTxt|Qualified conservation contributions - other; Method of determining revenues
+RlEsttRsdntl_NnCshChckbxInd|Real estate - residential; Checkbox for lines on Part I
+RlEsttRsdntl_CntrbtnCnt|Real estate - residential; Number of contributions
+RlEsttRsdntl_NncshCntrbtnsRptF990Amt|Real estate - residential; Revenues reported on F990, Pt VIII, line 1g
+RlEsttRsdntl_MthdOfDtrmnngRvnsTxt|Real estate - residential; Method of determining revenues
+RlEsttCmmrcl_NnCshChckbxInd|Real estate - commercial; Checkbox for lines on Part I
+RlEsttCmmrcl_CntrbtnCnt|Real estate - commercial; Number of contributions
+RlEsttCmmrcl_NncshCntrbtnsRptF990Amt|Real estate - commercial; Revenues reported on F990, Pt VIII, line 1g
+RlEsttCmmrcl_MthdOfDtrmnngRvnsTxt|Real estate - commercial; Method of determining revenues
+RlEsttOthr_NnCshChckbxInd|Real estate - other; Checkbox for lines on Part I
+RlEsttOthr_CntrbtnCnt|Real estate - other; Number of contributions
+RlEsttOthr_NncshCntrbtnsRptF990Amt|Real estate - other; Revenues reported on F990, Pt VIII, line 1g
+RlEsttOthr_MthdOfDtrmnngRvnsTxt|Real estate - other; Method of determining revenues
+Cllctbls_NnCshChckbxInd|Collectibles; Checkbox for lines on Part I
+Cllctbls_CntrbtnCnt|Collectibles; Number of contributions
+Cllctbls_NncshCntrbtnsRptF990Amt|Collectibles; Revenues reported on F990, Pt VIII, line 1g
+Cllctbls_MthdOfDtrmnngRvnsTxt|Collectibles; Method of determining revenues
+FdInvntry_NnCshChckbxInd|Food inventory; Checkbox for lines on Part I
+FdInvntry_CntrbtnCnt|Food inventory; Number of contributions
+FdInvntry_NncshCntrbtnsRptF990Amt|Food inventory; Revenues reported on F990, Pt VIII, line 1g
+FdInvntry_MthdOfDtrmnngRvnsTxt|Food inventory; Method of determining revenues
+WrksOfArt_NnCshChckbxInd|Art - works of art; Checkbox for lines on Part I
+WrksOfArt_CntrbtnCnt|Art - works of art; Number of contributions
+WrksOfArt_NncshCntrbtnsRptF990Amt|Art - works of art; Revenues reported on F990, Pt VIII, line 1g
+WrksOfArt_MthdOfDtrmnngRvnsTxt|Art - works of art; Method of determining revenues
+DrgsAndMdclSppls_NnCshChckbxInd|Drugs and medical supplies; Checkbox for lines on Part I
+DrgsAndMdclSppls_CntrbtnCnt|Drugs and medical supplies; Number of contributions
+DrgsAndMdclSppls_NncshCntrbtnsRptF990Amt|Drugs and medical supplies; Revenues reported on F990, Pt VIII, line 1g
+DrgsAndMdclSppls_MthdOfDtrmnngRvnsTxt|Drugs and medical supplies; Method of determining revenues
+Txdrmy_NnCshChckbxInd|Taxidermy; Checkbox for lines on Part I
+Txdrmy_CntrbtnCnt|Taxidermy; Number of contributions
+Txdrmy_NncshCntrbtnsRptF990Amt|Taxidermy; Revenues reported on F990, Pt VIII, line 1g
+Txdrmy_MthdOfDtrmnngRvnsTxt|Taxidermy; Method of determining revenues
+HstrclArtfcts_NnCshChckbxInd|Historical artifacts; Checkbox for lines on Part I
+HstrclArtfcts_CntrbtnCnt|Historical artifacts; Number of contributions
+HstrclArtfcts_NncshCntrbtnsRptF990Amt|Historical artifacts; Revenues reported on F990, Pt VIII, line 1g
+HstrclArtfcts_MthdOfDtrmnngRvnsTxt|Historical artifacts; Method of determining revenues
+ScntfcSpcmns_NnCshChckbxInd|Scientific specimens; Checkbox for lines on Part I
+ScntfcSpcmns_CntrbtnCnt|Scientific specimens; Number of contributions
+ScntfcSpcmns_NncshCntrbtnsRptF990Amt|Scientific specimens; Revenues reported on F990, Pt VIII, line 1g
+ScntfcSpcmns_MthdOfDtrmnngRvnsTxt|Scientific specimens; Method of determining revenues
+ArchlgclArtfcts_NnCshChckbxInd|Archaeological artifacts; Checkbox for lines on Part I
+ArchlgclArtfcts_CntrbtnCnt|Archaeological artifacts; Number of contributions
+ArchlgclArtfcts_NncshCntrbtnsRptF990Amt|Archaeological artifacts; Revenues reported on F990, Pt VIII, line 1g
+ArchlgclArtfcts_MthdOfDtrmnngRvnsTxt|Archaeological artifacts; Method of determining revenues
+SkdM_Frm8283RcvdCnt|Number of 8283s received
+ArtHstrclTrsrs_NnCshChckbxInd|Art - Historical treasures; Checkbox for lines on Part I
+ArtHstrclTrsrs_CntrbtnCnt|Art - Historical treasures; Number of contributions
+ArtHstrclTrsrs_NncshCntrbtnsRptF990Amt|Art - Historical treasures; Revenues reported on F990, Pt VIII, line 1g
+ArtHstrclTrsrs_MthdOfDtrmnngRvnsTxt|Art - Historical treasures; Method of determining revenues
+SkdM_AnyPrprtyThtMstBHldInd|Any property that must be held?
+SkdM_RvwPrcssUnslNCGftsInd|Review process reference unusual noncash gifts?
+SkdM_ThrdPrtsUsdInd|Third parties used?
+ArtFrctnlIntrst_NnCshChckbxInd|Art - fractional interest; Checkbox for lines on Part I
+ArtFrctnlIntrst_CntrbtnCnt|Art - fractional interest; Number of contributions
+ArtFrctnlIntrst_NncshCntrbtnsRptF990Amt|Art - fractional interest; Revenues reported on F990, Pt VIII, line 1g
+ArtFrctnlIntrst_MthdOfDtrmnngRvnsTxt|Art - fractional interest; Method of determining revenues
+BksAndPblctns_NnCshChckbxInd|Books and publications; Checkbox for lines on Part I
+BksAndPblctns_CntrbtnCnt|Books and publications; Number of contributions
+BksAndPblctns_NncshCntrbtnsRptF990Amt|Books and publications; Revenues reported on F990, Pt VIII, line 1g
+BksAndPblctns_MthdOfDtrmnngRvnsTxt|Books and publications; Method of determining revenues
+ClthngAndHshldGds_NnCshChckbxInd|Clothing and household goods; Checkbox for lines on Part I
+ClthngAndHshldGds_CntrbtnCnt|Clothing and household goods; Number of contributions
+ClthngAndHshldGds_NncshCntrbtnsRptF990Amt|Clothing and household goods; Revenues reported on F990, Pt VIII, line 1g
+ClthngAndHshldGds_MthdOfDtrmnngRvnsTxt|Clothing and household goods; Method of determining revenues
+CrsAndOthrVhcls_NnCshChckbxInd|Cars and other vehicles; Checkbox for lines on Part I
+CrsAndOthrVhcls_CntrbtnCnt|Cars and other vehicles; Number of contributions
+CrsAndOthrVhcls_NncshCntrbtnsRptF990Amt|Cars and other vehicles; Revenues reported on F990, Pt VIII, line 1g
+CrsAndOthrVhcls_MthdOfDtrmnngRvnsTxt|Cars and other vehicles; Method of determining revenues
+BtsAndPlns_NnCshChckbxInd|Boats and planes; Checkbox for lines on Part I
+BtsAndPlns_CntrbtnCnt|Boats and planes; Number of contributions
+BtsAndPlns_NncshCntrbtnsRptF990Amt|Boats and planes; Revenues reported on F990, Pt VIII, line 1g
+BtsAndPlns_MthdOfDtrmnngRvnsTxt|Boats and planes; Method of determining revenues
+IntllctlPrprty_NnCshChckbxInd|Intellectual property; Checkbox for lines on Part I
+IntllctlPrprty_CntrbtnCnt|Intellectual property; Number of contributions
+IntllctlPrprty_NncshCntrbtnsRptF990Amt|Intellectual property; Revenues reported on F990, Pt VIII, line 1g
+IntllctlPrprty_MthdOfDtrmnngRvnsTxt|Intellectual property; Method of determining revenues
+ScrtsPblclyTrdd_NnCshChckbxInd|Securities - publicly traded; Checkbox for lines on Part I
+ScrtsPblclyTrdd_CntrbtnCnt|Securities - publicly traded; Number of contributions
+ScrtsPblclyTrdd_NncshCntrbtnsRptF990Amt|Securities - publicly traded; Revenues reported on F990, Pt VIII, line 1g
+ScrtsPblclyTrdd_MthdOfDtrmnngRvnsTxt|Securities - publicly traded; Method of determining revenues

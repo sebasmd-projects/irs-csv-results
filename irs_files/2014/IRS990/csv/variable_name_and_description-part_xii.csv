@@ -1,0 +1,15 @@
+InfInSkdOPrtXIIInd|Schedule O contains a response to a question in Part XII
+MthdOfAccntngAccrlInd|Method of accounting - Accrual
+MthdOfAccntngCshInd|Method of accounting - Cash
+MthdOfAccntngOthrInd|Method of accounting - Other
+AccntntCmplOrRvwInd|Accountant provide compilation or review?
+AcctCmplOrRvwBss_SprtBssFnclStmtInd|Basis in which the financial statements were compiled or reviewed by independent accountant; Financial statement issued on separate basis
+AcctCmplOrRvwBss_CnsldtdBssFnclStmtInd|Basis in which the financial statements were compiled or reviewed by independent accountant; Financial statement issued on consolidated basis
+AcctCmplOrRvwBss_CnslAndSpBssFnclStmtInd|Basis in which the financial statements were compiled or reviewed by independent accountant; Financial statement issued on consolidated and separate basis
+FSAdtdInd|Financial sheets audited?
+FSAdtdBss_SprtBssFnclStmtInd|Basis in which the financial statements were audited by an independent accountant; Financial statement issued on separate basis
+FSAdtdBss_CnsldtdBssFnclStmtInd|Basis in which the financial statements were audited by an independent accountant; Financial statement issued on consolidated basis
+FSAdtdBss_CnslAndSpBssFnclStmtInd|Basis in which the financial statements were audited by an independent accountant; Financial statement issued on consolidated and separate basis
+AdtCmmttInd|Does the organization have an audit committee?
+FdrlGrntAdtRqrdInd|Federal grant audit required?
+FdrlGrntAdtPrfrmdInd|Federal grant audit performed?

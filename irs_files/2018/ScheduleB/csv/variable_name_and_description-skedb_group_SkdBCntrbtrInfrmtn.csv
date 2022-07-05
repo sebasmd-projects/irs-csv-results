@@ -1,0 +1,22 @@
+CntrbtrInfrmtn_CntrbtrNm|Contributor information; Cotributor number
+CntrbtrUSAddrss_ZIPCd|Contributor information; Contributor address - US; ZIP code
+CntrbtrInfrmtn_CntrbtrPrsnNm|Contributor information; Contributor name - Individual
+CntrbtrBsnssNm_BsnssNmLn2Txt|Contributor information; Contributor name - Business; Business name line 2
+CntrbtrFrgnAddrss_CntryCd|Contributor information; Contributor address - Foreign; Country
+CntrbtrFrgnAddrss_FrgnPstlCd|Contributor information; Contributor address - Foreign; Postal code
+CntrbtrUSAddrss_AddrssLn2Txt|Contributor information; Contributor address - US; Address line 2
+AddrssNtApplcblCd|"Contributor information; Contributor Address - ""N/A"
+CntrbtrUSAddrss_SttAbbrvtnCd|Contributor information; Contributor address - US; State
+CntrbtrBsnssNm_BsnssNmLn1Txt|Contributor information; Contributor name - Business; Business name line 1
+CntrbtrInfrmtn_Pd527j1Ind|Contributor information; Pd. 527(j)(1)
+CntrbtrFrgnAddrss_AddrssLn1Txt|Contributor information; Contributor address - Foreign; Address line 1
+NmNtApplcblCd|"Contributor information; Contributor name - ""N/A"
+CntrbtrFrgnAddrss_AddrssLn2Txt|Contributor information; Contributor address - Foreign; Address line 2
+CntrbtrFrgnAddrss_PrvncOrSttNm|Contributor information; Contributor address - Foreign; Province or state
+CntrbtrFrgnAddrss_CtyNm|Contributor information; Contributor address - Foreign; City
+CntrbtrUSAddrss_AddrssLn1Txt|Contributor information; Contributor address - US; Address line 1
+CntrbtrUSAddrss_CtyNm|Contributor information; Contributor address - US; City
+CntrbtrInfrmtn_TtlCntrbtnsAmt|Contributor information; Aggregate contributions
+CntrbtrInfrmtn_PyrllCntrbtnInd|Contributor information; Type of contribution - Payroll
+CntrbtrInfrmtn_NncshCntrbtnInd|Contributor information; Type of contribution - Noncash
+CntrbtrInfrmtn_PrsnCntrbtnInd|Contributor information; Type of contribution - Person

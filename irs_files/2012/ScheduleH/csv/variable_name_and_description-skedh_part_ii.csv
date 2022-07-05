@@ -1,0 +1,60 @@
+TtlCmmnttyBldngActy_ActvtsOrPrgrmsCnt|Total; Number of activities or programs
+TtlCmmnttyBldngActy_PrsnsSrvdCnt|Total; Persons served
+TtlCmmnttyBldngActy_TtlCmmntyBnftExpnsAmt|Total; Total community building expense
+TtlCmmnttyBldngActy_DrctOffsttngRvnAmt|Total; Direct offsetting revenue
+TtlCmmnttyBldngActy_NtCmmntyBnftExpnsAmt|Total; Net community building expense
+TtlCmmnttyBldngActy_TtlExpnsPct|Total; Percent of total expense
+PhysclImprvAndHsng_ActvtsOrPrgrmsCnt|Physical improvements and housing; Number of activities or programs
+PhysclImprvAndHsng_PrsnsSrvdCnt|Physical improvements and housing; Persons served
+PhysclImprvAndHsng_TtlCmmntyBnftExpnsAmt|Physical improvements and housing; Total community building expense
+PhysclImprvAndHsng_DrctOffsttngRvnAmt|Physical improvements and housing; Direct offsetting revenue
+PhysclImprvAndHsng_NtCmmntyBnftExpnsAmt|Physical improvements and housing; Net community building expense
+PhysclImprvAndHsng_TtlExpnsPct|Physical improvements and housing; Percent of total expense
+EcnmcDvlpmnt_ActvtsOrPrgrmsCnt|Economic development; Number of activities or programs
+EcnmcDvlpmnt_PrsnsSrvdCnt|Economic development; Persons served
+EcnmcDvlpmnt_TtlCmmntyBnftExpnsAmt|Economic development; Total community building expense
+EcnmcDvlpmnt_DrctOffsttngRvnAmt|Economic development; Direct offsetting revenue
+EcnmcDvlpmnt_NtCmmntyBnftExpnsAmt|Economic development; Net community building expense
+EcnmcDvlpmnt_TtlExpnsPct|Economic development; Percent of total expense
+CmmntySpprt_ActvtsOrPrgrmsCnt|Community support; Number of activities or programs
+CmmntySpprt_PrsnsSrvdCnt|Community support; Persons served
+CmmntySpprt_TtlCmmntyBnftExpnsAmt|Community support; Total community building expense
+CmmntySpprt_DrctOffsttngRvnAmt|Community support; Direct offsetting revenue
+CmmntySpprt_NtCmmntyBnftExpnsAmt|Community support; Net community building expense
+CmmntySpprt_TtlExpnsPct|Community support; Percent of total expense
+EnvrnmntlImprvmnts_ActvtsOrPrgrmsCnt|Environmental improvements; Number of activities or programs
+EnvrnmntlImprvmnts_PrsnsSrvdCnt|Environmental improvements; Persons served
+EnvrnmntlImprvmnts_TtlCmmntyBnftExpnsAmt|Environmental improvements; Total community building expense
+EnvrnmntlImprvmnts_DrctOffsttngRvnAmt|Environmental improvements; Direct offsetting revenue
+EnvrnmntlImprvmnts_NtCmmntyBnftExpnsAmt|Environmental improvements; Net community building expense
+EnvrnmntlImprvmnts_TtlExpnsPct|Environmental improvements; Percent of total expense
+LdrshpDvlpmnt_ActvtsOrPrgrmsCnt|Leadership development; Number of activities or programs
+LdrshpDvlpmnt_PrsnsSrvdCnt|Leadership development; Persons served
+LdrshpDvlpmnt_TtlCmmntyBnftExpnsAmt|Leadership development; Total community building expense
+LdrshpDvlpmnt_DrctOffsttngRvnAmt|Leadership development; Direct offsetting revenue
+LdrshpDvlpmnt_NtCmmntyBnftExpnsAmt|Leadership development; Net community building expense
+LdrshpDvlpmnt_TtlExpnsPct|Leadership development; Percent of total expense
+CltnBldng_ActvtsOrPrgrmsCnt|Coalition building; Number of activities or programs
+CltnBldng_PrsnsSrvdCnt|Coalition building; Persons served
+CltnBldng_TtlCmmntyBnftExpnsAmt|Coalition building; Total community building expense
+CltnBldng_DrctOffsttngRvnAmt|Coalition building; Direct offsetting revenue
+CltnBldng_NtCmmntyBnftExpnsAmt|Coalition building; Net community building expense
+CltnBldng_TtlExpnsPct|Coalition building; Percent of total expense
+HlthImprvmntAdvccy_ActvtsOrPrgrmsCnt|Health improvement advocacy; Number of activities or programs
+HlthImprvmntAdvccy_PrsnsSrvdCnt|Health improvement advocacy; Persons served
+HlthImprvmntAdvccy_TtlCmmntyBnftExpnsAmt|Health improvement advocacy; Total community building expense
+HlthImprvmntAdvccy_DrctOffsttngRvnAmt|Health improvement advocacy; Direct offsetting revenue
+HlthImprvmntAdvccy_NtCmmntyBnftExpnsAmt|Health improvement advocacy; Net community building expense
+HlthImprvmntAdvccy_TtlExpnsPct|Health improvement advocacy; Percent of total expense
+WrkfrcDvlpmnt_ActvtsOrPrgrmsCnt|Workforce development; Number of activities or programs
+WrkfrcDvlpmnt_PrsnsSrvdCnt|Workforce development; Persons served
+WrkfrcDvlpmnt_TtlCmmntyBnftExpnsAmt|Workforce development; Total community building expense
+WrkfrcDvlpmnt_DrctOffsttngRvnAmt|Workforce development; Direct offsetting revenue
+WrkfrcDvlpmnt_NtCmmntyBnftExpnsAmt|Workforce development; Net community building expense
+WrkfrcDvlpmnt_TtlExpnsPct|Workforce development; Percent of total expense
+OthrCmmnttyBldngActy_ActvtsOrPrgrmsCnt|Other; Number of activities or programs
+OthrCmmnttyBldngActy_PrsnsSrvdCnt|Other; Persons served
+OthrCmmnttyBldngActy_TtlCmmntyBnftExpnsAmt|Other; Total community building expense
+OthrCmmnttyBldngActy_DrctOffsttngRvnAmt|Other; Direct offsetting revenue
+OthrCmmnttyBldngActy_NtCmmntyBnftExpnsAmt|Other; Net community building expense
+OthrCmmnttyBldngActy_TtlExpnsPct|Other; Percent of total expense

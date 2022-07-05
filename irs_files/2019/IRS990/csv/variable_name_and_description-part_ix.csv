@@ -1,0 +1,121 @@
+InfInSkdOPrtIXInd|Schedule O contains a response to a question in Part IX
+PyrllTxs_TtlAmt|Payroll taxes; Total
+PyrllTxs_PrgrmSrvcsAmt|Payroll taxes; Program services
+PyrllTxs_MngmntAndGnrlAmt|Payroll taxes; Management and general
+PyrllTxs_FndrsngAmt|Payroll taxes; Fundraising
+FsFrSrvcsMngmnt_TtlAmt|Fees for services (non-employees): Management; Total
+FsFrSrvcsMngmnt_PrgrmSrvcsAmt|Fees for services (non-employees): Management; Program services
+FsFrSrvcsMngmnt_MngmntAndGnrlAmt|Fees for services (non-employees): Management; Management and general
+FsFrSrvcsMngmnt_FndrsngAmt|Fees for services (non-employees): Management; Fundraising
+FsFrSrvcsLgl_TtlAmt|Fees for services (non-employees): Legal; Total
+FsFrSrvcsLgl_PrgrmSrvcsAmt|Fees for services (non-employees): Legal; Program services
+FsFrSrvcsLgl_MngmntAndGnrlAmt|Fees for services (non-employees): Legal; Management and general
+FsFrSrvcsLgl_FndrsngAmt|Fees for services (non-employees): Legal; Fundraising
+FsFrSrvcsAccntng_TtlAmt|Fees for services (non-employees): accounting; Total
+FsFrSrvcsAccntng_PrgrmSrvcsAmt|Fees for services (non-employees): accounting; Program services
+FsFrSrvcsAccntng_MngmntAndGnrlAmt|Fees for services (non-employees): accounting; Management and general
+FsFrSrvcsAccntng_FndrsngAmt|Fees for services (non-employees): accounting; Fundraising
+FsFrSrvcsLbbyng_TtlAmt|Fees for services (non-employees): Lobbying; Total
+FsFrSrvcsLbbyng_PrgrmSrvcsAmt|Fees for services (non-employees): Lobbying; Program services
+FsFrSrvcsLbbyng_MngmntAndGnrlAmt|Fees for services (non-employees): Lobbying; Management and general
+FsFrSrvcsLbbyng_FndrsngAmt|Fees for services (non-employees): Lobbying; Fundraising
+FsFrSrvcsPrfFndrsng|Fees for services (non-employees): Professional fundraising
+FsFrSrvcsPrfFndrsng_TtlAmt|Fees for services (non-employees): Professional fundraising; Total
+FsFrSrvcsPrfFndrsng_FndrsngAmt|Fees for services (non-employees): Professional fundraising; Fundraising
+FsFrSrvcInvstMgmntFs_TtlAmt|Fees for services (non-employees): Investment management fees; Total
+FsFrSrvcInvstMgmntFs_PrgrmSrvcsAmt|Fees for services (non-employees): Investment management fees; Program services
+FsFrSrvcInvstMgmntFs_MngmntAndGnrlAmt|Fees for services (non-employees): Investment management fees; Management and general
+FsFrSrvcInvstMgmntFs_FndrsngAmt|Fees for services (non-employees): Investment management fees; Fundraising
+FsFrSrvcsOthr_TtlAmt|Fees for services (non-employees): Other; Total
+FsFrSrvcsOthr_PrgrmSrvcsAmt|Fees for services (non-employees): Other; Program services
+FsFrSrvcsOthr_MngmntAndGnrlAmt|Fees for services (non-employees): Other; Management and general
+FsFrSrvcsOthr_FndrsngAmt|Fees for services (non-employees): Other; Fundraising
+Advrtsng_TtlAmt|Advertising; Total
+Advrtsng_PrgrmSrvcsAmt|Advertising; Program services
+Advrtsng_MngmntAndGnrlAmt|Advertising; Management and general
+Advrtsng_FndrsngAmt|Advertising; Fundraising
+OffcExpnss_TtlAmt|Office expenses; Total
+OffcExpnss_PrgrmSrvcsAmt|Office expenses; Program services
+OffcExpnss_MngmntAndGnrlAmt|Office expenses; Management and general
+OffcExpnss_FndrsngAmt|Office expenses; Fundraising
+InfrmtnTchnlgy_TtlAmt|Information technology; Total
+InfrmtnTchnlgy_PrgrmSrvcsAmt|Information technology; Program services
+InfrmtnTchnlgy_MngmntAndGnrlAmt|Information technology; Management and general
+InfrmtnTchnlgy_FndrsngAmt|Information technology; Fundraising
+Rylts_TtlAmt|Royalties; Total
+Rylts_PrgrmSrvcsAmt|Royalties; Program services
+Rylts_MngmntAndGnrlAmt|Royalties; Management and general
+Rylts_FndrsngAmt|Royalties; Fundraising
+Occpncy_TtlAmt|Occupancy; Total
+Occpncy_PrgrmSrvcsAmt|Occupancy; Program services
+Occpncy_MngmntAndGnrlAmt|Occupancy; Management and general
+Occpncy_FndrsngAmt|Occupancy; Fundraising
+Trvl_TtlAmt|Travel; Total
+Trvl_PrgrmSrvcsAmt|Travel; Program services
+Trvl_MngmntAndGnrlAmt|Travel; Management and general
+Trvl_FndrsngAmt|Travel; Fundraising
+PymtTrvlEntrtnmntPbOfcl_TtlAmt|Payments of travel or entertainment expenses for any Federal, state or local public officials; Total
+PymtTrvlEntrtnmntPbOfcl_PrgrmSrvcsAmt|Payments of travel or entertainment expenses for any Federal, state or local public officials; Program services
+PymtTrvlEntrtnmntPbOfcl_MngmntAndGnrlAmt|Payments of travel or entertainment expenses for any Federal, state or local public officials; Management and general
+PymtTrvlEntrtnmntPbOfcl_FndrsngAmt|Payments of travel or entertainment expenses for any Federal, state or local public officials; Fundraising
+CnfrncsMtngs_TtlAmt|Conferences, conventions and meetings; Total
+CnfrncsMtngs_PrgrmSrvcsAmt|Conferences, conventions and meetings; Program services
+CnfrncsMtngs_MngmntAndGnrlAmt|Conferences, conventions and meetings; Management and general
+CnfrncsMtngs_FndrsngAmt|Conferences, conventions and meetings; Fundraising
+GrntsTDmstcOrgs_TtlAmt|Grants to governments and organizations in the U.S. Complete Parts I and III of Schedule I if total exceeds $5,000; Total
+GrntsTDmstcOrgs_PrgrmSrvcsAmt|Grants to governments and organizations in the U.S. Complete Parts I and III of Schedule I if total exceeds $5,000; Program services
+Intrst_TtlAmt|Interest; Total
+Intrst_PrgrmSrvcsAmt|Interest; Program services
+Intrst_MngmntAndGnrlAmt|Interest; Management and general
+Intrst_FndrsngAmt|Interest; Fundraising
+PymntsTAfflts_TtlAmt|Payments to affiliates; Total
+PymntsTAfflts_PrgrmSrvcsAmt|Payments to affiliates; Program services
+PymntsTAfflts_MngmntAndGnrlAmt|Payments to affiliates; Management and general
+PymntsTAfflts_FndrsngAmt|Payments to affiliates; Fundraising
+DprctnDpltn_TtlAmt|Depreciation, depletion, and amortization; Total
+DprctnDpltn_PrgrmSrvcsAmt|Depreciation, depletion, and amortization; Program services
+DprctnDpltn_MngmntAndGnrlAmt|Depreciation, depletion, and amortization; Management and general
+DprctnDpltn_FndrsngAmt|Depreciation, depletion, and amortization; Fundraising
+Insrnc_TtlAmt|Insurance; Total
+Insrnc_PrgrmSrvcsAmt|Insurance; Program services
+Insrnc_MngmntAndGnrlAmt|Insurance; Management and general
+Insrnc_FndrsngAmt|Insurance; Fundraising
+AllOthrExpnss_TtlAmt|All other expenses; Total
+AllOthrExpnss_PrgrmSrvcsAmt|All other expenses; Program services
+AllOthrExpnss_MngmntAndGnrlAmt|All other expenses; Management and general
+AllOthrExpnss_FndrsngAmt|All other expenses; Fundraising
+TtlFnctnlExpnss_TtlAmt|Total functional expenses; Total
+TtlFnctnlExpnss_PrgrmSrvcsAmt|Total functional expenses; Program services
+TtlFnctnlExpnss_MngmntAndGnrlAmt|Total functional expenses; Management and general
+TtlFnctnlExpnss_FndrsngAmt|Total functional expenses; Fundraising
+JntCstsInd|Joint costs?
+TtlJntCsts_TtlAmt|Total joint costs; Total
+TtlJntCsts_PrgrmSrvcsAmt|Total joint costs; Program services
+TtlJntCsts_MngmntAndGnrlAmt|Total joint costs; Management and general
+TtlJntCsts_FndrsngAmt|Total joint costs; Fundraising
+GrntsTDmstcIndvdls_TtlAmt|Grants and other assistance to individuals in the U.S. Complete Parts II and III of Schedule I if total exceeds $5,000; Total
+GrntsTDmstcIndvdls_PrgrmSrvcsAmt|Grants and other assistance to individuals in the U.S. Complete Parts II and III of Schedule I if total exceeds $5,000; Program services
+FrgnGrnts_TtlAmt|Grants and other assistance to governments, organizations and individuals outside the U.S.; Total
+FrgnGrnts_PrgrmSrvcsAmt|Grants and other assistance to governments, organizations and individuals outside the U.S.; Program services
+BnftsTMmbrs_TtlAmt|Benefits paid to or for members; Total
+BnftsTMmbrs_PrgrmSrvcsAmt|Benefits paid to or for members; Program services
+CmpCrrntOfcrDrctrs_TtlAmt|Compensation of current officers, directors, and key employees; Total
+CmpCrrntOfcrDrctrs_PrgrmSrvcsAmt|Compensation of current officers, directors, and key employees; Program services
+CmpCrrntOfcrDrctrs_MngmntAndGnrlAmt|Compensation of current officers, directors, and key employees; Management and general
+CmpCrrntOfcrDrctrs_FndrsngAmt|Compensation of current officers, directors, and key employees; Fundraising
+CmpDsqlPrsns_TtlAmt|Compensation and other distributions not included above to disqualified persons; Total
+CmpDsqlPrsns_PrgrmSrvcsAmt|Compensation and other distributions not included above to disqualified persons; Program services
+CmpDsqlPrsns_MngmntAndGnrlAmt|Compensation and other distributions not included above to disqualified persons; Management and general
+CmpDsqlPrsns_FndrsngAmt|Compensation and other distributions not included above to disqualified persons; Fundraising
+OthrSlrsAndWgs_TtlAmt|Other salaries and wages; Total
+OthrSlrsAndWgs_PrgrmSrvcsAmt|Other salaries and wages; Program services
+OthrSlrsAndWgs_MngmntAndGnrlAmt|Other salaries and wages; Management and general
+OthrSlrsAndWgs_FndrsngAmt|Other salaries and wages; Fundraising
+PnsnPlnCntrbtns_TtlAmt|Pension plan contributions; Total
+PnsnPlnCntrbtns_PrgrmSrvcsAmt|Pension plan contributions; Program services
+PnsnPlnCntrbtns_MngmntAndGnrlAmt|Pension plan contributions; Management and general
+PnsnPlnCntrbtns_FndrsngAmt|Pension plan contributions; Fundraising
+OthrEmplyBnfts_TtlAmt|Other employee benefits; Total
+OthrEmplyBnfts_PrgrmSrvcsAmt|Other employee benefits; Program services
+OthrEmplyBnfts_MngmntAndGnrlAmt|Other employee benefits; Management and general
+OthrEmplyBnfts_FndrsngAmt|Other employee benefits; Fundraising

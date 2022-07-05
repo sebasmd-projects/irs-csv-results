@@ -1,0 +1,16 @@
+OrgnztnBsnssNm_BsnssNmLn1Txt|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Name of 527 organization; Business name line 1
+OrgnztnBsnssNm_BsnssNmLn2Txt|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Name of 527 organization; Business name line 2
+FrgnAddrss_CntryCd|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Address - Foreign; Country
+FrgnAddrss_AddrssLn1Txt|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Address - Foreign; Address line 1
+USAddrss_ZIPCd|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Address - US; ZIP code
+FrgnAddrss_FrgnPstlCd|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Address - Foreign; Postal code
+FrgnAddrss_CtyNm|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Address - Foreign; City
+FrgnAddrss_PrvncOrSttNm|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Address - Foreign; Province or state
+USAddrss_CtyNm|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Address - US; City
+USAddrss_AddrssLn1Txt|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Address - US; Address line 1
+USAddrss_AddrssLn2Txt|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Address - US; Address line 2
+USAddrss_SttAbbrvtnCd|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Address - US; State
+FrgnAddrss_AddrssLn2Txt|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Address - Foreign; Address line 2
+Sctn527PltclOrg_EIN|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; EIN
+Sctn527PltclOrg_PdIntrnlFndsAmt|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Amount paid from internal funds
+Sctn527PltclOrg_CntrbtnsRcvdDlvrAmt|State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; Amount of contributions received and delivered

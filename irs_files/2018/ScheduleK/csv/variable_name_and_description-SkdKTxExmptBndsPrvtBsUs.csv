@@ -1,0 +1,15 @@
+BndRfrncCd|Private Use; Bond issue reference number (A-D)
+OwnngBndFnncdPrprtyInd|Private Use; Partnership or LLC owning bond financed property?
+AnyLsArrngmntsInd|Private Use; Any lease arrangements?
+MgmtCntrctBndFncdPrpInd|Private Use; Management contract for bond financed property?
+EnggBndCnslCntrctsInd|Private Use; Bond Counsel routinely engaged to review management or service contracts?
+AnyRsrchAgrmntsInd|Private Use; Any research agreements?
+EnggBndCnslRsrchInd|Private Use; Bond Counsel routinely engaged to review management or service contracts?
+PrvtBsUsByOthrsPct|Private Use; Percentage of private business use by others
+PrvtBsCncrnngUBIPct|Private Use; Percentage of private business concerning UBI
+TtlPrvtBsnssUsPct|Private Use; Total of lines 4 and 5
+BndIssMtPrvtScPymtTstInd|Private Use; Bond issue meets private security or payment test?
+ChngInUsBndFnncdPrpInd|Private Use; Change in use of bond financed property?
+ChngInUsBndFnncdPrpPct|Private Use; Percentage change in use of bond financed property
+RmdlActnTknInd|Private Use; Remedial action taken?
+PrcsNnqlfdBndRmdtdInd|Private Use; Nonqualified bonds remediated procedures?
