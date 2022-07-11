@@ -1,11 +1,4 @@
-object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxExmptBndsArbtrg_VrblRtIssInd,TxExmptBndsArbtrg_HdgIdntfdInBksAndRcInd,TxExmptBndsArbtrg_GrssPrcdsInvstdInGICInd,TxExmptBndsArbtrg_GrssPrcdsInvstdInd,TxExmptBndsArbtrg_WrttnPrcTMntrRqsInd
-201532299349302483,581249683,A,1,1,1,Regions Bank,5.000000000000,0,0,0,0,0
-201532299349302483,581249683,B,1,1,1,Regions Bank,5.000000000000,0,0,0,0,0
-201532299349302483,581249683,C,1,1,1,Regions Bank,5.000000000000,0,0,0,0,0
-201532299349302568,030219309,A,false,true,true,true,CITIBANK,20.2,false,false,false,0,false,true
-201532299349302568,030219309,B,false,true,false,false,0,false,0,false,true
-201532299349302568,030219309,C,false,true,false,false,0,false,0,false,true
-201532299349302568,030219309,D,false,true,false,false,0,false,0,false,true
+object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxExmptBndsArbtrg_RbtNtDYtInd,TxExmptBndsArbtrg_ExcptnTRbtInd,TxExmptBndsArbtrg_NRbtDInd,TxExmptBndsArbtrg_VrblRtIssInd,TxExmptBndsArbtrg_HdgIdntfdInBksAndRcInd,TxExmptBndsArbtrg_GrssPrcdsInvstdInGICInd,TxExmptBndsArbtrg_GrssPrcdsInvstdInd,TxExmptBndsArbtrg_WrttnPrcTMntrRqsInd
 201530129349300863,410695509,A,0,0,0,1,0,0,0,0,1
 201530129349300863,410695509,B,0,1,0,0,0,0,0,0,1
 201510159349300611,042105776,A,0,0,0,0,1,0,0,0,1
@@ -41,6 +34,7 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201500219349300605,420698196,A,0,0,0,0,0,0,0,0,1
 201500219349300605,420698196,B,0,0,0,0,0,0,0,0,1
 201520229349300902,131740285,A,false,false,false,false,false,false,false,false,true
+201530229349300623,271870108,A,0,0,0,1,0,0,0,0,0
 201520169349300027,362216176,A,false,false,true,false,0,false,0,false,false
 201530229349300913,381393841,A,0,0,0,0,1,0,0,0,0
 201520099349301257,460224589,A,false,false,false,false,false,false,false,false,false
@@ -78,6 +72,7 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201530309349301108,420680351,B,0,0,0,1,0,0,1,SEE PART VI,5.000000000000,1,0,1
 201530309349301658,381369604,A,0,0,1,0,1,1,PNC BANK,7,0,0,0,0,1
 201530309349301658,381369604,B,0,0,0,0,1,1,PNC BANK,7,0,0,0,0,1
+201510339349300726,161476258,A,0,1,0,0,1,1,See Part VI,9.95,0,0,0,0,0
 201520419349301407,150533545,A,false,false,false,false,false,false,false,false,false
 201520419349301407,150533545,B,false,false,false,false,false,false,false,false,false
 201500409349300625,860294012,A,false,true,true,Compass Bank,10.0000,false,false,false,false,true
@@ -100,8 +95,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201530429349300843,930461940,C,0,0,0,0,0,0,0,0,0
 201530439349301208,440545286,A,0,0,0,0,0,0,0,0,0
 201530439349301208,440545286,B,0,0,0,0,0,0,0,0,0
-201520389349300307,020222154,A,0,0,0,0,1,0,0,0,0
-201520389349300307,020222154,B,0,0,0,0,1,1,MORGAN STANLEY,30.000000000000,0,0,0,0,0
 201510409349300646,370864020,A,0,0,1,1,1,1,JP Morgan Chase Bank,20.0,0,0,0,0,0
 201530409349300913,310536647,A,0,0,1,0,1,0,0,0,1
 201530409349300913,310536647,B,0,0,1,0,0,0,0,0,1
@@ -121,7 +114,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201530439349301828,150532239,A,0,1,0,1,0,0,0,0,0
 201530439349301828,150532239,B,0,0,0,1,0,0,0,0,0
 201530439349301828,150532239,C,0,0,0,1,0,0,0,0,0
-201540439349300214,251900793,A,false,false,false,true,false,false,false,false,false
 201510419349301561,341226547,A,0,0,0,0,1,1,Fifth Third Bank,7,0,0,0,0,0
 201510419349301561,341226547,B,0,0,0,0,1,0,0,0,1
 201540439349301559,951644048,A,false,false,false,false,false,false
@@ -142,7 +134,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201520419349301562,540505892,R000009,B,1,0,0,0,0,0
 201520419349301562,540505892,R000009,C,1,1,1,Bank of America,20,0,0,0,1,0
 201520419349301562,540505892,R000009,D,1,1,1,BB&T,20,0,0,0,1,0
-201520439349300532,250965406,A,0,0,0,1,1,0,0,0,0
 201510409349300951,362177133,A,0,0,0,0,1,0,0,0,0
 201510409349300951,362177133,B,0,0,0,0,1,0,0,0,0
 201500409349300435,540505945,A,0,0,0,0,1,0,0,0,1
@@ -165,8 +156,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201540459349300014,560529982,A,0,0,1,1,1,1,BB&T,7.000000000000,0,0,0,0,0
 201540459349300014,560529982,B,0,0,1,1,1,1,BB&T,7.000000000000,0,0,0,0,0
 201540459349300014,560529982,C,0,0,1,1,1,1,BB&T,7.000000000000,0,0,0,0,0
-201510479349302271,952501387,A,false,true,true,false,0,false,0,false,true
-201510479349302271,952501387,B,false,true,true,false,0,false,0,false,true
 201510479349302316,950549600,A,false,false,false,true,false,false,0,false,0,false,true
 201510479349302316,950549600,B,false,true,false,false,false,false,0,false,0,false,true
 201510449349302496,530196640,A,0,0,1,0,1,1,SUNTRUST,14.000000000000,0,0,0,0,0
@@ -185,6 +174,8 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201520449349302627,133508093,A,false,true,false,false,false,false,0,false,0,false,true
 201520449349302627,133508093,B,false,true,false,false,true,false,0,false,0,false,true
 201520449349302667,431007642,A,0,0,0,1,0,0,0,0,0
+201510479349301421,941156617,A,0,0,0,1,0,0,0,0,1
+201510479349301421,941156617,B,0,1,0,0,0,0,0,0,1
 201540449349302909,480547846,A,false,true,false,false,false,false,0,false,0,false,true
 201520449349302342,430356250,A,false,true,false,false,0,false,0,false,true
 201520449349302342,430356250,B,false,true,false,false,0,false,0,false,true
@@ -194,6 +185,7 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201500489349301365,610444763,RetDoc1053100001,C,0,0,0,0,1,0,0,0,0
 201500489349301365,610444763,RetDoc1053100001,D,0,0,0,0,0,0,0,0,0
 201530489349300713,620483210,A,0,0,1,0,1,0,0,0,0
+201530449349300408,620488046,A,0,0,0,0,1,0,0,0,1
 201500569349300300,540505977,A,true,true,true,SUNTRUST CAP MARKET,15.,false,false,false,0,false,true
 201500569349300300,540505977,B,true,true,false,0,false,0,false,true
 201500569349300300,540505977,C,true,true,false,0,false,0,false,true
@@ -204,14 +196,14 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201530489349302068,310971599,B,0,0,0,0,0,0,0,0,0
 201530489349302068,310971599,C,0,0,0,0,0,0,0,0,0
 201530489349302068,310971599,D,0,0,0,0,0,0,0,0,0
+201500449349301160,160743126,A,0,0,0,0,1,0,0,0,0
 201510449349300026,141468399,A,false,true,true,true,TD BANK,30.0,false,false,false,0.0,false,false
 201510449349300026,141468399,B,false,true,false,false,false,false,false
 201520449349301697,741180151,A,0,0,1,0,0,0,0,0,0
 201520449349301697,741180151,B,0,0,1,0,0,0,0,0,0
+201510449349301651,431408945,A,0,0,0,0,0,0,0,0,0
 201520489349302187,620814498,A,0,0,0,0,0,0,0,0,1
 201510519349300311,480543736,A,false,false,false,false,false,false,false,false,false
-201500449349301470,951958142,A,false,false,false,true,true,true,DEUTSCHE BANK,34.5,false,false,false,0,false,true
-201500449349301470,951958142,B,false,false,false,true,true,true,BARCLAYS,34.7,false,false,false,0,false,true
 201530449349301608,314379435,A,false,true,true,false,NA,0.0,false,false,false,NA,0.0,false,true
 201530449349301608,314379435,B,false,true,false,false,false,false,true
 201540579349300304,344428219,A,false,false,false,true,true,true,FIFTH THIRD,10.,false,false,false,0,false,true
@@ -343,10 +335,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201500979349300030,362169145,C,false,true,true,true,JP Morgan Chase NA,18.,false,false,false,0,false,true
 201500979349300030,362169145,D,false,true,true,true,Bank of America NA,27.,false,false,false,0,false,true
 201530799349300438,344427951,A,0,0,0,0,1,0,0,0,0
-201540809349300609,230465970,A,false,false,false,false,false,false,false,false,false
-201540809349300609,230465970,B,false,false,false,false,false,false,false,false,false
-201540809349300609,230465970,C,false,false,false,false,false,false,false,false,false
-201540809349300609,230465970,D,false,false,false,false,false,false,false,false,false
 201510989349300631,420680389,A,0,1,1,0,1,1,Regions Bank,10.4,0,0,0,0,1
 201510859349300331,135562314,A,false,false,false,false,false,false,0,false,0,false,true
 201510859349300331,135562314,B,false,false,false,false,true,false,0,false,0,false,true
@@ -383,6 +371,7 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201541009349300909,160743989,B,0,0,1,0,1,1,First Niagara Bank,10,1,0,0,0,1
 201521109349300332,340714687,A,false,false,false,true,false,false,0,false,0,false,true
 201521109349300332,340714687,B,false,true,false,false,false,false,0,false,0,false,true
+201521109349300512,350868127,A,0,0,0,0,0,0,0,0,0
 201531039349300733,111630830,R000011,A,0,0,0,1,0,0,0,0,1
 201531039349300733,111630830,R000011,B,0,0,0,1,0,0,0,0,1
 201531039349300733,111630830,R000011,C,0,0,0,1,1,0,0,0,1
@@ -392,6 +381,10 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511049349300316,042199867,B,false,false,false,true,false,false,0,false,0,false,true
 201511049349300316,042199867,C,false,false,false,true,false,false,0,false,0,false,true
 201511049349300316,042199867,D,false,false,false,true,false,false,0,false,0,false,true
+201511019349300016,350867977,IRS990ScheduleK,A,true,false,false,0,false,0,true,false
+201511019349300016,350867977,IRS990ScheduleK,B,true,false,false,0,false,0,true,false
+201511019349300016,350867977,IRS990ScheduleK,C,true,false,false,0,false,0,true,false
+201511019349300016,350867977,IRS990ScheduleK,D,true,false,false,0,false,0,true,false
 201521009349300537,750800689,A,false,false,false,true,false,false,false,false,true
 201521009349300537,750800689,B,false,true,false,false,false,false,false,false,true
 201521009349300537,750800689,C,false,true,false,false,false,false,false,false,true
@@ -410,6 +403,10 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201521049349300007,560529999,B,0,0,0,0,0,0,0,0,0
 201541059349301404,741109661,A,false,true,false,false,false,false,0,false,0,false,false
 201531039349301203,610448560,A,1,1,0,0,0,1
+201541039349301159,741161940,IRS990ScheduleK.1,A,false,true,true,Bank of America,15.0000,true,false,false,false,false
+201541039349301159,741161940,IRS990ScheduleK.1,B,false,true,true,Bank of America,20.0000,true,false,false,false,false
+201541039349301159,741161940,IRS990ScheduleK.1,C,false,true,true,Frost Capital,10.0000,true,false,false,false,false
+201541039349301159,741161940,IRS990ScheduleK.1,D,false,true,true,Frost Capital,10.0000,true,false,false,false,false
 201541009349300504,590624401,A,0,1,0,0,0,0,0,0,1
 201541009349300504,590624401,B,0,1,0,0,1,0,0,0,1
 201541009349300514,460280847,A,0,0,0,0,0,0,0,0,0
@@ -481,7 +478,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201541039349300544,160743040,B,false,true,false,false,false,false,0,false,0,true,true
 201541039349300544,160743040,C,false,true,false,false,false,false,0,false,0,false,true
 201511209349300246,941358307,A,false,true,false,false,false,true
-201511209349300311,231178880,A,0,0,1,0,0,0,0,0,1
 201511209349301011,060662150,A,0,0,0,0,1,1,TD BANK,7.000000000000,0,0,0,0,1
 201541179349300639,620476301,A,false,true,false,false,false,false,false,false,true
 201511269349301446,710236896,990K:1,A,false,true,false,false,false,false,true
@@ -492,8 +488,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511279349301381,420703280,B,0,0,0,1,1,0,0,0,1
 201511279349301381,420703280,C,0,0,0,1,0,0,0,0,1
 201531149349300613,042002060,A,0,0,0,1,1,0,0,0,1
-201511209349301156,430652667,A,false,false,false,true,true,true,BANK OF AMERICA,30.0,true,false,false,0.0,false,true
-201511209349301156,430652667,B,false,false,false,true,true,true,BANK OF AMERICA,30.0,true,false,false,false,true
 201521189349301017,580566212,A,0,1,0,0,0,0,0,0,1
 201521189349301017,580566212,B,0,1,0,0,0,0,0,0,1
 201521279349301447,546039600,A,0,0,0,0,1,1,SUNTRUST BANK,30.000000000000,1,1,0,0,0
@@ -507,6 +501,7 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201521199349301252,540525605,R000010,B,0,0,1,0,1,1,Branch Banking and Trust,9.5,0,0,0,0,1
 201521199349301252,540525605,R000010,C,0,0,1,0,1,1,Branch Banking & Trust,3.3,0,0,0,0,1
 201521199349301252,540525605,R000010,D,0,0,1,0,1,1,Branch Banking & Trust,3.3,0,0,0,0,1
+201501269349301025,930391563,A,0,0,0,1,0,0,0,0,1
 201501269349301770,111635105,IRS990ScheduleK,A,true,false,false,0,false,0,false,false
 201501269349301770,111635105,IRS990ScheduleK,B,true,false,false,0,false,0,false,false
 201501269349301770,111635105,IRS990ScheduleK,C,true,false,false,0,false,0,false,false
@@ -522,6 +517,8 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201541279349302104,231352683,B,false,true,true,true,false,false,0,false,0,false,true
 201541279349302104,231352683,C,false,true,true,false,false,0,false,0,false,true
 201541279349302104,231352683,D,false,true,true,false,false,0,false,0,false,true
+201501179349300010,453656162,A,0,0,0,1,0,0,0,0,1
+201501179349300010,453656162,B,0,0,0,1,0,0,1,GRAND CENTRAL,FUNDING,13.300000000000,1,0,1
 201521279349301697,990272261,A,0,0,0,1,0,0,NA,0,0,0,NA,0,0,1
 201511249349301136,956151774,A,0,0,0,0,0,0,0,0,0
 201511249349300871,240795445,A,false,false,false,false,true,true,LEHMAN BROS SPEC FIN,26.,false,true,false,0,false
@@ -540,6 +537,7 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511279349301881,141338580,B,false,false,true,true,true,true,Bank of America,8.4,false,false,false,0,false,true
 201511279349301881,141338580,C,false,false,true,true,false,false,0,false,0,false,true
 201511279349301881,141338580,D,false,false,true,true,true,true,JP Morgan Chase,6.,false,false,false,0,false,true
+201521219349300802,340714600,A,true,true,false,false,false,true
 201501269349300445,221500645,IRS990ScheduleK,A,false,false,false,true,true,true,Citibank NA,23.,false,false,false,0,true,true
 201501269349300445,221500645,IRS990ScheduleK,B,false,false,true,false,false,false,0,false,0,false,true
 201501269349300445,221500645,IRS990ScheduleK,C,false,false,true,false,false,false,0,false,0,false,true
@@ -583,6 +581,7 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201531259349301468,250965557,RetDoc1053100001,B,0,0,0,0,0,0,0,0,0
 201531259349301468,250965557,RetDoc1053100001,C,0,0,0,0,0,0,0,0,0
 201531259349301468,250965557,RetDoc1053100001,D,0,0,0,0,0,0,0,0,0
+201531699349300633,571102885,A,false,false,false,false,true,false,false,false,false
 201531639349300228,362167854,A,false,false,false,false,false,false,NA,false,true
 201531639349300228,362167854,B,false,false,false,false,false,false,NA,false,true
 201501699349300320,135604699,A,false,true,true,true,MORGAN STANLEY,3.,false,false,false,0,false,true
@@ -594,18 +593,12 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201541279349301094,430653611,990K:1,B,false,false,true,false,true,true,JPMorgan Chase Bank,0000000030.000000000000,true,false,false,Not Applicable,false,true
 201541279349301094,430653611,990K:1,C,false,false,false,true,false,false,Not Applicable,false,Not Applicable,false,true
 201541279349301094,430653611,990K:1,D,false,false,false,true,false,false,Not Applicable,false,Not Applicable,false,true
-201501319349300825,510197108,A,true,false,false,0,false,0,false,false
-201501319349300825,510197108,B,false,true,false,true,true,BANK OF AMERICA,25.,true,false,false,0,false,false
 201501319349302570,041081650,A,false,true,false,false,true,false,0,false,0,false,true
 201501319349302570,041081650,B,false,false,true,false,true,false,0,false,0,false,true
 201501319349302570,041081650,C,false,false,true,false,false,false,0,false,0,false,true
 201501319349301040,231352632,A,false,false,false,true,false,false,0,false,0,false,false
 201501319349301040,231352632,B,false,false,false,true,false,false,0,false,0,false,false
 201501319349301040,231352632,C,false,false,false,true,false,false,0,false,0,false,false
-201501319349301510,231352213,IRS990ScheduleK,A,false,true,false,false,true,true,BANK OF AMERICA,8.,false,false,false,0,true,true
-201501319349301510,231352213,IRS990ScheduleK,B,false,true,false,false,false,false,0,false,0,true,true
-201501319349301510,231352213,IRS990ScheduleK,C,false,true,false,false,false,false,0,false,0,true,true
-201501319349301510,231352213,IRS990ScheduleK,D,false,true,false,false,false,false,0,false,0,true,true
 201501329349301100,050258810,A,false,false,false,true,true,true,Wells FargoBarclays,26.5,false,false,false,0,false,true
 201501329349301100,050258810,B,false,true,false,false,false,false,0,false,0,false,true
 201501329349301100,050258810,C,false,true,false,false,false,false,0,false,0,false,true
@@ -622,7 +615,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511539349300616,370662594,B,false,false,false,true,false,false,false,false,false
 201511539349300616,370662594,C,false,false,false,false,true,false,false,false,false
 201511539349300616,370662594,D,false,false,false,true,true,false,false,false,false
-201521709349300342,952462737,A,true,true,false,false,false
 201501349349306780,570341191,A,true,false,false,0,false,0,false
 201501349349306810,250983069,A,false,true,true,true,CERTUS BANK,10.,false,false,false,0,false,true
 201501349349302790,010212542,A,1,0,0,1,TRANSAMERICA,23.000000000000,1,0,1
@@ -638,6 +630,7 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201501349349304355,541061178,A,1,0,0,1,Wachovia Bank NA,30,1,0,0
 201501349349302640,042103637,A,false,false,false,true,true,true,JP MORGAN,31.44,false,false,false,0,true,true
 201501349349302640,042103637,B,false,true,false,false,false,false,0,false,0,false,true
+201501349349302705,381550064,A,0,0,0,1,0,0,0,0,0
 201501349349303670,421315493,A,false,true,false,false,false,false
 201501349349303670,421315493,B,false,true,false,false,false,false
 201511329349302536,741109620,IRS990ScheduleK1,A,false,false,true,false,false,false,false,false,true
@@ -654,6 +647,7 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201501339349304170,042103552,A,false,false,false,true,false,false,0,false,0,false,true
 201501339349304170,042103552,B,false,false,false,true,false,false,0,false,0,false,true
 201501339349304170,042103552,C,false,false,false,true,false,false,0,false,0,false,true
+201501329349302110,166054295,A,0,0,1,0,1,0,0,0,0
 201501319349301740,010215213,A,false,false,false,true,false,false,0,false,0,false,true
 201501319349301740,010215213,B,false,false,false,true,true,false,0,false,0,false,true
 201531269349301303,030220266,IRS990ScheduleK,A,false,false,true,false,true,true,TD BANK,10.,false,false,false,0,false,true
@@ -689,7 +683,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511349349304516,381381271,RetDoc1053100001,B,0,0,1,0,1,0,0,0,0
 201511349349304516,381381271,RetDoc1053100001,C,0,1,1,0,1,0,0,0,0
 201511349349304516,381381271,RetDoc1053100001,D,0,1,0,0,1,0,0,0,0
-201501339349302930,042103607,A,0,0,1,0,1,1,BANK OF AMERICA,20.000000000000,0,0,0,0,1
 201501349349303165,810235407,A,true,false,false,false,false
 201501349349303165,810235407,B,true,true,Northern Trust,5.0000,false,false,false,false,false
 201511339349306106,951664112,IRS990ScheduleK,A,false,false,false,true,false,false,0,true,AIG,3.8,true,true,true
@@ -699,15 +692,14 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511349349309026,041286950,A,true,false,false,false,false,false,0,false,0,false,true
 201511349349309026,041286950,B,false,true,false,false,false,false,0,false,0,false,true
 201511349349309026,041286950,C,false,true,false,false,false,false,0,false,0,false,true
-201521329349300907,240795508,A,0,0,0,1,0,0,0,0,1
-201521329349300907,240795508,B,0,0,0,1,1,1,Manufacturers And,Traders Trust,7.000000000000,0,0,0,0,1
+201521329349304602,135598093,IRS990ScheduleK,A,false,false,false,true,true,false,0,false,0,false,true
+201521329349304602,135598093,IRS990ScheduleK,B,false,false,false,true,false,false,0,false,0,false,true
+201521329349304602,135598093,IRS990ScheduleK,C,false,false,false,true,false,false,0,false,0,false,true
+201521329349304602,135598093,IRS990ScheduleK,D,false,false,false,true,false,false,0,false,0,false,true
 201521339349301127,540505906,A,false,true,false,false,false,false,false
 201521339349301127,540505906,B,false,true,false,false,false,false,false
 201521339349301127,540505906,C,false,true,false,false,false,false,false
 201521339349301127,540505906,D,false,false,false,false,false,false,false
-201511349349302031,250965307,A,0,0,0,1,1,0,NA,0,0,0,NA,0,0,1
-201511349349302031,250965307,B,0,0,0,1,0,0,NA,0,0,1,SEE PART VI,1,0,1
-201511349349302031,250965307,C,0,0,0,1,0,0,NA,0,0,0,NA,0,0,1
 201501349349304930,580566167,IRS990ScheduleK,A,false,true,false,false,0,false,0,false,true
 201501349349304930,580566167,IRS990ScheduleK,B,false,true,false,false,0,false,0,false,true
 201501349349304930,580566167,IRS990ScheduleK,C,false,true,true,true,1271 COUNTERPARTY CO,3.5,false,false,false,0,false,true
@@ -733,9 +725,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511339349302771,570314422,B,0,0,0,0,1,0,0,0,0
 201511339349302771,570314422,C,0,0,0,0,0,0,0,0,0
 201511339349302771,570314422,D,0,0,0,0,0,0,0,0,0
-201511349349300326,250965600,A,true,true,true,PNC BANK,30.0,true,false,false,0.0,false,false
-201511349349300326,250965600,B,true,true,true,PNC BANK,15.0,true,false,false,0.0,false,false
-201511349349300326,250965600,C,false,true,false,false,false,false,0.0,false,0.0,false,false
 201511349349300336,450273403,A,0,0,0,1,0,0,0,0,1
 201511329349303661,200363127,A,false,true,false,false,true,false,0,false,0,false,true
 201511329349303711,010211497,A,0,1,0,0,0,0,0,0,1
@@ -804,10 +793,7 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511329349300641,030179298,RetDoc1053100001,C,0,0,1,0,0,0,0,0,1
 201511329349300641,030179298,RetDoc1053100001,D,0,0,1,0,0,0,0,0,1
 201521319349301902,570314380,A,0,0,0,1,1,1,WELLS FARGO BANK,NA,10.000000000000,0,0,0,0,1
-201511349349306556,951690977,A,0,0,0,1,0,1,GOLDMAN SACHS & CO,0.100000000000,0,1,1,AIG MATCHED FUNDING,1.400000000000,1,0,0
-201511349349306556,951690977,B,0,0,0,1,1,0,0,0,0
-201511349349306556,951690977,C,0,0,0,1,1,0,0,0,0
-201511349349306556,951690977,D,0,0,0,0,1,0,0,0,0
+201521319349301442,231413680,A,false,true,true,false,0,false,0,false,true
 201511339349301736,370661219,A,0,0,0,0,0,0,0,0,1
 201511339349301736,370661219,B,0,0,0,1,1,0,0,0,1
 201511339349301736,370661219,C,0,0,0,0,0,0,0,0,1
@@ -828,9 +814,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201531319349301513,941156266,IRS990ScheduleK1,B,false,false,false,false,false,false,0.0,false,false,false,true
 201531319349301513,941156266,IRS990ScheduleK1,C,false,false,true,false,false,false,0.0,false,false,false,true
 201531319349301513,941156266,IRS990ScheduleK1,D,false,false,true,false,false,false,0.0,false,0.0,false,false,true
-201531339349303633,382015048,A,0,0,1,0,0,0,0,0,0
-201531339349303633,382015048,B,0,0,1,0,1,1,GOLDMAN SACHS,30.000000000000,0,0,1,ROYAL BANK CANADA,1.000000000000,1,0,0
-201531339349303633,382015048,C,0,1,0,0,1,1,GOLDMAN SACHS,30.000000000000,0,0,0,0,0
 201521349349302022,042103580,IRS990ScheduleK1,A,false,false,true,false,true,false,0.0,false,0.0,false,true
 201521349349302022,042103580,IRS990ScheduleK1,B,false,false,true,false,true,false,false,false,true
 201521349349302022,042103580,IRS990ScheduleK1,C,false,false,true,false,true,false,false,false,true
@@ -856,7 +839,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201521339349305572,951664123,B,0,0,1,0,0,0,0,0,1
 201531339349301523,580568698,A,0,0,0,0,0,0,0,0,0
 201531339349301523,580568698,B,0,0,0,0,0,0,0,0,0
-201531319349302273,131656667,A,true,false,false,0,false,0,false,false
 201531329349304393,131740451,IRS990ScheduleK,A,false,true,false,false,true,true,MERRILL LYNCH,3.248,true,false,false,0,false,false
 201531329349304393,131740451,IRS990ScheduleK,B,false,true,false,false,false,false,0,false,0,false,false
 201531329349304393,131740451,IRS990ScheduleK,C,false,true,false,false,false,false,0,false,0,false,false
@@ -869,10 +851,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201521349349303422,516000297,IRS990ScheduleK,B,false,true,true,true,MORGAN STANLEY,30.3,false,false,false,0,false,true
 201521349349303422,516000297,IRS990ScheduleK,C,false,true,false,false,0,false,0,false,true
 201521349349303422,516000297,IRS990ScheduleK,D,false,true,false,false,0,false,0,false,true
-201531329349303933,231637191,A,true,false,false,0,false,0,false,true
-201531329349303933,231637191,B,false,false,false,0,false,0,false,true
-201531329349303933,231637191,C,false,false,false,0,false,0,false,true
-201531329349303933,231637191,D,false,false,false,0,false,0,false,true
 201521349349303007,390806261,IRS990ScheduleK,A,false,false,true,true,false,false,0,false,0,false,true
 201521349349303007,390806261,IRS990ScheduleK,B,false,false,true,true,false,false,0,false,0,true,true
 201521349349303007,390806261,IRS990ScheduleK,C,false,false,true,true,false,false,0,false,0,true,true
@@ -883,7 +861,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201541349349302174,260812968,A,false,false,false,true,true,true,PNC Bank NA,24.7,false,false,false,0,false,false
 201521349349302797,237227990,A,0,1,0,0,0,0,0,0,1
 201521349349302797,237227990,B,0,1,0,0,0,0,0,1,1
-201531339349306118,251801532,A,false,true,false,false,false,false,true
 201531329349300228,150533561,A,false,true,false,true,First Niagara Ban,10.0000,false,false,false,false,false
 201531339349302833,951664101,RetDoc1053100001,A,0,0,0,1,0,0,0,0,1
 201531339349302833,951664101,RetDoc1053100001,B,0,0,0,1,0,0,1,Hypo Public Finance,5.100000000000,1,0,1
@@ -911,9 +888,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201531339349305983,910567740,B,true,true,true,BNY MELLON,30.0,false,false,true,AIG MATCHING FUND,3.1,true,false,true
 201521349349301267,350868175,A,false,true,false,false,false,false,0,false,0,false,true
 201521349349304877,160743996,A,1,1,1,Morgan Stanley,Capital Services,30.000000000000,0,0,1,Deutsche Bank Trust,Company Americas,4.100000000000,0,0,0
-201531329349301583,010211494,A,false,false,false,true,false,false,0,false,0,false,false
-201531329349301583,010211494,B,true,false,false,0,true,FSA,24.5,true,false,false
-201531329349301583,010211494,C,false,true,false,false,false,false,0,false,0,false,false
 201521349349308802,132981115,A,0,1,0,0,1,0,0,0,1
 201521349349308877,951246140,A,0,0,0,1,0,0,0,0,1
 201521349349308877,951246140,B,0,1,0,0,0,0,0,0,1
@@ -927,7 +901,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201531339349302918,231352685,IRS990ScheduleK,D,false,true,false,false,0,false,0,false,true
 201531339349303028,730579265,A,false,false,false,false,true,true,JP MORGAN CHASE,25.000000000000,true,false,false,false,false
 201501899349300125,111630820,A,0,0,0,1,0,0,0,0,1
-201531349349306328,581845423,A,0,0,0,1,0,0,1,MBIA INC,31.500000000000,1,1,1
 201541329349301924,231177930,A,false,false,false,true,false,true,jp morgan,0.3,false,true,false,0,true
 201541329349301924,231177930,B,false,false,false,true,false,false,0,false,0,true
 201541329349301924,231177930,C,false,false,true,false,false,false,0,false,0,true
@@ -952,10 +925,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201531349349302838,363377698,A,false,false,false,true,false,true,Royal Bank,0.3,false,true,false,0,false,true
 201531349349302838,363377698,B,false,false,false,true,false,false,0,false,0,false,true
 201531349349302838,363377698,C,false,true,false,false,false,false,0,false,0,false,true
-201541309349300114,231365353,IRS990ScheduleK1,A,true,false,false,false,false,true
-201541309349300114,231365353,IRS990ScheduleK1,B,true,false,false,false,false,true
-201541309349300114,231365353,IRS990ScheduleK1,C,true,true,true,BOAML,35.0,false,false,false,false,true
-201541309349300114,231365353,IRS990ScheduleK1,D,true,false,false,false,false,true
 201541329349302559,580619030,A,0,0,0,0,0,0,0,0,0
 201541319349303004,042103567,A,false,false,true,false,true,true,BANK OF AMERICA,25.,false,false,false,0,false,true
 201541319349303004,042103567,B,false,false,false,true,false,false,0,false,false,false,0,false,true
@@ -963,10 +932,8 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201541319349303034,362177139,RetDoc1053100001,B,0,0,1,1,1,1,MORGAN STANLEY,35.000000000000,0,0,0,0,1
 201541319349303034,362177139,RetDoc1053100001,C,0,0,1,1,0,0,0,0,1
 201541319349303034,362177139,RetDoc1053100001,D,0,0,0,1,1,1,MERRILL LYNCH,33.000000000000,0,0,0,0,1
-201531349349307398,362174823,990K:1,A,false,true,false,false,true,false,false,false,true
-201531349349307398,362174823,990K:1,B,false,true,false,false,false,false,false,false,true
-201531349349307398,362174823,990K:1,C,false,false,false,true,false,false,false,false,true
-201531349349307398,362174823,990K:1,D,false,false,false,true,true,true,See Part VI,false,false,false,false,true
+201541339349300819,580531392,A,0,0,0,0,0,0,0,0,0
+201541339349300819,580531392,B,0,0,0,0,0,1,0,0,0,0,0
 201541339349303749,231365966,A,0,0,1,0,0,0,0,0,0
 201531349349307123,250717890,A,1,0,0,0,0,0
 201531349349307123,250717890,B,0,0,0,0,1,0,0,0,0
@@ -979,9 +946,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201541349349308699,131624225,C,false,true,false,false,0,false,0,false,true
 201541349349306629,042104736,A,0,0,1,0,0,0,0,0,0
 201541349349306629,042104736,B,0,1,0,0,0,0,0,0,0
-201531349349300443,510067938,A,false,false,false,false,0,false,0,true,true
-201531349349300443,510067938,B,false,true,true,false,0,false,0,false,true
-201531349349300443,510067938,C,false,true,true,false,0,false,0,false,true
 201541329349300104,060646959,A,false,true,false,false,false,false,0,false,0,false,true
 201541329349300104,060646959,B,false,true,false,false,true,false,0,false,0,false,true
 201541349349306859,042103578,A,0,0,0,1,0,0,0,0,1
@@ -1015,13 +979,7 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201541349349306829,720423889,R000012,B,1,1,1,MORGAN KEEGAN FINANCIAL PRODUCTS,8,0,0,0,0,1
 201541349349306829,720423889,R000012,C,1,0,0,0,0,1
 201541349349306829,720423889,R000012,D,0,0,1,0,1,0,0,0,1
-201521969349301147,750827446,A,false,true,false,false,0,false,0,false,false
-201521969349301147,750827446,B,false,true,false,false,0,false,0,false,false
-201521969349301147,750827446,C,true,false,false,0,false,0,false,false
-201521969349301517,640306253,A,false,true,false,false,false,false,0,false,0,false,false
-201521969349301517,640306253,B,false,true,false,false,true,true,DEUTSCHE BK,30.,false,false,false,0,false,false
-201521969349301517,640306253,C,false,true,false,false,false,false,0,false,0,false,false
-201521969349301517,640306253,D,false,true,false,false,false,false,0,false,0,false,false
+201541969349301369,900790361,A,false,false,false,true,true,true,SEE PART VI,21.6,true,true,false,0,true,false
 201531919349300013,135562308,RetDoc1053100001,A,0,0,0,1,0,0,0,1,1
 201531919349300013,135562308,RetDoc1053100001,B,0,0,0,1,0,0,0,1,1
 201531919349300013,135562308,RetDoc1053100001,C,0,0,1,0,0,0,0,0,1
@@ -1031,6 +989,9 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201521919349301207,251094922,RetDoc1053100001,B,0,0,0,0,0,0,0,0,1
 201521919349301207,251094922,RetDoc1053100001,C,0,0,0,0,0,0,0,0,1
 201521919349301207,251094922,RetDoc1053100001,D,0,0,0,0,0,0,0,0,1
+201521959349301502,131624202,A,true,false,false,false,false,true,true
+201521959349301502,131624202,B,false,false,false,false,false,false,true
+201521959349301502,131624202,C,false,false,false,false,false,false,true
 201521359349304237,580566116,A,0,0,0,0,0,0,0,0,1
 201521359349304237,580566116,B,0,0,0,0,1,0,0,0,1
 201521359349304237,580566116,C,0,0,0,0,0,0,0,0,1
@@ -1086,6 +1047,8 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511359349301281,951642394,IRS990ScheduleK,B,false,false,false,true,false,false,0,false,0,false,true
 201511359349301281,951642394,IRS990ScheduleK,C,false,false,false,true,false,false,0,false,0,false,true
 201511359349301281,951642394,IRS990ScheduleK,D,false,false,false,true,false,false,0,false,0,false,true
+201511359349305646,540534105,A,0,0,1,0,0,0,0,0,0
+201511359349305646,540534105,B,0,0,1,0,0,0,0,0,0
 201511359349306141,580566205,A,false,false,false,false,false,false,0,false,0,false,false
 201511359349306141,580566205,B,false,false,false,false,false,false,0,false,0,false,false
 201511359349306611,131740468,R000010,A,0,0,0,1,0,0,0,0,0
@@ -1107,11 +1070,8 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201531359349306243,060646973,RetDoc1053100001,C,0,0,1,0,1,0,0,0,1
 201531359349306243,060646973,RetDoc1053100001,D,0,0,1,0,0,0,0,0,1
 201531359349306713,590859121,A,false,false,false,false,false,false,0,false,0,false,false
-201502129349301030,410682405,A,0,0,0,0,0,0,1,Credit Agricole,Corp and Investment,1,0,1
-201502129349301030,410682405,B,0,0,0,0,0,0,0,0,1
 201501359349302695,741613878,A,false,false,false,true,true,false,0,false,0,false,false
 201501359349302695,741613878,B,false,false,false,true,true,true,BARCLAYSMERRILL LYN,34.,false,false,false,0,false,false
-201501359349303360,231352202,A,0,0,1,0,1,0,0,0,1
 201501359349303400,141338371,A,0,0,0,0,1,1,BANK OF AMERICA,30.000000000000,0,0,0,0,0
 201501359349303400,141338371,B,0,0,0,0,1,1,BANK OF AMERICA,20.000000000000,0,0,0,0,0
 201501359349303400,141338371,C,0,0,0,0,0,0,0,0,0
@@ -1121,6 +1081,9 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511359349303281,042134818,A,0,1,1,0,0,0,0,0,1
 201501359349303885,430817015,A,false,true,false,false,true,true,US BANK,10.,false,false,false,0,false,false
 201501359349307360,131740447,A,1,1,1,RBS Citizens,10,0,0,0,0,1
+201501359349307165,610846809,A,0,0,0,0,0,0,0,0,0
+201501359349307165,610846809,B,0,0,0,0,0,0,0,0,0
+201501359349307165,610846809,C,0,0,0,0,0,0,0,0,0
 201531359349300318,030179414,A,false,false,false,true,false,false,0,false,0,false,false
 201531359349300318,030179414,B,false,false,false,true,true,true,TD BANK NA,20.1,false,false,false,0,false,false
 201531359349300318,030179414,C,false,false,false,true,true,true,TD BANK NA,20.,false,false,false,0,false,false
@@ -1155,9 +1118,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201521359349308132,730587210,A,false,false,false,false,false,false,false,false,false
 201521359349308132,730587210,B,false,false,false,false,false,false,false,false,false
 201521359349307507,390980974,A,1,1,0,0,0,0
-201531359349306928,131693134,A,false,false,false,false,true,true,MORGAN STANLEY,false,false,false,false,false
-201511839349300831,362170866,A,false,false,false,true,true,true,MERRILL LYNCH,29.5,false,false,false,false,false
-201511839349300831,362170866,B,false,true,false,false,false,false,false,false,false,false,false
 201501359349308975,590624364,A,0,0,0,1,1,1,BANK OF AMERICA,20.000000000000,0,0,0,0,1
 201501359349308975,590624364,B,0,0,0,1,0,0,0,0,1
 201501359349308975,590624364,C,0,0,0,1,0,0,0,0,1
@@ -1170,12 +1130,9 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511359349305406,630302179,C,0,0,0,0,1,1,BBVACOMPASS,4.900000000000,1,1,0,0,0
 201511359349305406,630302179,D,0,0,0,0,1,1,BBVACOMPASS,4.500000000000,1,1,0,0,0
 201501359349303150,460224600,A,0,0,0,0,1,0,0,0,0
-201502189349300105,020222215,A,1,0,0,0,0,0
-201502189349300105,020222215,B,1,0,0,0,0,0
-201502189349300105,020222215,C,0,0,0,0,0,0,0,0,0
-201502189349300105,020222215,D,0,0,0,0,0,0,0,0,0
 201501359349302485,626001104,A,0,0,0,0,1,1,REGIONS EQUIPMMENT,FINANCE CORPORATION,10.000000000000,0,0,0,NA,0,0
 201501359349302485,626001104,B,0,0,0,0,1,1,REGIONS EQUIPMMENT,FINANCE CORPORATION,12.000000000000,0,0,0,NA,0,0
+201512159349300971,986001269,A,0,0,1,0,0,0,0,0,0
 201521359349305557,060761704,IRS990ScheduleK,A,true,true,true,WELLS FARGO NA,22.,false,false,false,0,false,false
 201521359349305557,060761704,IRS990ScheduleK,B,false,false,false,true,true,true,WELLS FARGO NA,23.,false,false,false,0,false,false
 201521359349305557,060761704,IRS990ScheduleK,C,false,false,false,true,true,true,WELLS FARGO NA,25.,false,false,false,0,false,false
@@ -1183,51 +1140,13 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201541359349304524,231409675,B,0,1,0,0,0,0,0,0,1
 201541359349304524,231409675,C,0,1,0,0,1,0,0,0,1
 201541359349305119,381367080,A,0,1,0,0,1,1,HUNTINGTON BANK,180.000000000000,0,0,0,0,0
-201521359349306192,710437657,A,0,1,0,0,0,0,0,0,0
-201521359349306227,370673506,A,0,0,0,0,1,1,MORGAN STANLEY &,HARRIS NA,25.000000000000,0,0,0,0,0
-201522199349301462,160743905,A,1,0,0,0,0,1
-201522199349301462,160743905,B,0,0,0,0,0,0,0,0,1
-201502249349301105,010211534,A,false,true,false,NA,false,NA,false,false
-201512249349302376,042767880,A,false,true,false,false,true,false,false,false,false
-201512249349302376,042767880,B,false,true,false,false,false,false,false,false,false
-201512249349302376,042767880,C,false,true,false,false,false,false,false,false,false
-201512249349302376,042767880,D,false,true,false,false,false,false,false,false,false
-201502239349300610,340714460,A,false,false,false,true,true,false,0,false,0,false,true
-201532239349300113,222472997,A,0,1,0,0,1,0,0,0,0
-201522229349300222,042790311,RetDoc1053100001,A,0,0,0,1,1,1,Citibank,20.700000000000,0,0,0,0,1
-201522229349300222,042790311,RetDoc1053100001,B,0,0,1,0,1,0,0,0,1
-201522229349300222,042790311,RetDoc1053100001,C,0,0,0,1,1,0,0,0,1
-201522229349300222,042790311,RetDoc1053100001,D,0,0,0,1,1,0,0,0,1
-201522269349300317,440577118,IRS990ScheduleK,A,false,true,false,false,false,false,0,false,0,false,true
-201522269349300317,440577118,IRS990ScheduleK,B,false,false,false,true,true,false,0,false,0,false,true
-201522269349300317,440577118,IRS990ScheduleK,C,false,false,false,true,false,false,0,false,0,false,true
-201522269349300317,440577118,IRS990ScheduleK,D,false,false,false,true,true,false,0,false,0,false,true
-201522299349303207,610444716,A,0,0,0,1,1,0,0,0,0
-201522299349303207,610444716,B,0,1,0,0,0,0,0,0,0
-201522299349303207,610444716,C,0,0,1,0,0,0,0,0,0
-201522299349303207,610444716,D,0,0,1,0,1,1,JP MORGAN,22.500000000000,0,0,0,0,0
+201512259349302526,010681650,A,false,true,false,false,false,false,false,false
 201512329349300401,610470593,RetDoc1053100001,A,0,0,0,0,0,0,0,0,0
 201512329349300401,610470593,RetDoc1053100001,B,0,0,0,0,0,0,0,0,0
 201512329349300401,610470593,RetDoc1053100001,C,0,0,0,0,0,0,0,0,0
 201512329349300401,610470593,RetDoc1053100001,D,0,0,0,0,0,0,0,0,0
-201512269349303201,390884478,A,0,1,0,0,0,0,0,0,0
-201512269349303201,390884478,B,0,1,0,0,0,0,0,0,0
-201502279349300625,540506332,A,1,1,0,1,AIG,0.300000000000,1,0,1
-201502279349300625,540506332,B,1,1,0,0,0,1
-201502279349300625,540506332,C,1,0,0,0,0,1
-201502279349300625,540506332,D,1,0,0,0,0,1
-201532259349300103,060646813,A,0,0,0,1,1,0,NA,0,0,0,NA,0,0,1
-201532259349300103,060646813,B,0,0,0,1,1,0,NA,0,0,0,NA,0,0,1
-201542519349300609,150532254,A,0,1,0,0,1,0,0,0,0
-201542519349300609,150532254,B,0,1,0,0,0,0,0,0,0
-201522269349303182,042103612,A,0,0,1,0,0,0,0,0,1
-201522269349303182,042103612,B,0,0,1,0,0,0,0,0,1
-201522269349303182,042103612,C,0,0,0,1,0,0,0,0,1
-201522269349303182,042103612,D,0,0,1,0,1,1,CITI BANK,21.000000000000,0,1,0,0,1
-201542269349303304,060646652,A,0,1,1,0,0,0,0,0,1
-201542269349303304,060646652,B,0,1,1,0,1,1,BARCLAYS BANK,40.000000000000,0,0,0,0,1
-201542269349302449,060646554,A,0,1,1,0,0,0,0,0,1
-201532299349301318,340909974,A,0,0,0,0,0,0,0,0,0
+201512269349301336,541744996,A,0,1,0,1,1,1,BANK OF AMERCIA,NA,30.000000000000,0,0,0,0,1
+201512269349301336,541744996,B,0,1,0,1,1,1,BANK OF AMERCIA,NA,30.000000000000,0,0,0,0,1
 201530949349300308,560529940,A,false,false,false,true,false,false,0,false,0,false,false
 201531079349300218,160743989,A,0,0,1,0,1,1,Keybank,10,1,0,0,0,1
 201531079349300218,160743989,B,0,0,1,0,1,1,First Niagara Bank,10,1,0,0,0,1
@@ -1275,8 +1194,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201530499349300013,350868074,IRS990ScheduleK.1,B,true,true,53 BANK,20.0000,false,false,false,false,true
 201530499349300013,350868074,IRS990ScheduleK.1,C,true,true,53 BANK,20.0000,false,false,false,false,true
 201530499349300013,350868074,IRS990ScheduleK.1,D,true,true,53 BANK,20.0000,false,false,false,false,true
-201522249349301082,362167060,A,false,false,false,true,false,false,0,false,0,false,true
-201522249349301082,362167060,B,false,false,true,true,true,false,0,false,0,false,true
 201530909349300763,570474291,A,0,0,1,0,1,1,Bank of America,15.000000000000,0,0,0,0,1
 201531049349300543,741554976,A,0,0,1,0,1,0,0,0,0
 201531049349300608,610482955,RetDoc1053100001,A,0,0,0,1,0,0,0,0,0
@@ -1293,9 +1210,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201531059349300913,362722198,A,0,1,0,0,0,0,0,1
 201531059349300913,362722198,B,0,1,0,0,1,1,RBS CITIZENS NA,6.800000000000,0,0,0,1
 201531059349301013,741400699,A,0,0,0,1,1,0,0,0
-201501339349304690,370661183,A,false,false,true,false,false,false,false,true
-201501339349304690,370661183,B,false,false,true,false,false,false,false,true
-201501339349304690,370661183,C,false,true,false,false,false,false,false,true
 201500639349300335,420680335,A,0,0,0,1,1,0,0,0,0
 201501969349301380,580566256,IRS990ScheduleK,A,false,false,false,true,false,false,0,false,0,true,true
 201501969349301380,580566256,IRS990ScheduleK,B,false,false,false,true,true,true,UBS & Citigroup,31.,false,false,false,0,true,true
@@ -1331,9 +1245,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201501349349307410,030482006,RetDoc1053100001,B,1,0,0,0,0,0
 201501349349307410,030482006,RetDoc1053100001,C,1,0,0,0,0,0
 201501349349307410,030482006,RetDoc1053100001,D,1,0,0,0,0,0
-201510979349300431,580633971,A,false,true,true,false,false,0,false,0,false,true
-201510979349300431,580633971,B,false,true,true,false,false,0,false,0,false,true
-201510979349300431,580633971,C,false,true,true,true,false,0,false,0,false,true
 201511339349305541,440562048,A,false,false,false,false,false,false,false,false,false
 201511879349301001,111630906,A,false,false,false,true,false,0,false,0,false,true
 201511879349301001,111630906,B,false,false,false,true,false,0,false,0,false,true
@@ -1345,6 +1256,7 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511009349300646,520591661,A,false,false,true,true,false,false,0,false,false,false,0,false,true
 201511009349300646,520591661,B,false,false,true,true,false,false,0,false,false,false,0,false,true
 201511009349300646,520591661,C,false,true,false,false,true,0,false,false,false,0,false,true
+201511349349307706,951816009,A,0,0,0,1,0,0,0,0,1
 201510579349300106,660177776,A,0,1,0,0,0,0,0,0,0
 201510579349300106,660177776,B,0,1,0,0,0,0,0,0,0
 201511269349301631,060731360,A,false,false,true,true,false,false,0,false,0,false,true
@@ -1402,16 +1314,14 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201521249349300957,470376583,R000011,D,0,1,1,0,1,0,0,0,1
 201521359349304622,362387148,A,0,0,1,0,1,1,Charter One Bank,30.000000000000,1,0,0,0,1
 201520929349300437,930386839,A,0,1,0,0,1,1,US Bank,exp 10/1/2035,30,0,0,0,0,1
-201521359349307477,330696561,A,0,0,0,0,0,0,0,0,0
-201521359349307477,330696561,B,0,0,0,0,0,0,0,0,0
-201521359349307477,330696561,C,0,0,0,0,0,0,0,0,0
-201512739349300701,742358522,A,0,0,0,1,0,0,1,FSA CAPITAL,MANAGEMENT SERVICES,2.000000000000,1,0,1
-201512739349300701,742358522,B,0,0,0,0,0,0,0,0,1
-201512739349300701,742358522,C,0,0,0,0,1,1,BANCO BILBAO,VIZCAYA ARGENTARIA,14.000000000000,0,0,0,0,1
 201521259349301812,350868107,IRS990ScheduleK1,A,false,false,true,false,false,false,false,false,true
 201521259349301812,350868107,IRS990ScheduleK1,B,false,false,false,true,false,false,0.0,false,0.0,false,true
 201521259349301812,350868107,IRS990ScheduleK1,C,false,false,false,true,true,true,PNC BANK,30.0,true,false,false,false,true
 201521259349301812,350868107,IRS990ScheduleK1,D,false,false,false,true,false,false,false,false,true
+201521139349300402,221487354,IRS990ScheduleK,A,false,false,false,true,false,false,0,false,0,false,true
+201521139349300402,221487354,IRS990ScheduleK,B,false,false,false,true,false,false,0,false,0,false,true
+201521139349300402,221487354,IRS990ScheduleK,C,false,false,false,true,false,false,0,false,0,false,true
+201521139349300402,221487354,IRS990ScheduleK,D,false,false,false,true,false,false,0,0,false,true
 201521329349301617,930386892,A,false,false,false,true,false,false,0,true,RBC,3.5,true,false,true
 201521329349301617,930386892,B,false,true,false,false,false,false,0,false,0,false,true
 201521329349301617,930386892,C,false,true,false,false,false,false,0,false,0,false,true
@@ -1457,14 +1367,9 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201520899349300707,231501197,00000009,B,false,false,false,false,true,true,TD BANK,0.10000000,false,true,false,false,false,true
 201520899349300707,231501197,00000009,C,false,false,false,false,false,false,false,false,false,true
 201520899349300707,231501197,00000009,D,true,true,true,true,false,false,false,false,false,true
-201521339349305462,520591658,RetDoc1053100001,A,0,0,1,1,0,0,0,0,1
-201521339349305462,520591658,RetDoc1053100001,B,0,0,0,1,0,1,MERRILL LYNCH,30.000000000000,0,0,1,GE FUNDING,4.250000000000,1,0,1
-201521339349305462,520591658,RetDoc1053100001,C,0,1,1,0,1,0,0,0,1
-201521339349305462,520591658,RetDoc1053100001,D,0,1,1,0,0,0,0,0,1
 201521359349304057,570314395,A,false,true,false,false,0,true,HYPE PUBLIC FINANCE,2.2,true,false,true
 201521359349304057,570314395,B,true,true,true,WELLS FARGO,20.,false,false,true,TRINITY PLUS FUNDING,1.8,true,false,true
 201521359349304057,570314395,C,false,true,false,false,0,false,0,false,true
-201532249349302668,953432210,A,false,true,true,true,UNION BKWELLS FARGO,30.,false,false,false,0,false,true
 201540489349301704,314379584,A,false,true,false,false,true,false,false,false,true
 201540489349301704,314379584,B,true,true,false,0.0,false,0.0,false,true
 201540489349301704,314379584,C,true,true,false,0.0,false,0.0,false,true
@@ -1473,6 +1378,7 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201531339349301738,520591613,C,0,1,0,0,1,0,0,0,1
 201540139349300129,630288841,A,0,0,0,0,0,0,0,0,0
 201540139349300704,344427516,A,false,true,true,false,0,false,0,false,true
+201540449349301359,510537391,A,0,0,0,0,0,0,0,0,0
 201531339349303083,540505940,A,0,0,0,0,0,0,0,0,0
 201531339349303083,540505940,B,0,0,0,0,0,0,0,0,0
 201531339349303083,540505940,C,0,0,0,0,1,1,SUNTRUST BANK,10.000000000000,0,0,0,0,0
@@ -1529,8 +1435,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201541319349301944,050258956,A,false,false,true,false,true,true,BARCLAYS,26.5,false,false,false,0,false,true
 201541319349301944,050258956,B,false,true,false,false,false,false,0,false,0,false,true
 201541319349301944,050258956,C,false,true,false,false,false,false,0,false,0,false,true
-201542259349300309,010238552,A,true,true,true,SEE PART VI,false,false,true,TRANSAMERICA LI,28.100000000000,true,true,false
-201542259349300309,010238552,B,false,true,false,false,false,false,false,false,false
 201541339349304279,160743140,IRS990ScheduleK1,A,false,false,false,true,false,false,0.0,false,0.0,false,true
 201541339349304279,160743140,IRS990ScheduleK1,B,false,false,false,true,false,false,false,false,true
 201541339349304279,160743140,IRS990ScheduleK1,C,false,false,false,true,false,false,0.0,false,0.0,false,true
@@ -1599,7 +1503,8 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201521969349301762,366112087,IRS990ScheduleK1,D,false,true,false,false,false,false,false
 201530689349300723,410708577,A,0,1,0,0,0,0,0,0,0
 201530379349300933,580568687,A,1,0,1,REGIONS BANK,10.000000000000,0,0,0,0,0
-201521499349300952,550357045,A,0,0,0,0,1,0,0,0,1
+201530409349301118,911838771,A,0,0,1,1,0,0,0,0,0
+201530409349301118,911838771,B,0,0,0,1,0,0,0,0,0
 201521949349300022,111788788,A,true,false,false,0,false,0,false,false
 201521949349300022,111788788,B,false,true,false,false,0,false,0,false,false
 201521949349300022,111788788,C,false,true,false,false,0,false,0,false,false
@@ -1636,9 +1541,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511669349300136,310707369,B,0,1,0,0,0,0,0,0,1
 201511329349302186,350868125,IRS990ScheduleK,A,false,false,true,false,false,false,0,false,0,false,true
 201511329349302186,350868125,IRS990ScheduleK,B,false,false,false,true,false,false,0,false,0,false,true
-201512169349301371,362340313,A,false,true,false,false,true,false,0,false,0,false,true
-201512169349301371,362340313,B,false,false,false,true,false,false,0,false,0,false,true
-201512169349301371,362340313,C,false,false,true,false,true,false,0,false,0,false,true
 201521009349300812,430662529,A,false,true,false,false,false,false,0,false,0,false,true
 201521319349301002,610469267,A,false,false,false,true,false,false,true,MORGAN STANLEY,28.000000000000,true,false,true
 201521319349301002,610469267,B,false,false,true,false,true,false,false,false,true
@@ -1716,7 +1618,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201511339349303886,060776644,B,0,1,0,0,0,0,0,0,1
 201511339349303886,060776644,C,0,1,0,0,0,0,0,0,1
 201511899349300966,110461385,A,0,0,1,0,0,0,0,0,1
-201501349349303250,132584273,A,0,0,0,1,1,0,0,0,0
 201531349349302488,060646701,R000007,A,0,0,1,0,0,1,JP Morgan,27.2,0,0,0,0,1
 201531349349302488,060646701,R000007,B,0,0,1,0,0,0,1,Trinity Funding Company LLC,4.2,1,0,1
 201531349349302488,060646701,R000007,C,0,0,0,0,0,0,1,Trinity Funding Company LLC,1.5,1,0,1
@@ -1740,7 +1641,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201541059349300139,250965430,B,0,0,0,1,0,0,1,Branch Banking & Trust,0.6,1,0,1
 201541059349300139,250965430,C,0,0,1,0,1,0,0,0,1
 201521039349300717,470405319,A,0,0,0,0,0,0,0,0,0
-201522249349301227,060646597,A,false,false,false,true,false,false,false,true
 201521349349302642,520591691,A,false,true,true,true,RBCPNC,24.,false,false,false,0,false,true
 201500359349301225,591113963,A,0,0,0,0,0,0,0,0,1
 201500359349301225,591113963,B,0,0,0,0,1,0,0,0,1
@@ -1752,8 +1652,6 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201531339349301218,231365971,A,false,false,true,false,false,false,false,false,true
 201531339349301218,231365971,B,false,true,false,false,false,false,0.0,false,0.0,false,true
 201531339349301218,231365971,C,false,false,false,true,false,false,0.0,false,0.0,false,true
-201531359349301848,310538525,A,false,true,true,true,FIFTH THIRD BANK,9.9,false,false,false,0,false,true
-201531359349301848,310538525,B,false,true,false,false,0,false,0,false,true
 201531359349302008,237179639,A,1,1,1,US BANK NA,5.000000000000,0,0,0,0,0
 201531359349302598,530204707,A,0,0,0,0,0,0,0,0,1
 201531359349302598,530204707,B,0,0,0,0,0,0,0,0,1
@@ -1804,15 +1702,14 @@ object_id,ein,TxExmptBndsArbtrg_BndRfrncCd,TxExmptBndsArbtrg_Frm8038TFldInd,TxEx
 201541349349307259,041679980,IRS990ScheduleK,B,false,false,true,true,true,false,0,false,false,false,0,false,true
 201541349349307259,041679980,IRS990ScheduleK,C,false,false,true,true,false,false,0,false,false,false,0,false,true
 201541349349307259,041679980,IRS990ScheduleK,D,false,true,true,true,false,false,0,false,false,false,0,false,true
-201541359349302569,710329353,A,false,true,false,false,false,false,0,false,0,false,true
 201541359349302724,042103542,R000011,A,0,0,0,1,1,0,0,0,1
 201541359349302724,042103542,R000011,B,0,0,0,1,1,1,BofA Merrill Lynch,21,1,0,0,0,1
 201541359349302724,042103542,R000011,C,0,0,0,1,1,0,0,1,1
 201541359349302724,042103542,R000011,D,0,0,0,1,1,1,BofA Merrill Lynch,17,1,0,0,0,1
 201541149349300219,880435559,A,0,0,1,0,0,0,0,0,0
 201541149349300219,880435559,B,0,1,0,0,0,0,0,0,0
+201540159349300134,237133739,A,0,0,0,1,1,0,0,0,1
+201540159349300134,237133739,B,0,1,0,0,1,0,0,0,1
+201540159349300134,237133739,C,0,1,0,0,1,0,0,0,1
 201540159349300224,237223216,A,false,true,false,false,0,false,0,false,false
 201540159349300809,042104300,A,0,1,0,0,0,0,0,0,0
-201542269349303559,060646710,A,1,0,0,0,0,1
-201542269349303559,060646710,B,0,0,1,0,1,1,TD BANK,5.000000000000,1,1,0,0,1
-201542269349303559,060646710,C,0,1,0,0,1,0,0,0,1

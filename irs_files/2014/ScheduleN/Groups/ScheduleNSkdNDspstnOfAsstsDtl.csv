@@ -1,2 +1,4 @@
-object_id,ein,DspstnOfAsstsDtl_AsstsDstrOrExpnssPdDsc,DspstnOfAsstsDtl_DstrbtnDt,DspstnOfAsstsDtl_FrMrktVlOfAsstAmt,DspstnOfAsstsDtl_MthdOfFMVDtrmntnTxt,BsnssNm_BsnssNmLn1Txt
-201402189349301200,112983636,ALL ASSETS - FURNITURE & FIXTURES,2013-12-23,1,appraisal,NONE - DISCARDED AS RUBBISH
+object_id,ein,DspstnOfAsstsDtl_AsstsDstrOrExpnssPdDsc,DspstnOfAsstsDtl_DstrbtnDt,DspstnOfAsstsDtl_FrMrktVlOfAsstAmt,DspstnOfAsstsDtl_MthdOfFMVDtrmntnTxt,DspstnOfAsstsDtl_EIN,BsnssNm_BsnssNmLn1Txt,USAddrss_AddrssLn1Txt,USAddrss_CtyNm,USAddrss_SttAbbrvtnCd,USAddrss_ZIPCd,DspstnOfAsstsDtl_IRCSctnTxt
+201401889349200005,640639266,BUILDING,2013-12-31,71035,APPRAISAL
+201441359349307169,860265045,Land and buildings,2013-12-31,275000,Sales Price,Dana Dawson,2909 Exeter Street,Tucson,AZ,85716,Individual
+201403219349200435,363447685,"Cash, investments",2014-06-30,430097,FMV based on trade date,470489031,Nebraska Christian College,12550 S 114th Street,Papillion,NE,68046,501(c)(3)

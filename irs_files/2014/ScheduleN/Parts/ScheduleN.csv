@@ -1,7 +1,9 @@
 object_id,ein,DrctrOfSccssrInd,EmplyOfSccssrInd,OwnrOfSccssrInd,RcvCmpnstnInd,AsstsDstrbtdInd,RqrdTNtfyAGInd,AttrnyGnrlNtfdInd,LbltsPdInd,BndsOtstndngInd,BndLbltsDschrgdInd,DrctrOfSccssr2Ind,EmplyOfSccssr2Ind,OwnrOfSccssr2Ind,RcvCmpnstn2Ind
 201433149349302058,020267883,false,false,false,false,true,true,-,true,false,false,-,-,-,-
+201402549349300300,522242995,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+201401889349200005,640639266,false,false,false,false,true,true,true,true,false,false,false,false,false,false
+201441359349307169,860265045,-,-,-,-,-,-,-,-,-,-,false,false,false,false
 201421679349300807,020332032,0,1,0,0,1,1,1,0,1,1,-,-,-,-
-201403219349303600,430653308,0,0,0,0,1,1,1,1,0,-,-,-,-,-
+201403219349200435,363447685,-,-,-,-,-,-,-,-,-,-,0,0,0,0
 201403149349300005,382812695,true,true,false,false,true,false,false,true,false,false,-,-,-,-
-201413179349305401,340505560,false,true,false,false,true,true,true,true,false,-,-,-,-,-
-201402189349301200,112983636,-,-,-,-,-,-,-,-,-,-,false,false,false,false
+201421149349300337,582326346,false,false,false,false,true,false,false,true,false,false,-,-,-,-

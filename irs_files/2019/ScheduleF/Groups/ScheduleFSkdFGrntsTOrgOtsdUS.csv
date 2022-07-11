@@ -1,10 +1,35 @@
 object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201931019349300218,910236600,SUB-SAHARAN AFRICA,SUPPORT BUILDING PROJECTS,9650,WIRE TRANSFER
+201900609349300805,980042539,"North America (including Canada and Mexico, but not the United States)","Since we are a Canadian Organization, all of our grants are paid in Canada, which is outside the United States. Our grants are to support Students Organizations, Federated Colleges, and other Universities performing research (sub-grants)",1535765,"Cheque, EFT, Wire Transfer"
 201910189349300636,931071753,OPERATIONS,CHECKS
 201910889349300616,042111203,Central America and the Caribbean,Research,12600,wire transfer,0
 201910889349300616,042111203,East Asia and the Pacific,Research,24288,wire transfer,0
 201910889349300616,042111203,Europe (including Iceland and Greenland),Research,13000,wire transfer,0
 201910889349300616,042111203,South America,Research,14300,wire transfer,0
+201920589349300117,990240539,YWAM MINISTRY,46280,WIRE
+201920589349300117,990240539,YWAM MINISTRY,22419,WIRE
+201920589349300117,990240539,YWAM MINISTRY,53350,WIRE
+201920589349300117,990240539,YWAM MINISTRY,70000,WIRE
+201920589349300117,990240539,YWAM MINISTRY,63000,WIRE
+201920589349300117,990240539,YWAM MINISTRY,22200,WIRE
+201920589349300117,990240539,YWAM MINISTRY,5550,WIRE
+201920589349300117,990240539,YWAM MINISTRY,5450,WIRE
+201920589349300117,990240539,YWAM MINISTRY,24000,WIRE
+201920589349300117,990240539,YWAM MINISTRY,8058,WIRE
+201900459349301750,981358092,North America,student life,26565,Check
+201900459349301750,981358092,North America,Sponsorship,20643,EFT
+201900459349301750,981358092,North America,Sponsorship,7767,Check
+201900459349301750,981358092,North America,Sponsorship,11685,Check
+201900459349301750,981358092,North America,Sponsorship,8012,Check
+201900459349301750,981358092,North America,Sponsorship,11685,EFT
+201900459349301750,981358092,North America,Sponsorship,5842,Check
+201900459349301750,981358092,North America,Sponsorship,5842,Check
+201900459349301750,981358092,North America,Student Assoc/Soc,6505,Check
+201900459349301750,981358092,North America,Student Assoc/Soc,13555,Check
+201900459349301750,981358092,North America,Student Associ/Society,10479,Check
+201900459349301750,981358092,North America,Student Assoc/Society,6232,Check
+201900459349301750,981358092,North America,Student Associ/Society,8179,Check
+201900459349301750,981358092,North America,Student Assoc/Society,6115,Check
 201930869349300018,581216007,Europe (Including Iceland and Greenland),Donation,20000,WIRE,SUPPORT,ACCRUAL
 201930869349300018,581216007,North America,Sponsorship,6852,WIRE,SUPPORT,ACCRUAL
 201920639349300507,480777079,Central America and the Caribbean,Mission Trip,46900,EFT
@@ -20,6 +45,7 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201910729349300631,530196549,East Asia and the Pacific,Research,82281
 201910729349300631,530196549,East Asia and the Pacific,Training,114888
 201910919349300611,340714818,EUROPE (INCLUDING ICELAND & GREENLAND),GENERAL SUPPORT,1042446
+201910579349300546,237213309,North America,15909261
 201931059349300828,042103545,Sub-Saharan Africa,GENERAL SUPPORT,17300,WIRE TRANSFR
 201931059349300828,042103545,Sub-Saharan Africa,GENERAL SUPPORT,50000,WIRE TRANSFR
 201931059349300828,042103545,Sub-Saharan Africa,GENERAL SUPPORT,25000,WIRE TRANSFR
@@ -28,10 +54,19 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201931059349300828,042103545,East Asia and the Pacific,GENERAL SUPPORT,20000,WIRE TRANSFR
 201940949349300609,741159753,South Asia,Construction of Simulation Education & Research Center for nurse training.,120200,Wire Transfer
 201940949349300609,741159753,Europe (Including Iceland and Greenland),"Students participated in a University philanthropy lab course which teaches students about philanthropy, nonprofits and third sector. Students were required to research and direct contributions to entities serving a charitable purpose.",16000,Check
-201932269349301898,010238552,Sub-Saharan Africa,Research,77235,Wire Transfer
-201932269349301898,010238552,"Sub-Saharan Africa - Angola, Benin, Botswana, Burkina Faso,",Research,6090,Wire Transfer
-201932269349301898,010238552,Sub-Saharan Africa,Research,7087,Wire Transfer
-201823169349302942,208091013,EUROPE,TO FURTHER THE UNDERSTANDING OF LAW AND ECONOMICS,40000,CHECK
+201900379349300975,237099472,Europe (Including Iceland and Greenland),Program-related services for Queen's students studying abroad,2261307,Wire Transfe
+201803139349303445,980150041,NORTH AMERICA,SUPPORT,CHECKS,N/A,N/A
+201932269349301523,203467419,CONSTRUCTION COSTS,205659,WIRE TRANSFER
+201932269349301523,203467419,COMMUNITY CENTERS,84495,WIRE TRANSFER
+201932269349301523,203467419,TUITION\SCHOLARSHIPS,124600,WIRE TRANSFER
+201932269349301523,203467419,FACULTY DEVELOPMENT,83733,WIRE TRANSFER
+201932269349301523,203467419,INT'L STAFF SUPPORT,71598,WIRE TRANSFER
+201932269349301523,203467419,GEN OPERATIONS\EQUIP,592432,WIRE TRANSFER
+201942969349301864,274495703,EAST ASIA AND THE PACIFIC AUSTRALIIA,EDUCATION,4476507,WIRE
+201823169349304802,461001797,BANGLADESH - AM,SPONSORSHIP,3950,TRANSFER
+201823169349304802,461001797,BANGLADESH - TO,SPONSORSHIP,168325,TRANSFER
+201823169349304802,461001797,CHINA,SPONSORSHIP,975,TRANSFER
+201823169349304802,461001797,KENYA,SPONSORSHIP,2975,TRANSFER
 201911359349311616,042103547,Central America and the Caribbean,RESEARCH,255531,WIRE
 201911359349311616,042103547,East Asia and the Pacific,RESEARCH,170351,WIRE
 201911359349311616,042103547,East Asia and the Pacific,RESEARCH,127000,WIRE
@@ -63,10 +98,19 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201911359349311616,042103547,Sub-Saharan Africa,RESEARCH,7693,WIRE
 201911359349311616,042103547,Sub-Saharan Africa,RESEARCH,11874,WIRE
 201911359349311616,042103547,Sub-Saharan Africa,RESEARCH,455437,WIRE
+201912889349301406,912163512,AUSTRIA,THEOLOGY SCHOOL AID,155000,EFT
 201931209349301243,160743140,Europe (Including Iceland and Greenland),"RESEARCH RELATED TO ENVIRONMENTAL, SOCIAL, AND CULTURAL CHANGE IN CONTEMPORARY GREENLAND",42655,Wire
 201901269349300335,240795445,East Asia and the Pacific,RESEARCH,66884,CHECK,N/A,N/A
 201901269349300335,240795445,Europe (Including Iceland and Greenland),RESEARCH,27280,CHECK,N/A,N/A
 201901269349300335,240795445,Sub-Saharan Africa,RESEARCH,8750,CHECK,N/A,N/A
+201900189349301135,237069575,"North America (including Canada and Mexico, but not the United States)",Research,4829425,cheque,0
+201901149349300335,941156617,CENTRAL AMERICA AND THE CARRIBEAN,DONATIONS TO SUPPORT PROGRAMS THAT BENEFIT STUDENTS AND COMMUNITIES IN EL SALVADOR,83220,CASH PAYMENTS TO RECIPIENT ORGANIZATIONS,BOOK
+201940119349301209,522242995,East Asia,Provide direct or indirect scholarship for educating Asian elite students.,73200,Wire
+201940119349301209,522242995,Europe,Provide direct or indirect scholarship for educating Europian elite students.,11900,Wire
+201843169349304854,237065664,East Asia and Pacific,MINISTRIES PROJECTS,288000,CHK/WIRED,N/A,FMV
+201843169349304854,237065664,East Asia and Pacific,ACADEMIC ASSISTANCE,60000,CHK/WIRED,N/A,FMV
+201843169349304854,237065664,East Asia and Pacific,BIBLE CLASSES,110000,CHK/WIRED,N/A,FMV
+201803199349301410,208625115,HAITI,"TUITION, ROOM AND BOARD FOR UNIVERSITY STUDENTS",58900,CHECK/WIRE TRANSFERS,FAIR MARKET VALUE
 201931349349308368,231352630,EUROPE,RESEARCH,36362,WIRE,0
 201931349349308368,231352630,SOUTH AMERICA,RESEARCH,566575,WIRE,0
 201931349349308368,231352630,EAST ASIA AND THE PACIFIC,RESEARCH,147793,WIRE,0
@@ -177,6 +221,12 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201901359349304795,060646973,Sub-Saharan Africa,SUBAWARD - SPONSORED RESEARCH,96814,WIRE TRANSFER
 201901359349304795,060646973,Sub-Saharan Africa,SUBAWARD - SPONSORED RESEARCH,163807,WIRE TRANSFER
 201901359349304795,060646973,Sub-Saharan Africa,SUBAWARD - SPONSORED RESEARCH,21269,WIRE TRANSFER
+201940639349300909,986001141,"North America (including Canada and Mexico, but not the United States)",Research,64564000,Wire Cheque Draft,0
+201940639349300909,986001141,Europe (including Iceland and Greenland),Research,747000,Wire Cheque Draft,0
+201940639349300909,986001141,Sub-Saharan Africa,Research,130000,Wire Cheque Draft,0
+201940639349300909,986001141,South America,Research,97000,Wire Cheqeu Draft,0
+201940639349300909,986001141,East Asia and the Pacific,Research,84000,Wire Cheque Draft,0
+201940639349300909,986001141,Middle East and North Africa,Research,55000,Wire Cheque Draft,0
 201900639349300210,590624458,Central America & the Caribbean,Research,5744,Wire Transfer,N/A,N/A
 201900639349300210,590624458,Central America & the Caribbean,Research,236103,Check,N/A,N/A
 201900639349300210,590624458,Central America & the Caribbean,Research,451605,Wire Transfer,N/A,N/A
@@ -302,6 +352,127 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201901339349305860,150532082,Europe (Including Iceland and Greenland),Medical Research & Services,27157,EFT,FMV
 201901339349305860,150532082,Europe (Including Iceland and Greenland),Medical Research & Services,215456,EFT,FMV
 201901339349305860,150532082,Middle East and North Africa,Medical Research & Services,142853607,EFT,FMV
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,1252650,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,970063,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,941021,Check/Wire,N/A,N/A
+201931359349305528,135598093,South Asia,Edu/Research,700847,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,544403,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,400411,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,305322,Check/Wire,N/A,N/A
+201931359349305528,135598093,North America,Edu/Research,413997,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,269501,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,259067,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,206577,Check/Wire,N/A,N/A
+201931359349305528,135598093,South America,Edu/Research,203977,Check/Wire,N/A,N/A
+201931359349305528,135598093,East Asia and the Pacific,Edu/Research,185218,Check/Wire,N/A,N/A
+201931359349305528,135598093,North America,Edu/Research,175337,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,173000,Check/Wire,N/A,N/A
+201931359349305528,135598093,South Asia,Edu/Research,157680,Check/Wire,N/A,N/A
+201931359349305528,135598093,East Asia and the Pacific,Edu/Research,150253,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,138012,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,123000,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,108000,Check/Wire,N/A,N/A
+201931359349305528,135598093,Middle East and North Africa,Edu/Research,104986,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,102414,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,96390,Check/Wire,N/A,N/A
+201931359349305528,135598093,Russia and the Newly Independent States,Edu/Research,94434,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,82702,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,79151,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,74390,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,72871,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,70470,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,62615,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,62527,Check/Wire,N/A,N/A
+201931359349305528,135598093,South Asia,Edu/Research,59000,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,53385,Check/Wire,N/A,N/A
+201931359349305528,135598093,North America,Edu/Research,69919,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,44619,Check/Wire,N/A,N/A
+201931359349305528,135598093,East Asia and the Pacific,Edu/Research,43835,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,40934,Check/Wire,N/A,N/A
+201931359349305528,135598093,South Asia,Edu/Research,38000,Check/Wire,N/A,N/A
+201931359349305528,135598093,North America,Edu/Research,37905,Check/Wire,N/A,N/A
+201931359349305528,135598093,North America,Edu/Research,34317,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,33796,Check/Wire,N/A,N/A
+201931359349305528,135598093,North America,Edu/Research,32400,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,32099,Check/Wire,N/A,N/A
+201931359349305528,135598093,East Asia and the Pacific,Edu/Research,32047,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,31433,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,27000,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,25532,Check/Wire,N/A,N/A
+201931359349305528,135598093,South America,Edu/Research,25341,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,25170,Check/Wire,N/A,N/A
+201931359349305528,135598093,South America,Edu/Research,25000,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,24300,Check/Wire,N/A,N/A
+201931359349305528,135598093,East Asia and the Pacific,Edu/Research,23730,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,23204,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,21855,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,20357,Check/Wire,N/A,N/A
+201931359349305528,135598093,South America,Edu/Research,20000,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,19548,Check/Wire,N/A,N/A
+201931359349305528,135598093,East Asia and the Pacific,Edu/Research,18000,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,17677,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,17489,Check/Wire,N/A,N/A
+201931359349305528,135598093,North America,Edu/Research,15981,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,15000,Check/Wire,N/A,N/A
+201931359349305528,135598093,South Asia,Edu/Research,14018,Check/Wire,N/A,N/A
+201931359349305528,135598093,North America,Edu/Research,13345,Check/Wire,N/A,N/A
+201931359349305528,135598093,South Asia,Edu/Research,12907,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,11690,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,11500,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,9692,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,9352,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,6028,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,5500,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,1193866,Check/Wire,N/A,N/A
+201931359349305528,135598093,North America,Edu/Research,485499,Check/Wire,N/A,N/A
+201931359349305528,135598093,North America,Edu/Research,79431,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,1724331,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,3001701,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,952948,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,5634891,Check/Wire,N/A,N/A
+201931359349305528,135598093,Europe,Edu/Research,32929,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,1175343,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,28666,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,418843,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,7770746,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,13014166,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,163497,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,60675,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,994393,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,1334354,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,356899,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,618447,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,6000,Check/Wire,N/A,N/A
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,493443,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,353350,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,262671,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,182580,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,117808,Equipment,Book Value
+201931359349305528,135598093,Russia and the Newly Independent States,Edu/Research,117225,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,89159,Equipment,Book Value
+201931359349305528,135598093,Russia and the Newly Independent States,Edu/Research,87166,Equipment,Book Value
+201931359349305528,135598093,Russia and the Newly Independent States,Edu/Research,59137,Equipment,Book Value
+201931359349305528,135598093,Russia and the Newly Independent States,Edu/Research,46247,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,32529,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,29665,Vehicle,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,29665,Vehicle,Book Value
+201931359349305528,135598093,Russia and the Newly Independent States,Edu/Research,28697,Equipment,Book Value
+201931359349305528,135598093,Russia and the Newly Independent States,Edu/Research,28697,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,26299,Vehicle,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,26100,Vehicle,Book Value
+201931359349305528,135598093,Russia and the Newly Independent States,Edu/Research,24560,Equipment,Book Value
+201931359349305528,135598093,Russia and the Newly Independent States,Edu/Research,24560,Equipment,Book Value
+201931359349305528,135598093,Russia and the Newly Independent States,Edu/Research,24267,Equipment,Book Value
+201931359349305528,135598093,Russia and the Newly Independent States,Edu/Research,24267,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,17516,Vehicle,Book Value
+201931359349305528,135598093,Russia and the Newly Independent States,Edu/Research,24267,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,12644,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,11734,Vehicle,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,11649,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,11649,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,7998,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,5040,Equipment,Book Value
+201931359349305528,135598093,Sub-Saharan Africa,Edu/Research,5040,Equipment,Book Value
 201901339349304650,560532138,East Asia & Pac,Research Subcon,43606,Check/wire
 201901339349304650,560532138,Europe & N Atl,Research Subcon,179267,Check/wire
 201901339349304650,560532138,North America,Research Subcon,18771,Check/wire
@@ -363,60 +534,15 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201941299349301229,131740451,East Asia and the Pacific,PUBLIC SERVICE,27058,WIRE
 201941299349301229,131740451,East Asia and the Pacific,PUBLIC SERVICE,60261,WIRE
 201921239349300847,362169145,Europe (Including Iceland and Greenland),Study Abroad,11576,WIRE TRANS
+201941309349301074,166054295,EAST ASIA & THE PACIFIC,STUDENT RECRUITING,8798,WIRE,FMV
 201901339349306670,381366958,"CENTRAL AMERICA AND THE CARIBBEAN - ANTIGUA & BARBUDA, ARUBA, BAHAMAS,",TUITION PAYMENT FOR STUDY ABOARD PROGRAMS,49695,WIRE TRANSFER,CASH
 201901349349309485,390806261,Central America and the Caribbean,RESEARCH SUBAWARD,32680,WIRE
 201901349349309485,390806261,Europe (Including Iceland and Greenland),RESEARCH SUBAWARD,156050,WIRE
 201901349349309485,390806261,Europe (Including Iceland and Greenland),RESEARCH SUBAWARD,43191,CHECK
 201901349349309485,390806261,North America,RESEARCH SUBAWARD,86897,CHECK
 201901349349309485,390806261,Russia and the Newly Independent States,RESEARCH SUBAWARD,126264,WIRE
-201901359349310750,030179592,Middle East and North Africa,Special Programs to aid the needs of survivors,358572,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Participant Exchanges,1378401,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Russia and the newly independent States,Participant Exchanges,347727,wire transfers,0,n/a,n/a
-201901359349310750,030179592,South America,Youth Ambassadors Program,6034,wire transfers,0,n/a,n/a
-201901359349310750,030179592,South America,Youth Ambassadors Program,6038,wire transfers,0,n/a,n/a
-201901359349310750,030179592,South Asia,Participant Exchanges,103159,wire transfers,0,n/a,n/a
-201901359349310750,030179592,East Asia and the Pacific,Education,139140,wire transfers,0,n/a,n/a
-201901359349310750,030179592,South Asia,Participant Exchanges,397924,wire transfers,0,n/a,n/a
-201901359349310750,030179592,South Asia,Participant Exchanges,639388,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Participant Exchanges,26987,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Participant Exchanges,41923,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Participant Exchanges,23647,wire transfers,0,n/a,n/a
-201901359349310750,030179592,South Asia,Girls Education,49053,wire transfers,0,n/a,n/a
-201901359349310750,030179592,South Asia,Girls Education,49053,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Europe (including Iceland and Greenland),Building Community partnership,11460,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Europe (including Iceland and Greenland),Building Community partnership,8868,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Europe (including Iceland and Greenland),Building Community partnership,35531,wire transfers,0,n/a,n/a
-201901359349310750,030179592,South Asia,Building Community partnership,26644,wire transfers,0,n/a,n/a
-201901359349310750,030179592,South Asia,Building Community partnership,26067,wire transfers,0,n/a,n/a
-201901359349310750,030179592,"North America (including Canada and Mexico, but not the United States)",Civil Society Strengthening,35008,wire transfers,0,n/a,n/a
-201901359349310750,030179592,South America,Youth Ambassadors Program,28000,wire transfers,0,n/a,n/a
-201901359349310750,030179592,South America,Youth Ambassadors Program,42020,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,5961,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,21514,wire transfers,0,n/a,n/a
-201901359349310750,030179592,South Asia,Participant Exchanges,47692,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,23011,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,7019,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,25662,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,28012,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,7019,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,11619,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,10834,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,6067,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,10780,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,6044,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,7019,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,9237,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,9560,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,9717,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,9717,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,9560,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,5906,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,5961,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,5906,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,9772,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,5906,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,40012,wire transfers,0,n/a,n/a
-201901359349310750,030179592,Middle East and North Africa,Education,30367,wire transfers,0,n/a,n/a
+201911439349300721,550665758,EUROPE,RESEARCH,7450,CHECK
+201911439349300721,550665758,NORTH AMERICA,RESEARCH,12180,CHECK
 201911359349301086,630288878,"SUB-SAHARAN AFRICA - ANGOLA, BENIN, BOTSWANA, BURKINA FASO,",TO PROVIDE EDUCATIONAL ASSISTANCE,74640
 201911359349301086,630288878,SUB-SAHARAN AFRICA,TO PROVIDE EDUCATIONAL ASSISTANCE,12619
 201901059349300415,590624458,Central America & the Caribbean,Research,18614,Check,N/A,N/A
@@ -475,10 +601,6 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201941339349305274,620476822,North America (Canada & Mexico only),Research,107536,Wire,Not applicable,Not applicable
 201941339349305274,620476822,South America,Research,18486,Wire,Not applicable,Not applicable
 201941339349305274,620476822,Sub-Saharan Africa,Instruction,49860,Wire,Not applicable,Not applicable
-201920289349300532,480842156,CHINA,PERENNIAL WHEAT,13000,WIRE TRANSFER,N/A,N/A
-201920289349300532,480842156,ARGENTINA,SILPHIUM RESEARCH,26684,WIRE TRANSFER,N/A,N/A
-201920289349300532,480842156,URUGUAY,SILPHIUM SEQUENCING,15000,WIRE TRANSFER
-201920289349300532,480842156,CHINA,PERENNIAL RICE RES,20000,WIRE TRANSFER
 201901299349300540,530196584,Sub-Saharan Africa,subaward,27000,EFT,0
 201901299349300540,530196584,South America,subaward,19000,EFT,0
 201901299349300540,530196584,East Asia and the Pacific,subaward,196000,EFT,0
@@ -552,26 +674,6 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201901299349300440,042103634,Sub-Saharan Africa,SUBCONTRACT RESEARCH GRANT,5333,WIRE
 201901299349300440,042103634,Russia and Neighboring States,SUBCONTRACT RESEARCH GRANT,38220,WIRE
 201901299349300440,042103634,Sub-Saharan Africa,SUBCONTRACT RESEARCH GRANT,35000,WIRE
-201813189349301591,340714585,NORTH AMERICA,RESEARCH,14020,CHECK
-201813189349301591,340714585,EUROPE,RESEARCH,14796,CHECK
-201813189349301591,340714585,EUROPE,RESEARCH,104192,CHECK
-201813189349301591,340714585,EUROPE,RESEARCH,11792,CHECK
-201813189349301591,340714585,EUROPE,RESEARCH,50860,CHECK
-201813189349301591,340714585,EUROPE,RESEARCH,14402,CHECK
-201813189349301591,340714585,EUROPE,RESEARCH,78321,CHECK
-201813189349301591,340714585,EUROPE,RESEARCH,33344,CHECK
-201813189349301591,340714585,CENTRAL AMERICA & THE CARIBBEAN,RESEARCH,28900,CHECK
-201813189349301591,340714585,NORTH AMERICA,RESEARCH,10000,CHECK
-201813189349301591,340714585,EUROPE,RESEARCH,30000,CHECK
-201813189349301591,340714585,NORTH AMERICA,RESEARCH,6670,CHECK
-201813189349301591,340714585,NORTH AMERICA,RESEARCH,8580,CHECK
-201813189349301591,340714585,NORTH AMERICA,RESEARCH,13904,CHECK
-201813189349301591,340714585,EUROPE,RESEARCH,26888,CHECK
-201813189349301591,340714585,EUROPE,RESEARCH,7700,CHECK
-201813189349301591,340714585,SUB-SAHARAN AFRICA,RESEARCH,11100,CHECK
-201813189349301591,340714585,EUROPE,RESEARCH,7500,CHECK
-201813189349301591,340714585,NORTH AMERICA,RESEARCH,357825,CHECK
-201813189349301591,340714585,NORTH AMERICA,RESEARCH,267667,CHECK
 201920719349300952,730739626,East Asia and the Pacific,Ministry Conference,20000,Wire
 201911359349312126,132676570,Europe (Including Iceland and Greenland),EDUCATION,421176,WIRE
 201921269349300402,030179403,South Asia,GENERAL SUPPORT,6019,Wire,N/A,N/A
@@ -705,7 +807,75 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201901359349306355,141713034,EUROPE (INCLUDING ICELAND & GREENLAND),PROGRAM SERVICES,1178716,EFT
 201901359349306355,141713034,MIDDLE EAST AND NORTH AFRICA,PROGRAM SERVICES,932303,EFT
 201901359349306355,141713034,SOUTH ASIA,PROGRAM SERVICES,554337,EFT
-201921349349300702,942955205,EAST ASIA AND THE PACIFIC,JOINT RESEARCH,15000,WIRE
+201911499349301261,362887286,SUB-SAHARAN,LEADER,66150,WIRE
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,984525,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,962209,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,525080,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,67558,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,51458,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,50829,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,46315,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,36756,Wire Transfer
+201901709349300545,986001062,Sub-Saharan Africa,Research and Education,36388,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,33143,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,32818,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,32818,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,31505,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and D19Education,24889,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,20399,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,20184,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,19207,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,17517,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,16540,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,16283,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,14196,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,14067,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,13999,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,13022,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,13022,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,12633,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,12471,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,12371,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,11814,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,11761,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,11720,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,11394,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,11158,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,11069,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,11069,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,11056,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,10743,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,10502,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,10418,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,10418,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,10092,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,10029,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,9766,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,9131,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,8607,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,8139,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,8139,Wire Transfer
+201901709349300545,986001062,Sub-Saharan Africa,Research and Education,7990,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,7876,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,7876,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,7876,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,7813,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,7813,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,7488,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,7220,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,6564,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,6564,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,6564,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,6564,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,6564,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,6511,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,5860,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,5251,Wire Transfer
+201901709349300545,986001062,Europe (including Iceland and Greenland),Research and Education,5209,Wire Transfer
+201941689349301224,830454800,ECUADOR,COMMUNITY OUTREACH,49729,ETF & CASH
+201941689349301224,830454800,ECUADOR,CONSERVATION,21790,ETF & CASH
+201941689349301224,830454800,ECUADOR,EDUCATION,14022,ETF & CASH
+201921359349313967,581438873,Sub-Saharan Africa,Research,39675,WireTransfer,0,N/A,N/A
 201941369349301059,141340095,E Asia & Pacifi,Research Subcontrac,85000
 201941369349301059,141340095,Europe,Research Subcontrac,141065
 201941369349301059,141340095,Europe,Research Subcontrac,193330
@@ -713,6 +883,7 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201921349349305532,362191242,Europe (including Iceland and Greenland),Study Abroad Program,23672,Wire Transfer,FMV
 201941349349309504,131624225,Middle East and North Africa,EDUCATION,3887392,WIRE
 201941349349309504,131624225,North America,EDUCATION,297297,WIRE
+201921349349307827,350868127,Central America and the Caribbean,general support,10000,check
 201911349349305046,231352294,East Asia and the Pacific,SA HOUSING,42042,WIRE,N/A,N/A
 201911349349305046,231352294,East Asia and the Pacific,SUPPLIES,43513,WIRE,N/A,N/A
 201911349349305046,231352294,Europe (Including Iceland and Greenland),SA HOUSING,519976,WIRE,N/A,N/A
@@ -789,6 +960,7 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201921919349301027,580566256,Sub-Saharan Africa,Research/Sub,28856,WIRE
 201921919349301027,580566256,Sub-Saharan Africa,Research/Sub,597641,WIRE
 201921919349301027,580566256,Europe (Including Iceland and Greenland),Donation,22500,WIRE
+201901829349301500,954749034,SUPPORT UNIVERSITY,222761,CASH WIRE TRANS
 201901969349301905,941156365,East Asia and the Pacific,RESEARCH SUB - AWARDS,48493,CHECK/WIRE
 201901969349301905,941156365,East Asia and the Pacific,RESEARCH SUB - AWARDS,40000,CHECK/WIRE
 201901969349301905,941156365,East Asia and the Pacific,RESEARCH SUB - AWARDS,27500,CHECK/WIRE
@@ -881,7 +1053,20 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201911339349304226,350868188,East Asia and the Pacific,see Part V,13430,Check/Wire
 201911339349304226,350868188,Europe (Including Iceland and Greenland),see Part V,57449,Check/Wire
 201911339349304226,350868188,Europe (Including Iceland and Greenland),see Part V,35535,Check/Wire
+201912499349301401,331049177,CENTRAL AMERICA & CARIBBEAN,PROGRAM SERVICES,64904,ACH
+201912499349301401,331049177,EAST ASIA AND THE PACIFIC,PROGRAM SERVICES,33653,ACH
+201912499349301401,331049177,SOUTH AMERICA,PROGRAM SERVICES,15845,ACH
 201901359349308470,590949880,SUB-SAHARAN AFRICA,DONATION TO SUPPORT THE UNIVERSITY,10000
+201931129349300603,850297355,Central America and the Caribbean,GRANTS AND SCHOLARSHIPS,91292,WIRE / EXCHANGE,0
+201931129349300603,850297355,East Asia and the Pacific,GRANTS AND SCHOLARSHIPS,444219,WIRE / EXCHANGE,0
+201931129349300603,850297355,Europe (Including Iceland and Greenland),GRANTS AND SCHOLARSHIPS,1127124,WIRE / EXCHANGE,0
+201931129349300603,850297355,North America,GRANTS AND SCHOLARSHIPS,41030,WIRE / EXCHANGE,0
+201931129349300603,850297355,Sub-Saharan Africa,GRANTS AND SCHOLARSHIPS,103070,WIRE / EXCHANGE,0
+201931129349300603,850297355,Central America and the Caribbean,SCHOLARSHIPS,140000,WIRE / EXCHANGE,0
+201931129349300603,850297355,East Asia and the Pacific,SCHOLARSHIPS,448150,WIRE / EXCHANGE,0
+201931129349300603,850297355,Europe (Including Iceland and Greenland),SCHOLARSHIPS,884361,WIRE / EXCHANGE,0
+201931129349300603,850297355,North America,SCHOLARSHIPS,56000,WIRE / EXCHANGE,0
+201931129349300603,850297355,Sub-Saharan Africa,SCHOLARSHIPS,83058,WIRE / EXCHANGE,0
 201941349349306264,580566205,Sub-Saharan Africa,Study Abroad Study Abroad,26000,Check,N/A,N/A
 201941349349306264,580566205,East Asia and the Pacific,Study Abroad Study Abroad,42500,Check,N/A,N/A
 201941349349306264,580566205,Central America and the Caribbean,Study Abroad Study Abroad,158525,Check,N/A,N/A
@@ -1014,13 +1199,6 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201932259349300833,231352685,Sub-Saharan Africa,PRIZES/AWARDS,10000,CHECK,N/A,N/A
 201932259349300833,231352685,Sub-Saharan Africa,PRIZES/AWARDS,50000,CHECK,N/A,N/A
 201932259349300833,231352685,Sub-Saharan Africa,INTERNSHIP,10000,CHECK,N/A,N/A
-201922479349300807,135648615,Central America and the Caribbean,Ministry,2290103,Cash transfer,0,Cash
-201922479349300807,135648615,East Asia and the Pacific,Ministry,1473903,Cash transfer,0,Cash
-201922479349300807,135648615,Europe (including Iceland and Greenland),Ministry,2566038,Cash transfer,0,Cash
-201922479349300807,135648615,"North America (including Canada and Mexico, but not the United States)",Ministry,410021,Cash transfer,0,Cash
-201922479349300807,135648615,Russia and the newly independent States,Ministry,290982,Cash transfer,0,Cash
-201922479349300807,135648615,South America,Ministry,2589536,Cash transfer,0,Cash
-201922479349300807,135648615,Sub-Saharan Africa,Ministry,882759,Cash transfer,0,Cash
 201911339349307321,361408475,Central America and the Caribbean,SFCA'S AND OBESITY,29455,WIRE TRSFR.
 201911339349307321,361408475,Europe (Including Iceland and Greenland),SFCA'S AND OBESITY,28926,WIRE TRSFR.
 201911339349307321,361408475,Sub-Saharan Africa,SICKLE CELL RESEARCH,13954,WIRE TRSFR.
@@ -1028,6 +1206,7 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201911339349307321,361408475,Middle East and North Africa,ANTHRAX RESEARCH,17583,WIRE TRSFR.
 201911339349302171,580566143,"NORTH AMERICA - CANADA AND MEXICO, BUT",EDUCATIONAL,10000,WIRE,FMV
 201921359349302372,350868202,North America,EDUCATIONAL ASSISTANCE,29698,CHECK
+201942209349301454,136227366,Middle East and North Africa,TRANSMISSION,69000,WIRE TRANSFER,0
 201911339349303986,042121659,North America,Research,77193,0
 201932689349301303,990113930,East Asia and the Pacific,RESEARCH,41750,CHECK
 201932689349301303,990113930,East Asia and the Pacific,RESEARCH,14468,CHECK
@@ -1604,6 +1783,15 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201931349349302593,231352651,Europe (Including Iceland and Greenland),SPONSORED,10534,ACH
 201931349349302593,231352651,South America,SPONSORED,8316,ACH
 201931349349302593,231352651,North America,SPONSORED,10000,ACH
+201921359349312197,202951275,Sub-Saharan Africa,PEDIATRIC CARE,11923,WIRE
+201921359349312197,202951275,Europe (Including Iceland and Greenland),PEDIATRIC CARE,677298,WIRE
+201921359349312197,202951275,Sub-Saharan Africa,PEDIATRIC CARE,2137056,WIRE
+201921359349312197,202951275,Sub-Saharan Africa,PEDIATRIC CARE,159000,WIRE
+201921359349312197,202951275,Sub-Saharan Africa,PEDIATRIC CARE,5206,WIRE
+201921359349312197,202951275,Sub-Saharan Africa,PEDIATRIC CARE,162943,WIRE
+201921359349312197,202951275,South America,PEDIATRIC CARE,796926,WIRE
+201921359349312197,202951275,Sub-Saharan Africa,PEDIATRIC CARE,1345727,WIRE
+201921359349312197,202951275,South America,PEDIATRIC CARE,566701,WIRE
 201921359349301747,951642394,North America,RSCH SUBAWRD,26241
 201921359349301747,951642394,Europe (Including Iceland and Greenland),RSCH SUBAWRD,7036
 201921359349301747,951642394,Middle East and North Africa,RSCH SUBAWRD,31850
@@ -1639,46 +1827,9 @@ object_id,ein,RgnTxt,PrpsOfGrntTxt,CshGrntAmt,MnnrOfCshDsbrsmntTxt
 201921359349301747,951642394,East Asia and the Pacific,RSCH SUBAWRD,12500
 201921359349301747,951642394,Europe (Including Iceland and Greenland),RSCH SUBAWRD,29050
 201843189349307429,250965603,CENTRAL AMERICA AND THE CARIBBEAN,"TO FUND ROOF REPAIR, EDUCATION PROGRAMS AND SCHOOL SUPPLIES",5200,WIRE TRANSFER,BOOK
+201843179349305914,912132082,BUILDING FUND,11500,CHECK
 201901419349301225,381374230,EUROPE,STUDENT TUITION,32194,WIRE,BOOK
 201901419349301225,381374230,EUROPE,HONORAIUM,10025,WIRE,BOOK
-201843199349305049,416011702,EAST ASIA AND THE PACIFIC,RESEARCH SUBAWARD,20425,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EAST ASIA AND THE PACIFIC,RESEARCH SUBAWARD,15099,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EAST ASIA AND THE PACIFIC,RESEARCH SUBAWARD,26465,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EAST ASIA AND THE PACIFIC,RESEARCH SUBAWARD,61475,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EAST ASIA AND THE PACIFIC,RESEARCH SUBAWARD,14700,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EAST ASIA AND THE PACIFIC,RESEARCH SUBAWARD,250875,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EAST ASIA AND THE PACIFIC,RESEARCH SUBAWARD,66500,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EAST ASIA AND THE PACIFIC,RESEARCH SUBAWARD,159500,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,48840,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,10540,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,22528,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,60000,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,46150,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,12030,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,17538,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,81682,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,51454,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,32224,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,25000,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,25000,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,150259,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,EUROPE (INCLUDING ICELAND & GREENLAND),RESEARCH SUBAWARD,28137,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,MIDDLE EAST AND NORTH AFRICA,RESEARCH SUBAWARD,8228,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,NORTH AMERICA,RESEARCH SUBAWARD,50085,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,NORTH AMERICA,RESEARCH SUBAWARD,7464,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,NORTH AMERICA,RESEARCH SUBAWARD,108604,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,NORTH AMERICA,RESEARCH SUBAWARD,7000,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,NORTH AMERICA,RESEARCH SUBAWARD,20000,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,NORTH AMERICA,RESEARCH SUBAWARD,15460,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,NORTH AMERICA,RESEARCH SUBAWARD,112400,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,NORTH AMERICA,RESEARCH SUBAWARD,505831,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,NORTH AMERICA,RESEARCH SUBAWARD,289452,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,NORTH AMERICA,RESEARCH SUBAWARD,42650,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,NORTH AMERICA,RESEARCH SUBAWARD,19470,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,NORTH AMERICA,RESEARCH SUBAWARD,332454,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,SOUTH AMERICA,RESEARCH SUBAWARD,17250,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,SOUTH ASIA,RESEARCH SUBAWARD,56160,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
-201843199349305049,416011702,SUB-SAHARAN AFRICA,RESEARCH SUBAWARD,7712,"CHECK, ELECTRONIC FUND, OR WIRE TRANSFER",0
 201921369349300117,516000297,North America,Research SubAward Research SubAward,81222,WIRE
 201921369349300117,516000297,Europe (Including Iceland and Greenland),RESEARCH SUBAWARD,76880,WIRE
 201911309349303346,250965591,EAST ASIA AND THE PACIFIC,RESEARCH SUBCONTRACT.,620152,WIRE/CHECK

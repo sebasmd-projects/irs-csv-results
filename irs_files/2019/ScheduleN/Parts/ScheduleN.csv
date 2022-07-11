@@ -1,5 +1,6 @@
 object_id,ein,DrctrOfSccssrInd,EmplyOfSccssrInd,OwnrOfSccssrInd,RcvCmpnstnInd,AsstsDstrbtdInd,RqrdTNtfyAGInd,AttrnyGnrlNtfdInd,LbltsPdInd,BndsOtstndngInd,BndLbltsDschrgdInd,DrctrOfSccssr2Ind,EmplyOfSccssr2Ind,OwnrOfSccssr2Ind,RcvCmpnstn2Ind
 201930679349300303,261901554,true,false,false,false,true,true,-,false,false,-,-,-,-,-
+201920319349301202,860711495,-,-,-,-,-,-,-,-,-,-,false,false,false,false
 201910099349300526,386080947,-,-,-,-,-,-,-,-,-,-,0,0,0,0
 201902269349300845,061331677,-,-,-,-,-,-,-,-,-,-,false,false,false,false
 201803189349205365,550370128,0,0,0,0,1,1,1,1,0,-,-,-,-,-
@@ -7,12 +8,14 @@ object_id,ein,DrctrOfSccssrInd,EmplyOfSccssrInd,OwnrOfSccssrInd,RcvCmpnstnInd,As
 201940449349300979,470384159,-,-,-,-,-,-,-,-,-,-,0,0,0,0
 201930399349300848,620814498,-,-,-,-,-,-,-,-,-,-,false,true,false,false
 201930719349300818,561212691,-,-,-,-,-,-,-,-,-,-,0,0,0,0
+201910159349200731,473385918,true,false,false,false,false,true,-,false,false,-,-,-,-,-
 201931359349303213,340877803,-,-,-,-,-,-,-,-,-,-,false,false,false,false
 201931359349304708,910654200,-,-,-,-,-,-,-,-,-,-,1,0,0,0
 201901039349300015,043250289,-,-,-,-,-,-,-,-,-,-,1,0,0,0
 201911359349311976,741339050,-,-,-,-,-,-,-,-,-,-,false,false,false,false
-201920659349300542,952462737,-,-,-,-,-,-,-,-,-,-,false,false,false,true
-201931169349300443,250965307,1,1,0,0,0,1,1,1,0,-,-,-,-,-
+201941979349200519,471282204,false,false,false,false,false,false,-,true,false,-,-,-,-,-
+201900369349300430,850361090,false,false,false,false,false,false,-,false,false,-,-,-,-,-
+201931649349200043,473537146,1,1,0,0,1,1,1,1,0,-,-,-,-,-
 201901829349300200,264556177,0,0,0,0,1,1,1,1,0,-,-,-,-,-
+201911309349302021,262258318,1,0,0,0,1,1,1,1,0,-,-,-,-,-
 201941359349302229,381358399,-,-,-,-,-,-,-,-,-,-,true,false,false,false
-201813179349300901,131740115,0,0,0,0,1,1,1,1,0,-,-,-,-,-
